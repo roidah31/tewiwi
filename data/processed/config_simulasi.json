@@ -1,0 +1,33 @@
+{
+  "SEED": 42,
+  "H": 7,
+  "SPLIT_DATE": "2022-06-01",
+  "LEAD_TIME": 3,
+  "ORDER_DAYS": 7,
+  "WASTE_PCT": 0.05,
+  "SERVICE_Z": 1.65,
+  "BULK_Q": 0.999,
+  "RESTOCK_DAYS": 0,
+  "EXCESS_DAYS": 7,
+  "SAFETY_DAYS": {
+    "cokelat": 2.0412,
+    "cream_cheese": 2.1963,
+    "garam": 1.6108,
+    "gula": 1.797,
+    "mentega": 1.5758,
+    "ragi_instan": 1.8883,
+    "susu_bubuk": 1.6751,
+    "telur": 1.7558,
+    "tepung_gandum_utuh": 1.636,
+    "terigu_protein_tinggi": 1.6079
+  },
+  "FITUR": [
+    "avg_usage_7",
+    "avg_usage_30",
+    "stok_now",
+    "on_order",
+    "days_since_last_order",
+    "stok_cover_now",
+    "posisi_stok"
+  ]
+}
