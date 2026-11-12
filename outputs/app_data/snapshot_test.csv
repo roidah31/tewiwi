@@ -1,0 +1,1161 @@
+date,bahan,satuan,stok_gudang,sedang_dikirim,perkiraan_pakai_7_hari,sisa_setelah_7_hari,kurang_jika_tidak_pesan,sisa_dalam_hari,status,bagian,jenis_nilai,nilai,baris_laporan
+2022-06-01,Tepung Gandum Utuh,kg,75.3,0.0,95.5,-20.2,20.2,-1.6,Perlu restok,Perlu dibeli,kurang,20.2,"- Tepung Gandum Utuh: kurang 20,2 kg"
+2022-06-01,Mentega,kg,16.8,0.0,20.2,-3.4,3.4,-1.3,Perlu restok,Perlu dibeli,kurang,3.4,"- Mentega: kurang 3,4 kg"
+2022-06-01,Gula,kg,2.4,18.4,20.2,0.6,0.0,0.2,Cukup,Perlu dipantau,sisa,0.6,"- Gula: sisa 0,6 kg setelah 7 hari"
+2022-06-01,Telur,butir,17.0,130.0,141.0,6.0,0.0,0.4,Cukup,Perlu dipantau,sisa,6.0,- Telur: sisa 6 butir setelah 7 hari
+2022-06-01,Garam,kg,3.0,12.1,11.9,3.3,0.0,2.0,Cukup,-,-,,
+2022-06-01,Terigu Protein Tinggi,kg,119.6,495.2,483.3,131.5,0.0,2.0,Cukup,-,-,,
+2022-06-01,Ragi Instan,kg,0.9,1.5,1.4,1.0,0.0,5.8,Cukup,-,-,,
+2022-06-01,Cream Cheese,kg,7.0,11.3,10.6,7.8,0.0,5.9,Cukup,-,-,,
+2022-06-01,Susu Bubuk,kg,3.0,4.6,4.4,3.2,0.0,6.0,Cukup,-,-,,
+2022-06-01,Cokelat,kg,8.3,13.0,12.2,9.1,0.0,6.1,Cukup,-,-,,
+2022-06-02,Tepung Gandum Utuh,kg,67.1,0.0,97.1,-30.0,30.0,-2.4,Perlu restok,Perlu dibeli,kurang,30.0,"- Tepung Gandum Utuh: kurang 30,0 kg"
+2022-06-02,Mentega,kg,14.6,0.0,20.6,-6.0,6.0,-2.3,Perlu restok,Perlu dibeli,kurang,6.0,"- Mentega: kurang 6,0 kg"
+2022-06-02,Gula,kg,18.8,0.0,18.9,-0.1,0.1,-0.0,Perlu restok,Perlu dibeli,kurang,0.1,"- Gula: kurang 0,1 kg"
+2022-06-02,Telur,butir,134.0,0.0,133.0,1.0,0.0,0.0,Cukup,Perlu dipantau,sisa,1.0,- Telur: sisa 1 butir setelah 7 hari
+2022-06-02,Garam,kg,13.9,0.0,11.7,2.3,0.0,1.4,Cukup,-,-,,
+2022-06-02,Terigu Protein Tinggi,kg,566.3,0.0,476.1,90.2,0.0,1.4,Cukup,-,-,,
+2022-06-02,Susu Bubuk,kg,2.5,4.6,4.2,2.9,0.0,5.4,Cukup,-,-,,
+2022-06-02,Ragi Instan,kg,0.8,1.5,1.3,1.0,0.0,5.5,Cukup,-,-,,
+2022-06-02,Cream Cheese,kg,5.9,11.3,10.0,7.3,0.0,5.6,Cukup,-,-,,
+2022-06-02,Cokelat,kg,7.0,13.0,11.4,8.6,0.0,5.8,Cukup,-,-,,
+2022-06-03,Tepung Gandum Utuh,kg,59.4,0.0,100.3,-40.8,40.8,-3.3,Perlu restok,Perlu dibeli,kurang,40.8,"- Tepung Gandum Utuh: kurang 40,8 kg"
+2022-06-03,Gula,kg,17.2,0.0,19.0,-1.8,1.8,-0.7,Perlu restok,Perlu dibeli,kurang,1.8,"- Gula: kurang 1,8 kg"
+2022-06-03,Telur,butir,122.0,0.0,130.0,-8.0,8.0,-0.4,Perlu restok,Perlu dibeli,kurang,8.0,- Telur: kurang 8 butir
+2022-06-03,Terigu Protein Tinggi,kg,521.5,0.0,466.2,55.4,0.0,0.8,Cukup,Perlu dipantau,sisa,55.4,"- Terigu Protein Tinggi: sisa 55,4 kg setelah 7 hari"
+2022-06-03,Garam,kg,12.9,0.0,11.4,1.4,0.0,0.9,Cukup,Perlu dipantau,sisa,1.4,"- Garam: sisa 1,4 kg setelah 7 hari"
+2022-06-03,Mentega,kg,12.6,19.6,19.9,12.3,0.0,4.6,Cukup,-,-,,
+2022-06-03,Susu Bubuk,kg,2.1,4.6,4.0,2.7,0.0,4.9,Cukup,-,-,,
+2022-06-03,Ragi Instan,kg,2.2,0.0,1.2,1.0,0.0,5.6,Cukup,-,-,,
+2022-06-03,Cream Cheese,kg,16.6,0.0,9.0,7.5,0.0,5.7,Cukup,-,-,,
+2022-06-03,Cokelat,kg,19.3,0.0,10.0,9.3,0.0,6.2,Cukup,-,-,,
+2022-06-04,Telur,butir,109.0,0.0,140.0,-31.0,31.0,-1.8,Perlu restok,Perlu dibeli,kurang,31.0,- Telur: kurang 31 butir
+2022-06-04,Gula,kg,15.3,0.0,18.4,-3.1,3.1,-1.2,Perlu restok,Perlu dibeli,kurang,3.1,"- Gula: kurang 3,1 kg"
+2022-06-04,Garam,kg,11.5,0.0,12.1,-0.6,0.6,-0.4,Perlu restok,Perlu dibeli,kurang,0.6,"- Garam: kurang 0,6 kg"
+2022-06-04,Terigu Protein Tinggi,kg,466.8,0.0,493.6,-26.8,26.8,-0.4,Perlu restok,Perlu dibeli,kurang,26.8,"- Terigu Protein Tinggi: kurang 26,8 kg"
+2022-06-04,Tepung Gandum Utuh,kg,49.7,86.3,89.3,46.7,0.0,3.8,Cukup,-,-,,
+2022-06-04,Mentega,kg,10.3,19.6,18.9,11.0,0.0,4.2,Cukup,-,-,,
+2022-06-04,Cream Cheese,kg,15.5,0.0,9.7,5.9,0.0,4.5,Cukup,-,-,,
+2022-06-04,Ragi Instan,kg,2.0,0.0,1.1,0.9,0.0,5.4,Cukup,-,-,,
+2022-06-04,Susu Bubuk,kg,6.2,0.0,3.3,2.9,0.0,5.4,Cukup,-,-,,
+2022-06-04,Cokelat,kg,18.2,0.0,9.6,8.5,0.0,5.8,Cukup,-,-,,
+2022-06-05,Terigu Protein Tinggi,kg,387.0,0.0,480.2,-93.3,93.3,-1.4,Perlu restok,Perlu dibeli,kurang,93.3,"- Terigu Protein Tinggi: kurang 93,3 kg"
+2022-06-05,Garam,kg,9.6,0.0,11.8,-2.2,2.2,-1.3,Perlu restok,Perlu dibeli,kurang,2.2,"- Garam: kurang 2,2 kg"
+2022-06-05,Tepung Gandum Utuh,kg,36.4,86.3,98.5,24.2,0.0,2.0,Cukup,-,-,,
+2022-06-05,Mentega,kg,6.8,19.6,18.0,8.4,0.0,3.1,Cukup,-,-,,
+2022-06-05,Cream Cheese,kg,13.3,0.0,8.9,4.4,0.0,3.2,Cukup,-,-,,
+2022-06-05,Susu Bubuk,kg,5.3,0.0,3.4,1.9,0.0,3.5,Cukup,-,-,,
+2022-06-05,Ragi Instan,kg,1.8,0.0,1.1,0.7,0.0,3.8,Cukup,-,-,,
+2022-06-05,Gula,kg,11.9,18.6,20.0,10.4,0.0,4.0,Cukup,-,-,,
+2022-06-05,Telur,butir,84.0,131.0,140.0,75.0,0.0,4.1,Cukup,-,-,,
+2022-06-05,Cokelat,kg,16.3,0.0,8.6,7.7,0.0,5.2,Cukup,-,-,,
+2022-06-06,Cream Cheese,kg,9.1,0.0,11.9,-2.8,2.8,-1.9,Perlu restok,Perlu dibeli,kurang,2.8,"- Cream Cheese: kurang 2,8 kg"
+2022-06-06,Ragi Instan,kg,1.2,0.0,1.4,-0.2,0.2,-1.1,Perlu restok,Perlu dibeli,kurang,0.2,"- Ragi Instan: kurang 0,2 kg"
+2022-06-06,Cokelat,kg,10.9,0.0,12.4,-1.5,1.5,-0.9,Perlu restok,Perlu dibeli,kurang,1.5,"- Cokelat: kurang 1,5 kg"
+2022-06-06,Susu Bubuk,kg,4.0,0.0,4.4,-0.4,0.4,-0.7,Perlu restok,Perlu dibeli,kurang,0.4,"- Susu Bubuk: kurang 0,4 kg"
+2022-06-06,Mentega,kg,19.6,0.0,21.4,-1.8,1.8,-0.6,Perlu restok,Perlu dibeli,kurang,1.8,"- Mentega: kurang 1,8 kg"
+2022-06-06,Tepung Gandum Utuh,kg,11.0,86.3,103.3,-5.9,5.9,-0.5,Perlu restok,Perlu dibeli,kurang,5.9,"- Tepung Gandum Utuh: kurang 5,9 kg"
+2022-06-06,Telur,butir,37.0,131.0,154.0,14.0,0.0,0.7,Cukup,Perlu dipantau,sisa,14.0,- Telur: sisa 14 butir setelah 7 hari
+2022-06-06,Gula,kg,4.9,18.6,20.8,2.6,0.0,1.0,Cukup,-,-,,
+2022-06-06,Terigu Protein Tinggi,kg,237.0,492.9,495.6,234.3,0.0,3.4,Cukup,-,-,,
+2022-06-06,Garam,kg,6.0,12.0,11.5,6.5,0.0,3.8,Cukup,-,-,,
+2022-06-07,Mentega,kg,14.1,0.0,24.5,-10.4,10.4,-3.5,Perlu restok,Perlu dibeli,kurang,10.4,"- Mentega: kurang 10,4 kg"
+2022-06-07,Telur,butir,0.0,131.0,199.0,-67.0,67.0,-3.3,Perlu restok,Perlu dibeli,kurang,67.0,- Telur: kurang 67 butir
+2022-06-07,Tepung Gandum Utuh,kg,74.5,0.0,110.4,-35.9,35.9,-2.7,Perlu restok,Perlu dibeli,kurang,35.9,"- Tepung Gandum Utuh: kurang 35,9 kg"
+2022-06-07,Gula,kg,0.0,18.6,25.6,-7.1,7.1,-2.5,Perlu restok,Perlu dibeli,kurang,7.1,"- Gula: kurang 7,1 kg"
+2022-06-07,Terigu Protein Tinggi,kg,106.0,492.9,613.9,-15.1,15.1,-0.2,Perlu restok,Perlu dibeli,kurang,15.1,"- Terigu Protein Tinggi: kurang 15,1 kg"
+2022-06-07,Garam,kg,2.8,12.0,14.1,0.7,0.0,0.4,Cukup,Perlu dipantau,sisa,0.7,"- Garam: sisa 0,7 kg setelah 7 hari"
+2022-06-07,Cream Cheese,kg,5.4,11.3,12.8,3.9,0.0,2.5,Cukup,-,-,,
+2022-06-07,Cokelat,kg,5.9,13.1,12.8,6.2,0.0,3.5,Cukup,-,-,,
+2022-06-07,Ragi Instan,kg,0.7,1.5,1.5,0.7,0.0,3.5,Cukup,-,-,,
+2022-06-07,Susu Bubuk,kg,2.9,4.7,4.9,2.7,0.0,4.5,Cukup,-,-,,
+2022-06-08,Tepung Gandum Utuh,kg,67.0,0.0,108.1,-41.1,41.1,-3.2,Perlu restok,Perlu dibeli,kurang,41.1,"- Tepung Gandum Utuh: kurang 41,1 kg"
+2022-06-08,Gula,kg,16.9,0.0,22.0,-5.1,5.1,-1.8,Perlu restok,Perlu dibeli,kurang,5.1,"- Gula: kurang 5,1 kg"
+2022-06-08,Telur,butir,119.0,0.0,154.0,-35.0,35.0,-1.8,Perlu restok,Perlu dibeli,kurang,35.0,- Telur: kurang 35 butir
+2022-06-08,Garam,kg,1.7,12.0,14.3,-0.6,0.6,-0.3,Perlu restok,Perlu dibeli,kurang,0.6,"- Garam: kurang 0,6 kg"
+2022-06-08,Terigu Protein Tinggi,kg,60.8,492.9,570.6,-16.9,16.9,-0.2,Perlu restok,Perlu dibeli,kurang,16.9,"- Terigu Protein Tinggi: kurang 16,9 kg"
+2022-06-08,Cokelat,kg,4.9,13.1,13.3,4.6,0.0,2.8,Cukup,-,-,,
+2022-06-08,Ragi Instan,kg,0.6,1.5,1.5,0.6,0.0,2.8,Cukup,-,-,,
+2022-06-08,Cream Cheese,kg,4.9,11.3,11.3,4.9,0.0,3.3,Cukup,-,-,,
+2022-06-08,Mentega,kg,11.8,21.8,21.4,12.2,0.0,4.2,Cukup,-,-,,
+2022-06-08,Susu Bubuk,kg,2.6,4.7,4.7,2.6,0.0,4.4,Cukup,-,-,,
+2022-06-09,Tepung Gandum Utuh,kg,60.6,0.0,110.6,-49.9,49.9,-3.9,Perlu restok,Perlu dibeli,kurang,49.9,"- Tepung Gandum Utuh: kurang 49,9 kg"
+2022-06-09,Gula,kg,15.5,0.0,21.8,-6.3,6.3,-2.3,Perlu restok,Perlu dibeli,kurang,6.3,"- Gula: kurang 6,3 kg"
+2022-06-09,Telur,butir,109.0,0.0,153.0,-43.0,43.0,-2.2,Perlu restok,Perlu dibeli,kurang,43.0,- Telur: kurang 43 butir
+2022-06-09,Terigu Protein Tinggi,kg,515.2,0.0,518.3,-3.1,3.1,-0.0,Perlu restok,Perlu dibeli,kurang,3.1,"- Terigu Protein Tinggi: kurang 3,1 kg"
+2022-06-09,Garam,kg,12.8,0.0,12.6,0.2,0.0,0.1,Cukup,Perlu dipantau,sisa,0.2,"- Garam: sisa 0,2 kg setelah 7 hari"
+2022-06-09,Ragi Instan,kg,0.5,1.5,1.5,0.5,0.0,2.4,Cukup,-,-,,
+2022-06-09,Cokelat,kg,4.2,13.1,12.8,4.4,0.0,2.7,Cukup,-,-,,
+2022-06-09,Cream Cheese,kg,4.5,11.3,11.4,4.4,0.0,3.0,Cukup,-,-,,
+2022-06-09,Mentega,kg,9.9,21.8,21.1,10.6,0.0,3.6,Cukup,-,-,,
+2022-06-09,Susu Bubuk,kg,2.2,4.7,4.6,2.3,0.0,3.9,Cukup,-,-,,
+2022-06-10,Terigu Protein Tinggi,kg,467.3,0.0,511.5,-44.2,44.2,-0.6,Perlu restok,Perlu dibeli,kurang,44.2,"- Terigu Protein Tinggi: kurang 44,2 kg"
+2022-06-10,Garam,kg,11.6,0.0,12.5,-0.9,0.9,-0.5,Perlu restok,Perlu dibeli,kurang,0.9,"- Garam: kurang 0,9 kg"
+2022-06-10,Cokelat,kg,16.2,0.0,12.1,4.1,0.0,2.4,Cukup,-,-,,
+2022-06-10,Ragi Instan,kg,1.9,0.0,1.4,0.5,0.0,2.4,Cukup,-,-,,
+2022-06-10,Mentega,kg,8.2,21.8,21.9,8.0,0.0,2.7,Cukup,-,-,,
+2022-06-10,Cream Cheese,kg,14.9,0.0,10.6,4.3,0.0,2.9,Cukup,-,-,,
+2022-06-10,Tepung Gandum Utuh,kg,52.0,89.2,96.0,45.2,0.0,3.6,Cukup,-,-,,
+2022-06-10,Susu Bubuk,kg,6.4,0.0,4.0,2.5,0.0,4.2,Cukup,-,-,,
+2022-06-10,Gula,kg,13.8,20.4,21.1,13.1,0.0,4.7,Cukup,-,-,,
+2022-06-10,Telur,butir,97.0,143.0,148.0,93.0,0.0,4.7,Cukup,-,-,,
+2022-06-11,Terigu Protein Tinggi,kg,425.4,0.0,526.5,-101.1,101.1,-1.5,Perlu restok,Perlu dibeli,kurang,101.1,"- Terigu Protein Tinggi: kurang 101,1 kg"
+2022-06-11,Garam,kg,10.6,0.0,12.9,-2.4,2.4,-1.4,Perlu restok,Perlu dibeli,kurang,2.4,"- Garam: kurang 2,4 kg"
+2022-06-11,Cokelat,kg,15.4,0.0,12.2,3.1,0.0,1.9,Cukup,-,-,,
+2022-06-11,Ragi Instan,kg,1.8,0.0,1.4,0.4,0.0,1.9,Cukup,-,-,,
+2022-06-11,Tepung Gandum Utuh,kg,44.1,89.2,106.0,27.3,0.0,2.1,Cukup,-,-,,
+2022-06-11,Cream Cheese,kg,14.3,0.0,10.6,3.7,0.0,2.5,Cukup,-,-,,
+2022-06-11,Mentega,kg,28.6,0.0,20.8,7.8,0.0,2.7,Cukup,-,-,,
+2022-06-11,Susu Bubuk,kg,6.1,0.0,4.3,1.9,0.0,3.2,Cukup,-,-,,
+2022-06-11,Telur,butir,88.0,143.0,148.0,83.0,0.0,4.2,Cukup,-,-,,
+2022-06-11,Gula,kg,12.6,20.4,21.0,12.0,0.0,4.3,Cukup,-,-,,
+2022-06-12,Terigu Protein Tinggi,kg,340.4,0.0,538.1,-197.7,197.7,-2.8,Perlu restok,Perlu dibeli,kurang,197.7,"- Terigu Protein Tinggi: kurang 197,7 kg"
+2022-06-12,Garam,kg,8.5,0.0,13.1,-4.6,4.6,-2.7,Perlu restok,Perlu dibeli,kurang,4.6,"- Garam: kurang 4,6 kg"
+2022-06-12,Cokelat,kg,12.8,0.0,12.1,0.8,0.0,0.4,Cukup,Perlu dipantau,sisa,0.8,"- Cokelat: sisa 0,8 kg setelah 7 hari"
+2022-06-12,Cream Cheese,kg,12.3,0.0,11.6,0.8,0.0,0.5,Cukup,Perlu dipantau,sisa,0.8,"- Cream Cheese: sisa 0,8 kg setelah 7 hari"
+2022-06-12,Ragi Instan,kg,1.5,0.0,1.4,0.1,0.0,0.6,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-06-12,Tepung Gandum Utuh,kg,29.2,89.2,108.4,10.0,0.0,0.8,Cukup,Perlu dipantau,sisa,10.0,"- Tepung Gandum Utuh: sisa 10,0 kg setelah 7 hari"
+2022-06-12,Mentega,kg,25.1,0.0,21.4,3.8,0.0,1.3,Cukup,-,-,,
+2022-06-12,Susu Bubuk,kg,5.4,0.0,4.4,1.0,0.0,1.7,Cukup,-,-,,
+2022-06-12,Gula,kg,9.1,20.4,23.2,6.3,0.0,2.2,Cukup,-,-,,
+2022-06-12,Telur,butir,64.0,143.0,163.0,44.0,0.0,2.2,Cukup,-,-,,
+2022-06-13,Ragi Instan,kg,1.1,0.0,1.7,-0.6,0.6,-2.9,Perlu restok,Perlu dibeli,kurang,0.6,"- Ragi Instan: kurang 0,6 kg"
+2022-06-13,Cream Cheese,kg,9.6,0.0,11.1,-1.6,1.6,-1.0,Perlu restok,Perlu dibeli,kurang,1.6,"- Cream Cheese: kurang 1,6 kg"
+2022-06-13,Mentega,kg,21.0,0.0,21.1,-0.1,0.1,-0.0,Perlu restok,Perlu dibeli,kurang,0.1,"- Mentega: kurang 0,1 kg"
+2022-06-13,Susu Bubuk,kg,4.6,0.0,4.2,0.4,0.0,0.6,Cukup,Perlu dipantau,sisa,0.4,"- Susu Bubuk: sisa 0,4 kg setelah 7 hari"
+2022-06-13,Tepung Gandum Utuh,kg,101.7,0.0,90.2,11.5,0.0,0.9,Cukup,Perlu dipantau,sisa,11.5,"- Tepung Gandum Utuh: sisa 11,5 kg setelah 7 hari"
+2022-06-13,Telur,butir,178.0,0.0,154.0,24.0,0.0,1.1,Cukup,-,-,,
+2022-06-13,Gula,kg,25.0,0.0,19.9,5.1,0.0,1.7,Cukup,-,-,,
+2022-06-13,Terigu Protein Tinggi,kg,243.7,527.3,513.1,257.9,0.0,3.5,Cukup,-,-,,
+2022-06-13,Garam,kg,6.2,12.8,11.9,7.1,0.0,4.0,Cukup,-,-,,
+2022-06-13,Cokelat,kg,9.3,13.7,13.8,9.3,0.0,5.1,Cukup,-,-,,
+2022-06-14,Cream Cheese,kg,9.0,12.3,9.2,12.0,0.0,7.5,Berlebih,Berpotensi berlebih,sisa,12.0,"- Cream Cheese: sisa 12,0 kg setelah 7 hari"
+2022-06-14,Mentega,kg,18.7,0.0,17.2,1.5,0.0,0.5,Cukup,Perlu dipantau,sisa,1.5,"- Mentega: sisa 1,5 kg setelah 7 hari"
+2022-06-14,Susu Bubuk,kg,4.2,0.0,3.6,0.6,0.0,1.0,Cukup,-,-,,
+2022-06-14,Tepung Gandum Utuh,kg,93.6,0.0,75.7,17.8,0.0,1.3,Cukup,-,-,,
+2022-06-14,Telur,butir,164.0,0.0,122.0,42.0,0.0,2.0,Cukup,-,-,,
+2022-06-14,Gula,kg,23.1,0.0,16.9,6.2,0.0,2.1,Cukup,-,-,,
+2022-06-14,Terigu Protein Tinggi,kg,195.5,527.3,424.9,298.0,0.0,4.1,Cukup,-,-,,
+2022-06-14,Garam,kg,5.0,12.8,10.5,7.3,0.0,4.2,Cukup,-,-,,
+2022-06-14,Cokelat,kg,7.9,13.7,11.4,10.2,0.0,5.6,Cukup,-,-,,
+2022-06-14,Ragi Instan,kg,1.0,1.6,1.2,1.4,0.0,6.7,Cukup,-,-,,
+2022-06-15,Mentega,kg,16.6,0.0,17.4,-0.8,0.8,-0.3,Perlu restok,Perlu dibeli,kurang,0.8,"- Mentega: kurang 0,8 kg"
+2022-06-15,Cream Cheese,kg,8.2,12.3,9.2,11.2,0.0,7.4,Berlebih,Berpotensi berlebih,sisa,11.2,"- Cream Cheese: sisa 11,2 kg setelah 7 hari"
+2022-06-15,Susu Bubuk,kg,3.8,0.0,3.6,0.2,0.0,0.3,Cukup,Perlu dipantau,sisa,0.2,"- Susu Bubuk: sisa 0,2 kg setelah 7 hari"
+2022-06-15,Tepung Gandum Utuh,kg,84.7,0.0,73.9,10.8,0.0,0.8,Cukup,Perlu dipantau,sisa,10.8,"- Tepung Gandum Utuh: sisa 10,8 kg setelah 7 hari"
+2022-06-15,Gula,kg,21.3,0.0,16.3,5.0,0.0,1.7,Cukup,-,-,,
+2022-06-15,Telur,butir,152.0,0.0,115.0,37.0,0.0,1.8,Cukup,-,-,,
+2022-06-15,Garam,kg,3.8,12.8,10.4,6.2,0.0,3.6,Cukup,-,-,,
+2022-06-15,Terigu Protein Tinggi,kg,145.0,527.3,418.6,253.7,0.0,3.6,Cukup,-,-,,
+2022-06-15,Cokelat,kg,6.8,13.7,11.6,9.0,0.0,5.1,Cukup,-,-,,
+2022-06-15,Ragi Instan,kg,0.9,1.6,1.3,1.2,0.0,6.0,Cukup,-,-,,
+2022-06-16,Mentega,kg,14.6,0.0,17.4,-2.8,2.8,-0.9,Perlu restok,Perlu dibeli,kurang,2.8,"- Mentega: kurang 2,8 kg"
+2022-06-16,Susu Bubuk,kg,3.3,0.0,3.7,-0.3,0.3,-0.5,Perlu restok,Perlu dibeli,kurang,0.3,"- Susu Bubuk: kurang 0,3 kg"
+2022-06-16,Tepung Gandum Utuh,kg,75.4,0.0,76.4,-1.0,1.0,-0.1,Perlu restok,Perlu dibeli,kurang,1.0,"- Tepung Gandum Utuh: kurang 1,0 kg"
+2022-06-16,Telur,butir,141.0,0.0,116.0,25.0,0.0,1.2,Cukup,-,-,,
+2022-06-16,Gula,kg,19.9,0.0,16.1,3.7,0.0,1.3,Cukup,-,-,,
+2022-06-16,Terigu Protein Tinggi,kg,621.4,0.0,430.2,191.2,0.0,2.7,Cukup,-,-,,
+2022-06-16,Garam,kg,15.3,0.0,10.5,4.8,0.0,2.8,Cukup,-,-,,
+2022-06-16,Cokelat,kg,19.9,0.0,12.0,7.9,0.0,4.5,Cukup,-,-,,
+2022-06-16,Ragi Instan,kg,0.8,1.6,1.3,1.1,0.0,5.6,Cukup,-,-,,
+2022-06-16,Cream Cheese,kg,7.5,12.3,9.1,10.6,0.0,7.0,Cukup,-,-,,
+2022-06-17,Tepung Gandum Utuh,kg,67.6,0.0,73.9,-6.3,6.3,-0.5,Perlu restok,Perlu dibeli,kurang,6.3,"- Tepung Gandum Utuh: kurang 6,3 kg"
+2022-06-17,Susu Bubuk,kg,3.0,4.8,3.6,4.2,0.0,7.0,Berlebih,Berpotensi berlebih,sisa,4.2,"- Susu Bubuk: sisa 4,2 kg setelah 7 hari"
+2022-06-17,Gula,kg,18.2,0.0,16.5,1.7,0.0,0.6,Cukup,Perlu dipantau,sisa,1.7,"- Gula: sisa 1,7 kg setelah 7 hari"
+2022-06-17,Telur,butir,130.0,0.0,116.0,13.0,0.0,0.7,Cukup,Perlu dipantau,sisa,13.0,- Telur: sisa 13 butir setelah 7 hari
+2022-06-17,Terigu Protein Tinggi,kg,577.5,0.0,415.1,162.4,0.0,2.3,Cukup,-,-,,
+2022-06-17,Garam,kg,14.3,0.0,10.2,4.1,0.0,2.4,Cukup,-,-,,
+2022-06-17,Cokelat,kg,18.7,0.0,12.7,5.9,0.0,3.4,Cukup,-,-,,
+2022-06-17,Ragi Instan,kg,2.3,0.0,1.4,0.9,0.0,4.4,Cukup,-,-,,
+2022-06-17,Mentega,kg,12.9,21.9,16.9,17.9,0.0,6.0,Cukup,-,-,,
+2022-06-17,Cream Cheese,kg,19.0,0.0,9.2,9.8,0.0,6.5,Cukup,-,-,,
+2022-06-18,Telur,butir,119.0,0.0,116.0,3.0,0.0,0.1,Cukup,Perlu dipantau,sisa,3.0,- Telur: sisa 3 butir setelah 7 hari
+2022-06-18,Gula,kg,16.9,0.0,16.3,0.5,0.0,0.2,Cukup,Perlu dipantau,sisa,0.5,"- Gula: sisa 0,5 kg setelah 7 hari"
+2022-06-18,Terigu Protein Tinggi,kg,532.0,0.0,432.8,99.2,0.0,1.4,Cukup,-,-,,
+2022-06-18,Garam,kg,13.1,0.0,10.6,2.6,0.0,1.5,Cukup,-,-,,
+2022-06-18,Cokelat,kg,18.0,0.0,12.4,5.7,0.0,3.2,Cukup,-,-,,
+2022-06-18,Ragi Instan,kg,2.2,0.0,1.4,0.8,0.0,4.0,Cukup,-,-,,
+2022-06-18,Mentega,kg,11.2,21.9,17.3,15.9,0.0,5.3,Cukup,-,-,,
+2022-06-18,Cream Cheese,kg,18.5,0.0,9.5,9.0,0.0,5.9,Cukup,-,-,,
+2022-06-18,Tepung Gandum Utuh,kg,59.4,91.3,73.0,77.7,0.0,6.0,Cukup,-,-,,
+2022-06-18,Susu Bubuk,kg,2.6,4.8,3.6,3.8,0.0,6.4,Cukup,-,-,,
+2022-06-19,Terigu Protein Tinggi,kg,446.9,0.0,429.5,17.5,0.0,0.2,Cukup,Perlu dipantau,sisa,17.5,"- Terigu Protein Tinggi: sisa 17,5 kg setelah 7 hari"
+2022-06-19,Garam,kg,11.1,0.0,10.5,0.6,0.0,0.3,Cukup,Perlu dipantau,sisa,0.6,"- Garam: sisa 0,6 kg setelah 7 hari"
+2022-06-19,Cokelat,kg,16.2,0.0,10.7,5.5,0.0,3.1,Cukup,-,-,,
+2022-06-19,Ragi Instan,kg,1.9,0.0,1.2,0.7,0.0,3.4,Cukup,-,-,,
+2022-06-19,Cream Cheese,kg,16.1,0.0,10.0,6.1,0.0,3.8,Cukup,-,-,,
+2022-06-19,Mentega,kg,7.9,21.9,17.6,12.2,0.0,4.0,Cukup,-,-,,
+2022-06-19,Tepung Gandum Utuh,kg,44.3,91.3,76.8,58.8,0.0,4.4,Cukup,-,-,,
+2022-06-19,Susu Bubuk,kg,1.8,4.8,3.8,2.8,0.0,4.5,Cukup,-,-,,
+2022-06-19,Gula,kg,13.6,21.1,16.6,18.0,0.0,6.2,Cukup,-,-,,
+2022-06-19,Telur,butir,96.0,148.0,117.0,127.0,0.0,6.2,Cukup,-,-,,
+2022-06-20,Cokelat,kg,12.4,0.0,10.8,1.6,0.0,0.9,Cukup,Perlu dipantau,sisa,1.6,"- Cokelat: sisa 1,6 kg setelah 7 hari"
+2022-06-20,Ragi Instan,kg,1.5,0.0,1.3,0.2,0.0,1.1,Cukup,-,-,,
+2022-06-20,Cream Cheese,kg,12.5,0.0,9.8,2.7,0.0,1.6,Cukup,-,-,,
+2022-06-20,Mentega,kg,24.6,0.0,18.3,6.3,0.0,2.0,Cukup,-,-,,
+2022-06-20,Susu Bubuk,kg,5.4,0.0,4.1,1.3,0.0,2.1,Cukup,-,-,,
+2022-06-20,Tepung Gandum Utuh,kg,25.1,91.3,77.5,38.8,0.0,2.8,Cukup,-,-,,
+2022-06-20,Gula,kg,8.1,21.1,17.5,11.7,0.0,3.8,Cukup,-,-,,
+2022-06-20,Telur,butir,58.0,148.0,123.0,83.0,0.0,3.9,Cukup,-,-,,
+2022-06-20,Garam,kg,8.3,13.1,10.7,10.7,0.0,5.8,Cukup,-,-,,
+2022-06-20,Terigu Protein Tinggi,kg,331.7,538.8,436.2,434.4,0.0,5.8,Cukup,-,-,,
+2022-06-21,Cokelat,kg,11.2,0.0,10.6,0.6,0.0,0.3,Cukup,Perlu dipantau,sisa,0.6,"- Cokelat: sisa 0,6 kg setelah 7 hari"
+2022-06-21,Ragi Instan,kg,1.4,0.0,1.3,0.1,0.0,0.4,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-06-21,Cream Cheese,kg,11.3,0.0,10.4,1.0,0.0,0.6,Cukup,Perlu dipantau,sisa,1.0,"- Cream Cheese: sisa 1,0 kg setelah 7 hari"
+2022-06-21,Susu Bubuk,kg,4.8,0.0,4.4,0.5,0.0,0.7,Cukup,Perlu dipantau,sisa,0.5,"- Susu Bubuk: sisa 0,5 kg setelah 7 hari"
+2022-06-21,Mentega,kg,22.6,0.0,18.2,4.4,0.0,1.4,Cukup,-,-,,
+2022-06-21,Tepung Gandum Utuh,kg,107.5,0.0,77.0,30.6,0.0,2.2,Cukup,-,-,,
+2022-06-21,Telur,butir,43.0,148.0,124.0,67.0,0.0,3.2,Cukup,-,-,,
+2022-06-21,Gula,kg,6.0,21.1,17.2,9.9,0.0,3.3,Cukup,-,-,,
+2022-06-21,Terigu Protein Tinggi,kg,280.0,538.8,445.3,373.6,0.0,5.0,Cukup,-,-,,
+2022-06-21,Garam,kg,7.0,13.1,10.9,9.3,0.0,5.1,Cukup,-,-,,
+2022-06-22,Ragi Instan,kg,1.2,0.0,1.4,-0.2,0.2,-0.8,Perlu restok,Perlu dibeli,kurang,0.2,"- Ragi Instan: kurang 0,2 kg"
+2022-06-22,Cream Cheese,kg,10.2,0.0,10.7,-0.5,0.5,-0.3,Perlu restok,Perlu dibeli,kurang,0.5,"- Cream Cheese: kurang 0,5 kg"
+2022-06-22,Susu Bubuk,kg,4.3,0.0,4.3,0.0,0.0,0.0,Cukup,Perlu dipantau,sisa,0.0,"- Susu Bubuk: sisa 0,0 kg setelah 7 hari"
+2022-06-22,Mentega,kg,20.2,0.0,18.5,1.7,0.0,0.6,Cukup,Perlu dipantau,sisa,1.7,"- Mentega: sisa 1,7 kg setelah 7 hari"
+2022-06-22,Tepung Gandum Utuh,kg,99.1,0.0,77.1,22.0,0.0,1.6,Cukup,-,-,,
+2022-06-22,Telur,butir,174.0,0.0,128.0,46.0,0.0,2.2,Cukup,-,-,,
+2022-06-22,Gula,kg,24.8,0.0,18.1,6.7,0.0,2.3,Cukup,-,-,,
+2022-06-22,Terigu Protein Tinggi,kg,228.8,538.8,439.2,328.3,0.0,4.5,Cukup,-,-,,
+2022-06-22,Garam,kg,5.8,13.1,10.8,8.2,0.0,4.6,Cukup,-,-,,
+2022-06-22,Cokelat,kg,9.5,14.5,11.4,12.6,0.0,7.0,Cukup,-,-,,
+2022-06-23,Cream Cheese,kg,9.3,0.0,11.2,-2.0,2.0,-1.2,Perlu restok,Perlu dibeli,kurang,2.0,"- Cream Cheese: kurang 2,0 kg"
+2022-06-23,Susu Bubuk,kg,3.9,0.0,4.3,-0.4,0.4,-0.7,Perlu restok,Perlu dibeli,kurang,0.4,"- Susu Bubuk: kurang 0,4 kg"
+2022-06-23,Mentega,kg,18.3,0.0,18.9,-0.7,0.7,-0.2,Perlu restok,Perlu dibeli,kurang,0.7,"- Mentega: kurang 0,7 kg"
+2022-06-23,Tepung Gandum Utuh,kg,92.6,0.0,76.1,16.5,0.0,1.2,Cukup,-,-,,
+2022-06-23,Gula,kg,22.8,0.0,18.3,4.5,0.0,1.5,Cukup,-,-,,
+2022-06-23,Telur,butir,161.0,0.0,129.0,32.0,0.0,1.5,Cukup,-,-,,
+2022-06-23,Terigu Protein Tinggi,kg,726.2,0.0,473.0,253.2,0.0,3.5,Cukup,-,-,,
+2022-06-23,Garam,kg,17.9,0.0,11.4,6.5,0.0,3.7,Cukup,-,-,,
+2022-06-23,Cokelat,kg,8.3,14.5,12.1,10.6,0.0,5.8,Cukup,-,-,,
+2022-06-23,Ragi Instan,kg,1.1,1.6,1.3,1.3,0.0,6.4,Cukup,-,-,,
+2022-06-24,Susu Bubuk,kg,3.5,0.0,4.5,-1.0,1.0,-1.6,Perlu restok,Perlu dibeli,kurang,1.0,"- Susu Bubuk: kurang 1,0 kg"
+2022-06-24,Mentega,kg,16.2,0.0,19.0,-2.8,2.8,-0.9,Perlu restok,Perlu dibeli,kurang,2.8,"- Mentega: kurang 2,8 kg"
+2022-06-24,Tepung Gandum Utuh,kg,83.7,0.0,76.0,7.7,0.0,0.6,Cukup,Perlu dipantau,sisa,7.7,"- Tepung Gandum Utuh: sisa 7,7 kg setelah 7 hari"
+2022-06-24,Telur,butir,148.0,0.0,132.0,15.0,0.0,0.7,Cukup,Perlu dipantau,sisa,15.0,- Telur: sisa 15 butir setelah 7 hari
+2022-06-24,Gula,kg,20.9,0.0,18.3,2.6,0.0,0.9,Cukup,Perlu dipantau,sisa,2.6,"- Gula: sisa 2,6 kg setelah 7 hari"
+2022-06-24,Terigu Protein Tinggi,kg,676.7,0.0,449.5,227.3,0.0,3.1,Cukup,-,-,,
+2022-06-24,Garam,kg,16.7,0.0,10.8,5.9,0.0,3.3,Cukup,-,-,,
+2022-06-24,Cokelat,kg,7.0,14.5,12.2,9.3,0.0,5.1,Cukup,-,-,,
+2022-06-24,Ragi Instan,kg,0.9,1.6,1.4,1.1,0.0,5.3,Cukup,-,-,,
+2022-06-24,Cream Cheese,kg,8.0,12.3,11.0,9.4,0.0,5.7,Cukup,-,-,,
+2022-06-25,Gula,kg,18.9,0.0,20.1,-1.2,1.2,-0.4,Perlu restok,Perlu dibeli,kurang,1.2,"- Gula: kurang 1,2 kg"
+2022-06-25,Tepung Gandum Utuh,kg,73.8,0.0,78.8,-5.0,5.0,-0.4,Perlu restok,Perlu dibeli,kurang,5.0,"- Tepung Gandum Utuh: kurang 5,0 kg"
+2022-06-25,Telur,butir,133.0,0.0,140.0,-7.0,7.0,-0.3,Perlu restok,Perlu dibeli,kurang,7.0,- Telur: kurang 7 butir
+2022-06-25,Terigu Protein Tinggi,kg,621.4,0.0,461.6,159.8,0.0,2.2,Cukup,-,-,,
+2022-06-25,Garam,kg,15.4,0.0,11.2,4.2,0.0,2.4,Cukup,-,-,,
+2022-06-25,Cream Cheese,kg,6.8,12.3,12.7,6.5,0.0,3.9,Cukup,-,-,,
+2022-06-25,Cokelat,kg,20.1,0.0,12.8,7.4,0.0,4.0,Cukup,-,-,,
+2022-06-25,Ragi Instan,kg,0.7,1.6,1.4,1.0,0.0,4.6,Cukup,-,-,,
+2022-06-25,Mentega,kg,14.0,22.5,19.2,17.3,0.0,5.7,Cukup,-,-,,
+2022-06-25,Susu Bubuk,kg,3.0,5.0,4.2,3.8,0.0,6.0,Cukup,-,-,,
+2022-06-26,Gula,kg,16.5,0.0,19.5,-3.0,3.0,-1.0,Perlu restok,Perlu dibeli,kurang,3.0,"- Gula: kurang 3,0 kg"
+2022-06-26,Telur,butir,117.0,0.0,137.0,-20.0,20.0,-1.0,Perlu restok,Perlu dibeli,kurang,20.0,- Telur: kurang 20 butir
+2022-06-26,Terigu Protein Tinggi,kg,540.5,0.0,471.6,68.9,0.0,1.0,Cukup,-,-,,
+2022-06-26,Garam,kg,13.3,0.0,11.4,1.9,0.0,1.1,Cukup,-,-,,
+2022-06-26,Cokelat,kg,18.7,0.0,12.5,6.2,0.0,3.4,Cukup,-,-,,
+2022-06-26,Ragi Instan,kg,2.2,0.0,1.3,0.9,0.0,4.2,Cukup,-,-,,
+2022-06-26,Cream Cheese,kg,5.4,12.3,10.1,7.6,0.0,4.8,Cukup,-,-,,
+2022-06-26,Mentega,kg,11.5,22.5,18.8,15.2,0.0,5.1,Cukup,-,-,,
+2022-06-26,Tepung Gandum Utuh,kg,58.2,93.2,78.6,72.9,0.0,5.7,Cukup,-,-,,
+2022-06-26,Susu Bubuk,kg,2.5,5.0,3.8,3.6,0.0,6.1,Cukup,-,-,,
+2022-06-27,Terigu Protein Tinggi,kg,438.7,0.0,463.5,-24.8,24.8,-0.4,Perlu restok,Perlu dibeli,kurang,24.8,"- Terigu Protein Tinggi: kurang 24,8 kg"
+2022-06-27,Garam,kg,10.9,0.0,11.3,-0.5,0.5,-0.3,Perlu restok,Perlu dibeli,kurang,0.5,"- Garam: kurang 0,5 kg"
+2022-06-27,Cokelat,kg,15.9,0.0,11.5,4.4,0.0,2.5,Cukup,-,-,,
+2022-06-27,Cream Cheese,kg,14.6,0.0,10.8,3.9,0.0,2.5,Cukup,-,-,,
+2022-06-27,Ragi Instan,kg,1.8,0.0,1.3,0.5,0.0,2.6,Cukup,-,-,,
+2022-06-27,Tepung Gandum Utuh,kg,40.0,93.2,81.6,51.7,0.0,4.0,Cukup,-,-,,
+2022-06-27,Mentega,kg,7.5,22.5,17.8,12.2,0.0,4.3,Cukup,-,-,,
+2022-06-27,Susu Bubuk,kg,1.6,5.0,3.6,3.0,0.0,5.2,Cukup,-,-,,
+2022-06-27,Gula,kg,12.3,21.3,17.2,16.4,0.0,5.8,Cukup,-,-,,
+2022-06-27,Telur,butir,88.0,149.0,119.0,118.0,0.0,6.0,Cukup,-,-,,
+2022-06-28,Garam,kg,9.3,0.0,11.6,-2.3,2.3,-1.4,Perlu restok,Perlu dibeli,kurang,2.3,"- Garam: kurang 2,3 kg"
+2022-06-28,Terigu Protein Tinggi,kg,375.1,0.0,475.4,-100.3,100.3,-1.4,Perlu restok,Perlu dibeli,kurang,100.3,"- Terigu Protein Tinggi: kurang 100,3 kg"
+2022-06-28,Cream Cheese,kg,13.2,0.0,11.9,1.4,0.0,0.9,Cukup,Perlu dipantau,sisa,1.4,"- Cream Cheese: sisa 1,4 kg setelah 7 hari"
+2022-06-28,Ragi Instan,kg,1.7,0.0,1.4,0.3,0.0,1.7,Cukup,-,-,,
+2022-06-28,Cokelat,kg,15.0,0.0,11.1,4.0,0.0,2.4,Cukup,-,-,,
+2022-06-28,Mentega,kg,27.8,0.0,18.3,9.5,0.0,3.5,Cukup,-,-,,
+2022-06-28,Tepung Gandum Utuh,kg,28.1,93.2,77.1,44.3,0.0,3.6,Cukup,-,-,,
+2022-06-28,Susu Bubuk,kg,6.0,0.0,3.9,2.1,0.0,3.8,Cukup,-,-,,
+2022-06-28,Gula,kg,10.3,21.3,17.1,14.5,0.0,5.2,Cukup,-,-,,
+2022-06-28,Telur,butir,74.0,149.0,120.0,103.0,0.0,5.3,Cukup,-,-,,
+2022-06-29,Terigu Protein Tinggi,kg,325.7,0.0,467.6,-141.9,141.9,-2.2,Perlu restok,Perlu dibeli,kurang,141.9,"- Terigu Protein Tinggi: kurang 141,9 kg"
+2022-06-29,Garam,kg,8.1,0.0,11.4,-3.3,3.3,-2.1,Perlu restok,Perlu dibeli,kurang,3.3,"- Garam: kurang 3,3 kg"
+2022-06-29,Ragi Instan,kg,1.6,0.0,1.3,0.3,0.0,1.5,Cukup,-,-,,
+2022-06-29,Cream Cheese,kg,12.8,0.0,10.5,2.3,0.0,1.6,Cukup,-,-,,
+2022-06-29,Cokelat,kg,14.2,0.0,10.2,4.0,0.0,2.4,Cukup,-,-,,
+2022-06-29,Tepung Gandum Utuh,kg,112.5,0.0,83.2,29.3,0.0,2.6,Cukup,-,-,,
+2022-06-29,Susu Bubuk,kg,5.6,0.0,3.7,1.9,0.0,3.2,Cukup,-,-,,
+2022-06-29,Mentega,kg,25.9,0.0,16.5,9.3,0.0,3.6,Cukup,-,-,,
+2022-06-29,Gula,kg,8.9,21.3,16.0,14.1,0.0,5.6,Cukup,-,-,,
+2022-06-29,Telur,butir,63.0,149.0,114.0,98.0,0.0,5.6,Cukup,-,-,,
+2022-06-30,Cream Cheese,kg,12.3,0.0,10.3,2.0,0.0,1.4,Cukup,-,-,,
+2022-06-30,Tepung Gandum Utuh,kg,103.2,0.0,85.2,17.9,0.0,1.6,Cukup,-,-,,
+2022-06-30,Ragi Instan,kg,1.5,0.0,1.2,0.3,0.0,1.7,Cukup,-,-,,
+2022-06-30,Cokelat,kg,13.5,0.0,9.9,3.6,0.0,2.2,Cukup,-,-,,
+2022-06-30,Susu Bubuk,kg,5.2,0.0,3.7,1.5,0.0,2.7,Cukup,-,-,,
+2022-06-30,Mentega,kg,24.4,0.0,16.3,8.1,0.0,3.0,Cukup,-,-,,
+2022-06-30,Garam,kg,6.8,11.1,11.8,6.1,0.0,3.9,Cukup,-,-,,
+2022-06-30,Terigu Protein Tinggi,kg,276.5,454.6,437.9,293.2,0.0,4.5,Cukup,-,-,,
+2022-06-30,Telur,butir,202.0,0.0,112.0,90.0,0.0,5.1,Cukup,-,-,,
+2022-06-30,Gula,kg,28.9,0.0,15.9,13.0,0.0,5.2,Cukup,-,-,,
+2022-07-01,Tepung Gandum Utuh,kg,93.1,0.0,115.5,-22.4,22.4,-2.0,Perlu restok,Perlu dibeli,kurang,22.4,"- Tepung Gandum Utuh: kurang 22,4 kg"
+2022-07-01,Garam,kg,5.5,11.1,16.5,0.1,0.0,0.0,Cukup,Perlu dipantau,sisa,0.1,"- Garam: sisa 0,1 kg setelah 7 hari"
+2022-07-01,Ragi Instan,kg,1.4,0.0,1.3,0.1,0.0,0.3,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-07-01,Cokelat,kg,11.8,0.0,10.9,0.9,0.0,0.6,Cukup,Perlu dipantau,sisa,0.9,"- Cokelat: sisa 0,9 kg setelah 7 hari"
+2022-07-01,Susu Bubuk,kg,4.8,0.0,4.2,0.6,0.0,1.1,Cukup,-,-,,
+2022-07-01,Cream Cheese,kg,11.6,0.0,9.8,1.8,0.0,1.2,Cukup,-,-,,
+2022-07-01,Terigu Protein Tinggi,kg,220.6,454.6,599.1,76.1,0.0,1.2,Cukup,-,-,,
+2022-07-01,Mentega,kg,22.3,0.0,18.3,4.0,0.0,1.5,Cukup,-,-,,
+2022-07-01,Telur,butir,188.0,0.0,131.0,57.0,0.0,3.2,Cukup,-,-,,
+2022-07-01,Gula,kg,26.8,0.0,18.5,8.3,0.0,3.3,Cukup,-,-,,
+2022-07-02,Tepung Gandum Utuh,kg,84.0,0.0,116.6,-32.6,32.6,-2.8,Perlu restok,Perlu dibeli,kurang,32.6,"- Tepung Gandum Utuh: kurang 32,6 kg"
+2022-07-02,Garam,kg,4.1,11.1,16.7,-1.4,1.4,-0.9,Perlu restok,Perlu dibeli,kurang,1.4,"- Garam: kurang 1,4 kg"
+2022-07-02,Cokelat,kg,10.2,0.0,11.4,-1.2,1.2,-0.7,Perlu restok,Perlu dibeli,kurang,1.2,"- Cokelat: kurang 1,2 kg"
+2022-07-02,Ragi Instan,kg,1.2,0.0,1.3,-0.1,0.1,-0.7,Perlu restok,Perlu dibeli,kurang,0.1,"- Ragi Instan: kurang 0,1 kg"
+2022-07-02,Mentega,kg,19.6,0.0,19.8,-0.2,0.2,-0.1,Perlu restok,Perlu dibeli,kurang,0.2,"- Mentega: kurang 0,2 kg"
+2022-07-02,Susu Bubuk,kg,4.3,0.0,4.2,0.1,0.0,0.2,Cukup,Perlu dipantau,sisa,0.1,"- Susu Bubuk: sisa 0,1 kg setelah 7 hari"
+2022-07-02,Cream Cheese,kg,10.5,0.0,9.8,0.6,0.0,0.5,Cukup,Perlu dipantau,sisa,0.6,"- Cream Cheese: sisa 0,6 kg setelah 7 hari"
+2022-07-02,Terigu Protein Tinggi,kg,165.2,454.6,588.5,31.3,0.0,0.5,Cukup,Perlu dipantau,sisa,31.3,"- Terigu Protein Tinggi: sisa 31,3 kg setelah 7 hari"
+2022-07-02,Telur,butir,171.0,0.0,131.0,40.0,0.0,2.2,Cukup,-,-,,
+2022-07-02,Gula,kg,24.4,0.0,18.6,5.8,0.0,2.3,Cukup,-,-,,
+2022-07-03,Tepung Gandum Utuh,kg,70.2,0.0,99.7,-29.5,29.5,-2.5,Perlu restok,Perlu dibeli,kurang,29.5,"- Tepung Gandum Utuh: kurang 29,5 kg"
+2022-07-03,Ragi Instan,kg,1.0,0.0,1.4,-0.4,0.4,-2.0,Perlu restok,Perlu dibeli,kurang,0.4,"- Ragi Instan: kurang 0,4 kg"
+2022-07-03,Mentega,kg,16.8,0.0,19.9,-3.1,3.1,-1.1,Perlu restok,Perlu dibeli,kurang,3.1,"- Mentega: kurang 3,1 kg"
+2022-07-03,Susu Bubuk,kg,3.8,0.0,4.2,-0.5,0.5,-0.9,Perlu restok,Perlu dibeli,kurang,0.5,"- Susu Bubuk: kurang 0,5 kg"
+2022-07-03,Garam,kg,13.4,0.0,14.3,-1.0,1.0,-0.6,Perlu restok,Perlu dibeli,kurang,1.0,"- Garam: kurang 1,0 kg"
+2022-07-03,Terigu Protein Tinggi,kg,544.5,0.0,565.1,-20.6,20.6,-0.3,Perlu restok,Perlu dibeli,kurang,20.6,"- Terigu Protein Tinggi: kurang 20,6 kg"
+2022-07-03,Cream Cheese,kg,9.4,0.0,9.2,0.3,0.0,0.2,Cukup,Perlu dipantau,sisa,0.3,"- Cream Cheese: sisa 0,3 kg setelah 7 hari"
+2022-07-03,Telur,butir,154.0,0.0,130.0,24.0,0.0,1.3,Cukup,-,-,,
+2022-07-03,Gula,kg,22.0,0.0,18.2,3.8,0.0,1.5,Cukup,-,-,,
+2022-07-03,Cokelat,kg,8.6,11.9,11.2,9.4,0.0,5.4,Cukup,-,-,,
+2022-07-04,Terigu Protein Tinggi,kg,419.0,0.0,595.0,-176.0,176.0,-2.6,Perlu restok,Perlu dibeli,kurang,176.0,"- Terigu Protein Tinggi: kurang 176,0 kg"
+2022-07-04,Garam,kg,10.3,0.0,14.5,-4.2,4.2,-2.5,Perlu restok,Perlu dibeli,kurang,4.2,"- Garam: kurang 4,2 kg"
+2022-07-04,Telur,butir,118.0,0.0,137.0,-19.0,19.0,-1.0,Perlu restok,Perlu dibeli,kurang,19.0,- Telur: kurang 19 butir
+2022-07-04,Gula,kg,17.0,0.0,19.1,-2.1,2.1,-0.8,Perlu restok,Perlu dibeli,kurang,2.1,"- Gula: kurang 2,1 kg"
+2022-07-04,Tepung Gandum Utuh,kg,49.0,81.5,109.3,21.1,0.0,1.8,Cukup,-,-,,
+2022-07-04,Susu Bubuk,kg,2.4,4.1,5.2,1.3,0.0,2.1,Cukup,-,-,,
+2022-07-04,Mentega,kg,11.3,19.0,23.3,7.0,0.0,2.5,Cukup,-,-,,
+2022-07-04,Ragi Instan,kg,0.7,1.4,1.4,0.6,0.0,3.1,Cukup,-,-,,
+2022-07-04,Cokelat,kg,6.1,11.9,10.7,7.3,0.0,4.1,Cukup,-,-,,
+2022-07-04,Cream Cheese,kg,6.4,10.0,9.0,7.5,0.0,5.0,Cukup,-,-,,
+2022-07-05,Terigu Protein Tinggi,kg,347.7,0.0,720.2,-372.5,372.5,-5.4,Perlu restok,Perlu dibeli,kurang,372.5,"- Terigu Protein Tinggi: kurang 372,5 kg"
+2022-07-05,Garam,kg,8.6,0.0,17.5,-8.9,8.9,-5.3,Perlu restok,Perlu dibeli,kurang,8.9,"- Garam: kurang 8,9 kg"
+2022-07-05,Telur,butir,101.0,0.0,141.0,-40.0,40.0,-2.2,Perlu restok,Perlu dibeli,kurang,40.0,- Telur: kurang 40 butir
+2022-07-05,Gula,kg,14.7,0.0,19.7,-5.0,5.0,-1.9,Perlu restok,Perlu dibeli,kurang,5.0,"- Gula: kurang 5,0 kg"
+2022-07-05,Tepung Gandum Utuh,kg,36.3,81.5,123.9,-6.1,6.1,-0.5,Perlu restok,Perlu dibeli,kurang,6.1,"- Tepung Gandum Utuh: kurang 6,1 kg"
+2022-07-05,Susu Bubuk,kg,1.8,4.1,5.6,0.2,0.0,0.4,Cukup,Perlu dipantau,sisa,0.2,"- Susu Bubuk: sisa 0,2 kg setelah 7 hari"
+2022-07-05,Mentega,kg,8.4,19.0,25.2,2.2,0.0,0.8,Cukup,Perlu dipantau,sisa,2.2,"- Mentega: sisa 2,2 kg setelah 7 hari"
+2022-07-05,Ragi Instan,kg,0.5,1.4,1.5,0.3,0.0,1.6,Cukup,-,-,,
+2022-07-05,Cokelat,kg,5.0,11.9,11.4,5.5,0.0,3.2,Cukup,-,-,,
+2022-07-05,Cream Cheese,kg,5.2,10.0,8.8,6.5,0.0,4.4,Cukup,-,-,,
+2022-07-06,Tepung Gandum Utuh,kg,24.3,81.5,131.0,-25.2,25.2,-2.2,Perlu restok,Perlu dibeli,kurang,25.2,"- Tepung Gandum Utuh: kurang 25,2 kg"
+2022-07-06,Susu Bubuk,kg,1.3,4.1,6.5,-1.2,1.2,-2.0,Perlu restok,Perlu dibeli,kurang,1.2,"- Susu Bubuk: kurang 1,2 kg"
+2022-07-06,Mentega,kg,6.1,19.0,27.4,-2.3,2.3,-0.9,Perlu restok,Perlu dibeli,kurang,2.3,"- Mentega: kurang 2,3 kg"
+2022-07-06,Terigu Protein Tinggi,kg,282.6,479.0,723.4,38.2,0.0,0.6,Cukup,Perlu dipantau,sisa,38.2,"- Terigu Protein Tinggi: sisa 38,2 kg setelah 7 hari"
+2022-07-06,Garam,kg,7.0,11.7,17.6,1.0,0.0,0.7,Cukup,Perlu dipantau,sisa,1.0,"- Garam: sisa 1,0 kg setelah 7 hari"
+2022-07-06,Ragi Instan,kg,0.4,1.4,1.5,0.3,0.0,1.4,Cukup,-,-,,
+2022-07-06,Cokelat,kg,15.7,0.0,11.6,4.1,0.0,2.5,Cukup,-,-,,
+2022-07-06,Telur,butir,86.0,130.0,168.0,48.0,0.0,2.8,Cukup,-,-,,
+2022-07-06,Gula,kg,12.7,18.6,24.1,7.3,0.0,3.0,Cukup,-,-,,
+2022-07-06,Cream Cheese,kg,4.4,10.0,10.3,4.2,0.0,3.1,Cukup,-,-,,
+2022-07-07,Tepung Gandum Utuh,kg,92.9,0.0,133.2,-40.3,40.3,-3.6,Perlu restok,Perlu dibeli,kurang,40.3,"- Tepung Gandum Utuh: kurang 40,3 kg"
+2022-07-07,Susu Bubuk,kg,4.8,0.0,6.5,-1.8,1.8,-3.2,Perlu restok,Perlu dibeli,kurang,1.8,"- Susu Bubuk: kurang 1,8 kg"
+2022-07-07,Mentega,kg,22.4,0.0,30.0,-7.6,7.6,-3.0,Perlu restok,Perlu dibeli,kurang,7.6,"- Mentega: kurang 7,6 kg"
+2022-07-07,Ragi Instan,kg,1.6,0.0,1.9,-0.3,0.3,-1.7,Perlu restok,Perlu dibeli,kurang,0.3,"- Ragi Instan: kurang 0,3 kg"
+2022-07-07,Cokelat,kg,14.2,0.0,16.0,-1.8,1.8,-1.2,Perlu restok,Perlu dibeli,kurang,1.8,"- Cokelat: kurang 1,8 kg"
+2022-07-07,Garam,kg,5.2,11.7,17.6,-0.7,0.7,-0.5,Perlu restok,Perlu dibeli,kurang,0.7,"- Garam: kurang 0,7 kg"
+2022-07-07,Terigu Protein Tinggi,kg,210.7,479.0,720.0,-30.3,30.3,-0.5,Perlu restok,Perlu dibeli,kurang,30.3,"- Terigu Protein Tinggi: kurang 30,3 kg"
+2022-07-07,Telur,butir,69.0,130.0,200.0,-1.0,1.0,-0.1,Perlu restok,Perlu dibeli,kurang,1.0,- Telur: kurang 1 butir
+2022-07-07,Gula,kg,10.3,18.6,27.7,1.3,0.0,0.5,Cukup,Perlu dipantau,sisa,1.3,"- Gula: sisa 1,3 kg setelah 7 hari"
+2022-07-07,Cream Cheese,kg,13.6,0.0,11.2,2.4,0.0,1.9,Cukup,-,-,,
+2022-07-08,Mentega,kg,20.2,0.0,28.3,-8.1,8.1,-3.2,Perlu restok,Perlu dibeli,kurang,8.1,"- Mentega: kurang 8,1 kg"
+2022-07-08,Tepung Gandum Utuh,kg,78.0,0.0,109.6,-31.6,31.6,-2.8,Perlu restok,Perlu dibeli,kurang,31.6,"- Tepung Gandum Utuh: kurang 31,6 kg"
+2022-07-08,Susu Bubuk,kg,4.3,0.0,5.4,-1.2,1.2,-2.1,Perlu restok,Perlu dibeli,kurang,1.2,"- Susu Bubuk: kurang 1,2 kg"
+2022-07-08,Ragi Instan,kg,1.4,0.0,1.7,-0.3,0.3,-1.7,Perlu restok,Perlu dibeli,kurang,0.3,"- Ragi Instan: kurang 0,3 kg"
+2022-07-08,Cokelat,kg,13.1,0.0,15.5,-2.4,2.4,-1.6,Perlu restok,Perlu dibeli,kurang,2.4,"- Cokelat: kurang 2,4 kg"
+2022-07-08,Telur,butir,55.0,130.0,195.0,-10.0,10.0,-0.6,Perlu restok,Perlu dibeli,kurang,10.0,- Telur: kurang 10 butir
+2022-07-08,Garam,kg,3.3,11.7,15.8,-0.8,0.8,-0.5,Perlu restok,Perlu dibeli,kurang,0.8,"- Garam: kurang 0,8 kg"
+2022-07-08,Terigu Protein Tinggi,kg,134.3,479.0,626.1,-12.8,12.8,-0.2,Perlu restok,Perlu dibeli,kurang,12.8,"- Terigu Protein Tinggi: kurang 12,8 kg"
+2022-07-08,Gula,kg,8.5,18.6,25.7,1.4,0.0,0.6,Cukup,Perlu dipantau,sisa,1.4,"- Gula: sisa 1,4 kg setelah 7 hari"
+2022-07-08,Cream Cheese,kg,12.7,0.0,10.6,2.2,0.0,1.7,Cukup,-,-,,
+2022-07-09,Mentega,kg,17.6,0.0,30.7,-13.1,13.1,-5.1,Perlu restok,Perlu dibeli,kurang,13.1,"- Mentega: kurang 13,1 kg"
+2022-07-09,Tepung Gandum Utuh,kg,64.3,0.0,109.1,-44.8,44.8,-3.8,Perlu restok,Perlu dibeli,kurang,44.8,"- Tepung Gandum Utuh: kurang 44,8 kg"
+2022-07-09,Susu Bubuk,kg,3.7,0.0,5.4,-1.7,1.7,-3.0,Perlu restok,Perlu dibeli,kurang,1.7,"- Susu Bubuk: kurang 1,7 kg"
+2022-07-09,Ragi Instan,kg,1.3,0.0,1.8,-0.4,0.4,-2.5,Perlu restok,Perlu dibeli,kurang,0.4,"- Ragi Instan: kurang 0,4 kg"
+2022-07-09,Garam,kg,13.1,0.0,16.1,-2.9,2.9,-1.8,Perlu restok,Perlu dibeli,kurang,2.9,"- Garam: kurang 2,9 kg"
+2022-07-09,Terigu Protein Tinggi,kg,538.4,0.0,653.2,-114.9,114.9,-1.7,Perlu restok,Perlu dibeli,kurang,114.9,"- Terigu Protein Tinggi: kurang 114,9 kg"
+2022-07-09,Telur,butir,168.0,0.0,191.0,-23.0,23.0,-1.3,Perlu restok,Perlu dibeli,kurang,23.0,- Telur: kurang 23 butir
+2022-07-09,Cokelat,kg,11.7,0.0,12.8,-1.1,1.1,-0.7,Perlu restok,Perlu dibeli,kurang,1.1,"- Cokelat: kurang 1,1 kg"
+2022-07-09,Gula,kg,24.8,0.0,25.1,-0.3,0.3,-0.1,Perlu restok,Perlu dibeli,kurang,0.3,"- Gula: kurang 0,3 kg"
+2022-07-09,Cream Cheese,kg,12.1,0.0,9.2,2.9,0.0,2.2,Cukup,-,-,,
+2022-07-10,Susu Bubuk,kg,2.7,0.0,6.5,-3.8,3.8,-6.6,Perlu restok,Perlu dibeli,kurang,3.8,"- Susu Bubuk: kurang 3,8 kg"
+2022-07-10,Mentega,kg,13.7,0.0,26.6,-12.9,12.9,-4.9,Perlu restok,Perlu dibeli,kurang,12.9,"- Mentega: kurang 12,9 kg"
+2022-07-10,Ragi Instan,kg,1.0,0.0,1.9,-0.9,0.9,-4.8,Perlu restok,Perlu dibeli,kurang,0.9,"- Ragi Instan: kurang 0,9 kg"
+2022-07-10,Cokelat,kg,9.1,0.0,16.2,-7.2,7.2,-4.5,Perlu restok,Perlu dibeli,kurang,7.2,"- Cokelat: kurang 7,2 kg"
+2022-07-10,Garam,kg,10.0,0.0,16.4,-6.4,6.4,-3.8,Perlu restok,Perlu dibeli,kurang,6.4,"- Garam: kurang 6,4 kg"
+2022-07-10,Terigu Protein Tinggi,kg,412.7,0.0,669.9,-257.2,257.2,-3.8,Perlu restok,Perlu dibeli,kurang,257.2,"- Terigu Protein Tinggi: kurang 257,2 kg"
+2022-07-10,Gula,kg,20.7,0.0,30.0,-9.3,9.3,-3.7,Perlu restok,Perlu dibeli,kurang,9.3,"- Gula: kurang 9,3 kg"
+2022-07-10,Telur,butir,139.0,0.0,197.0,-58.0,58.0,-3.3,Perlu restok,Perlu dibeli,kurang,58.0,- Telur: kurang 58 butir
+2022-07-10,Cream Cheese,kg,9.7,0.0,13.5,-3.8,3.8,-2.8,Perlu restok,Perlu dibeli,kurang,3.8,"- Cream Cheese: kurang 3,8 kg"
+2022-07-10,Tepung Gandum Utuh,kg,40.8,82.0,128.9,-6.1,6.1,-0.5,Perlu restok,Perlu dibeli,kurang,6.1,"- Tepung Gandum Utuh: kurang 6,1 kg"
+2022-07-11,Gula,kg,14.2,0.0,33.1,-18.9,18.9,-7.1,Perlu restok,Perlu dibeli,kurang,18.9,"- Gula: kurang 18,9 kg"
+2022-07-11,Telur,butir,93.0,0.0,227.0,-133.0,133.0,-7.1,Perlu restok,Perlu dibeli,kurang,133.0,- Telur: kurang 133 butir
+2022-07-11,Mentega,kg,7.5,18.6,40.6,-14.5,14.5,-5.1,Perlu restok,Perlu dibeli,kurang,14.5,"- Mentega: kurang 14,5 kg"
+2022-07-11,Cokelat,kg,4.6,11.1,21.8,-6.1,6.1,-3.6,Perlu restok,Perlu dibeli,kurang,6.1,"- Cokelat: kurang 6,1 kg"
+2022-07-11,Tepung Gandum Utuh,kg,13.6,82.0,134.2,-38.5,38.5,-3.0,Perlu restok,Perlu dibeli,kurang,38.5,"- Tepung Gandum Utuh: kurang 38,5 kg"
+2022-07-11,Ragi Instan,kg,0.5,1.3,2.3,-0.5,0.5,-2.4,Perlu restok,Perlu dibeli,kurang,0.5,"- Ragi Instan: kurang 0,5 kg"
+2022-07-11,Susu Bubuk,kg,1.3,4.1,6.9,-1.5,1.5,-2.4,Perlu restok,Perlu dibeli,kurang,1.5,"- Susu Bubuk: kurang 1,5 kg"
+2022-07-11,Cream Cheese,kg,5.7,9.3,15.5,-0.5,0.5,-0.4,Perlu restok,Perlu dibeli,kurang,0.5,"- Cream Cheese: kurang 0,5 kg"
+2022-07-11,Garam,kg,6.2,11.7,18.1,-0.1,0.1,-0.1,Perlu restok,Perlu dibeli,kurang,0.1,"- Garam: kurang 0,1 kg"
+2022-07-11,Terigu Protein Tinggi,kg,256.8,479.3,731.3,4.8,0.0,0.1,Cukup,Perlu dipantau,sisa,4.8,"- Terigu Protein Tinggi: sisa 4,8 kg setelah 7 hari"
+2022-07-12,Tepung Gandum Utuh,kg,0.0,82.0,155.8,-73.8,73.8,-5.8,Perlu restok,Perlu dibeli,kurang,73.8,"- Tepung Gandum Utuh: kurang 73,8 kg"
+2022-07-12,Cream Cheese,kg,3.6,9.3,19.1,-6.2,6.2,-4.3,Perlu restok,Perlu dibeli,kurang,6.2,"- Cream Cheese: kurang 6,2 kg"
+2022-07-12,Susu Bubuk,kg,0.2,4.1,6.5,-2.3,2.3,-3.6,Perlu restok,Perlu dibeli,kurang,2.3,"- Susu Bubuk: kurang 2,3 kg"
+2022-07-12,Ragi Instan,kg,0.3,1.3,2.1,-0.6,0.6,-2.9,Perlu restok,Perlu dibeli,kurang,0.6,"- Ragi Instan: kurang 0,6 kg"
+2022-07-12,Cokelat,kg,2.3,11.1,17.7,-4.3,4.3,-2.6,Perlu restok,Perlu dibeli,kurang,4.3,"- Cokelat: kurang 4,3 kg"
+2022-07-12,Mentega,kg,2.8,18.6,28.7,-7.4,7.4,-2.6,Perlu restok,Perlu dibeli,kurang,7.4,"- Mentega: kurang 7,4 kg"
+2022-07-12,Garam,kg,3.6,11.7,18.8,-3.5,3.5,-1.9,Perlu restok,Perlu dibeli,kurang,3.5,"- Garam: kurang 3,5 kg"
+2022-07-12,Terigu Protein Tinggi,kg,147.2,479.3,767.2,-140.7,140.7,-1.9,Perlu restok,Perlu dibeli,kurang,140.7,"- Terigu Protein Tinggi: kurang 140,7 kg"
+2022-07-12,Telur,butir,64.0,132.0,188.0,7.0,0.0,0.4,Cukup,Perlu dipantau,sisa,7.0,- Telur: sisa 7 butir setelah 7 hari
+2022-07-12,Gula,kg,10.1,18.6,26.9,1.8,0.0,0.7,Cukup,Perlu dipantau,sisa,1.8,"- Gula: sisa 1,8 kg setelah 7 hari"
+2022-07-13,Tepung Gandum Utuh,kg,65.4,0.0,154.8,-89.4,89.4,-7.0,Perlu restok,Perlu dibeli,kurang,89.4,"- Tepung Gandum Utuh: kurang 89,4 kg"
+2022-07-13,Mentega,kg,0.0,18.6,33.4,-14.8,14.8,-5.3,Perlu restok,Perlu dibeli,kurang,14.8,"- Mentega: kurang 14,8 kg"
+2022-07-13,Susu Bubuk,kg,0.0,4.1,7.0,-2.9,2.9,-4.7,Perlu restok,Perlu dibeli,kurang,2.9,"- Susu Bubuk: kurang 2,9 kg"
+2022-07-13,Ragi Instan,kg,0.0,1.3,2.1,-0.8,0.8,-4.3,Perlu restok,Perlu dibeli,kurang,0.8,"- Ragi Instan: kurang 0,8 kg"
+2022-07-13,Cokelat,kg,0.0,11.1,17.3,-6.3,6.3,-3.8,Perlu restok,Perlu dibeli,kurang,6.3,"- Cokelat: kurang 6,3 kg"
+2022-07-13,Garam,kg,1.4,11.7,19.3,-6.2,6.2,-3.4,Perlu restok,Perlu dibeli,kurang,6.2,"- Garam: kurang 6,2 kg"
+2022-07-13,Terigu Protein Tinggi,kg,57.4,479.3,786.0,-249.2,249.2,-3.4,Perlu restok,Perlu dibeli,kurang,249.2,"- Terigu Protein Tinggi: kurang 249,2 kg"
+2022-07-13,Cream Cheese,kg,2.3,9.3,14.0,-2.4,2.4,-1.7,Perlu restok,Perlu dibeli,kurang,2.4,"- Cream Cheese: kurang 2,4 kg"
+2022-07-13,Telur,butir,43.0,132.0,197.0,-22.0,22.0,-1.2,Perlu restok,Perlu dibeli,kurang,22.0,- Telur: kurang 22 butir
+2022-07-13,Gula,kg,7.0,18.6,28.6,-3.0,3.0,-1.1,Perlu restok,Perlu dibeli,kurang,3.0,"- Gula: kurang 3,0 kg"
+2022-07-14,Mentega,kg,14.5,0.0,34.1,-19.6,19.6,-6.8,Perlu restok,Perlu dibeli,kurang,19.6,"- Mentega: kurang 19,6 kg"
+2022-07-14,Susu Bubuk,kg,3.1,0.0,7.3,-4.3,4.3,-6.7,Perlu restok,Perlu dibeli,kurang,4.3,"- Susu Bubuk: kurang 4,3 kg"
+2022-07-14,Ragi Instan,kg,1.1,0.0,2.3,-1.2,1.2,-6.2,Perlu restok,Perlu dibeli,kurang,1.2,"- Ragi Instan: kurang 1,2 kg"
+2022-07-14,Cokelat,kg,9.5,0.0,19.5,-10.1,10.1,-6.1,Perlu restok,Perlu dibeli,kurang,10.1,"- Cokelat: kurang 10,1 kg"
+2022-07-14,Garam,kg,10.5,0.0,20.5,-10.0,10.0,-5.5,Perlu restok,Perlu dibeli,kurang,10.0,"- Garam: kurang 10,0 kg"
+2022-07-14,Terigu Protein Tinggi,kg,431.6,0.0,837.5,-405.9,405.9,-5.4,Perlu restok,Perlu dibeli,kurang,405.9,"- Terigu Protein Tinggi: kurang 405,9 kg"
+2022-07-14,Cream Cheese,kg,9.9,0.0,14.3,-4.4,4.4,-3.1,Perlu restok,Perlu dibeli,kurang,4.4,"- Cream Cheese: kurang 4,4 kg"
+2022-07-14,Telur,butir,17.0,132.0,208.0,-59.0,59.0,-3.1,Perlu restok,Perlu dibeli,kurang,59.0,- Telur: kurang 59 butir
+2022-07-14,Gula,kg,3.6,18.6,28.9,-6.7,6.7,-2.5,Perlu restok,Perlu dibeli,kurang,6.7,"- Gula: kurang 6,7 kg"
+2022-07-14,Tepung Gandum Utuh,kg,46.8,90.9,144.8,-7.2,7.2,-0.5,Perlu restok,Perlu dibeli,kurang,7.2,"- Tepung Gandum Utuh: kurang 7,2 kg"
+2022-07-15,Telur,butir,101.0,0.0,257.0,-157.0,157.0,-7.7,Perlu restok,Perlu dibeli,kurang,157.0,- Telur: kurang 157 butir
+2022-07-15,Gula,kg,15.6,0.0,34.8,-19.2,19.2,-6.8,Perlu restok,Perlu dibeli,kurang,19.2,"- Gula: kurang 19,2 kg"
+2022-07-15,Tepung Gandum Utuh,kg,15.1,90.9,163.0,-57.0,57.0,-4.1,Perlu restok,Perlu dibeli,kurang,57.0,"- Tepung Gandum Utuh: kurang 57,0 kg"
+2022-07-15,Susu Bubuk,kg,1.3,4.5,8.0,-2.2,2.2,-3.2,Perlu restok,Perlu dibeli,kurang,2.2,"- Susu Bubuk: kurang 2,2 kg"
+2022-07-15,Mentega,kg,7.5,20.2,36.6,-8.9,8.9,-2.9,Perlu restok,Perlu dibeli,kurang,8.9,"- Mentega: kurang 8,9 kg"
+2022-07-15,Ragi Instan,kg,0.6,1.4,2.4,-0.5,0.5,-2.4,Perlu restok,Perlu dibeli,kurang,0.5,"- Ragi Instan: kurang 0,5 kg"
+2022-07-15,Garam,kg,6.1,12.8,22.8,-3.8,3.8,-2.0,Perlu restok,Perlu dibeli,kurang,3.8,"- Garam: kurang 3,8 kg"
+2022-07-15,Terigu Protein Tinggi,kg,251.3,523.4,929.0,-154.3,154.3,-2.0,Perlu restok,Perlu dibeli,kurang,154.3,"- Terigu Protein Tinggi: kurang 154,3 kg"
+2022-07-15,Cokelat,kg,6.1,11.6,20.7,-3.0,3.0,-1.8,Perlu restok,Perlu dibeli,kurang,3.0,"- Cokelat: kurang 3,0 kg"
+2022-07-15,Cream Cheese,kg,5.8,10.0,18.5,-2.7,2.7,-1.8,Perlu restok,Perlu dibeli,kurang,2.7,"- Cream Cheese: kurang 2,7 kg"
+2022-07-16,Susu Bubuk,kg,0.0,4.5,8.2,-3.7,3.7,-5.2,Perlu restok,Perlu dibeli,kurang,3.7,"- Susu Bubuk: kurang 3,7 kg"
+2022-07-16,Mentega,kg,0.0,20.2,36.5,-16.3,16.3,-5.0,Perlu restok,Perlu dibeli,kurang,16.3,"- Mentega: kurang 16,3 kg"
+2022-07-16,Tepung Gandum Utuh,kg,0.0,90.9,161.7,-70.8,70.8,-5.0,Perlu restok,Perlu dibeli,kurang,70.8,"- Tepung Gandum Utuh: kurang 70,8 kg"
+2022-07-16,Ragi Instan,kg,0.0,1.4,2.4,-1.1,1.1,-4.8,Perlu restok,Perlu dibeli,kurang,1.1,"- Ragi Instan: kurang 1,1 kg"
+2022-07-16,Cokelat,kg,0.6,11.6,20.7,-8.5,8.5,-4.5,Perlu restok,Perlu dibeli,kurang,8.5,"- Cokelat: kurang 8,5 kg"
+2022-07-16,Cream Cheese,kg,1.0,10.0,18.3,-7.3,7.3,-4.4,Perlu restok,Perlu dibeli,kurang,7.3,"- Cream Cheese: kurang 7,3 kg"
+2022-07-16,Garam,kg,2.1,12.8,23.5,-8.6,8.6,-4.2,Perlu restok,Perlu dibeli,kurang,8.6,"- Garam: kurang 8,6 kg"
+2022-07-16,Terigu Protein Tinggi,kg,84.2,523.4,955.3,-347.8,347.8,-4.2,Perlu restok,Perlu dibeli,kurang,347.8,"- Terigu Protein Tinggi: kurang 347,8 kg"
+2022-07-16,Telur,butir,45.0,142.0,265.0,-78.0,78.0,-3.6,Perlu restok,Perlu dibeli,kurang,78.0,- Telur: kurang 78 butir
+2022-07-16,Gula,kg,7.6,19.9,37.2,-9.7,9.7,-3.2,Perlu restok,Perlu dibeli,kurang,9.7,"- Gula: kurang 9,7 kg"
+2022-07-17,Cream Cheese,kg,0.0,10.0,20.0,-10.0,10.0,-5.9,Perlu restok,Perlu dibeli,kurang,10.0,"- Cream Cheese: kurang 10,0 kg"
+2022-07-17,Mentega,kg,0.0,20.2,37.0,-16.7,16.7,-5.3,Perlu restok,Perlu dibeli,kurang,16.7,"- Mentega: kurang 16,7 kg"
+2022-07-17,Susu Bubuk,kg,0.0,4.5,8.1,-3.6,3.6,-5.2,Perlu restok,Perlu dibeli,kurang,3.6,"- Susu Bubuk: kurang 3,6 kg"
+2022-07-17,Garam,kg,0.0,12.8,23.3,-10.4,10.4,-5.1,Perlu restok,Perlu dibeli,kurang,10.4,"- Garam: kurang 10,4 kg"
+2022-07-17,Terigu Protein Tinggi,kg,0.0,523.4,950.0,-426.7,426.7,-5.1,Perlu restok,Perlu dibeli,kurang,426.7,"- Terigu Protein Tinggi: kurang 426,7 kg"
+2022-07-17,Cokelat,kg,0.0,11.6,20.6,-8.9,8.9,-4.8,Perlu restok,Perlu dibeli,kurang,8.9,"- Cokelat: kurang 8,9 kg"
+2022-07-17,Gula,kg,0.0,19.9,35.6,-15.7,15.7,-4.8,Perlu restok,Perlu dibeli,kurang,15.7,"- Gula: kurang 15,7 kg"
+2022-07-17,Ragi Instan,kg,0.0,1.4,2.4,-1.0,1.0,-4.7,Perlu restok,Perlu dibeli,kurang,1.0,"- Ragi Instan: kurang 1,0 kg"
+2022-07-17,Telur,butir,0.0,142.0,250.0,-108.0,108.0,-4.7,Perlu restok,Perlu dibeli,kurang,108.0,- Telur: kurang 108 butir
+2022-07-17,Tepung Gandum Utuh,kg,56.0,102.9,171.5,-12.6,12.6,-0.8,Perlu restok,Perlu dibeli,kurang,12.6,"- Tepung Gandum Utuh: kurang 12,6 kg"
+2022-07-18,Gula,kg,0.0,19.9,35.3,-15.4,15.4,-4.8,Perlu restok,Perlu dibeli,kurang,15.4,"- Gula: kurang 15,4 kg"
+2022-07-18,Telur,butir,0.0,142.0,245.0,-103.0,103.0,-4.6,Perlu restok,Perlu dibeli,kurang,103.0,- Telur: kurang 103 butir
+2022-07-18,Tepung Gandum Utuh,kg,16.9,102.9,186.3,-66.5,66.5,-4.1,Perlu restok,Perlu dibeli,kurang,66.5,"- Tepung Gandum Utuh: kurang 66,5 kg"
+2022-07-18,Cream Cheese,kg,3.9,12.8,22.9,-6.3,6.3,-3.4,Perlu restok,Perlu dibeli,kurang,6.3,"- Cream Cheese: kurang 6,3 kg"
+2022-07-18,Cokelat,kg,5.8,14.1,24.9,-4.9,4.9,-2.4,Perlu restok,Perlu dibeli,kurang,4.9,"- Cokelat: kurang 4,9 kg"
+2022-07-18,Ragi Instan,kg,0.7,1.7,2.8,-0.5,0.5,-2.2,Perlu restok,Perlu dibeli,kurang,0.5,"- Ragi Instan: kurang 0,5 kg"
+2022-07-18,Garam,kg,7.5,15.1,25.0,-2.4,2.4,-1.1,Perlu restok,Perlu dibeli,kurang,2.4,"- Garam: kurang 2,4 kg"
+2022-07-18,Terigu Protein Tinggi,kg,305.2,618.2,1020.2,-96.8,96.8,-1.1,Perlu restok,Perlu dibeli,kurang,96.8,"- Terigu Protein Tinggi: kurang 96,8 kg"
+2022-07-18,Mentega,kg,11.8,24.3,37.3,-1.1,1.1,-0.3,Perlu restok,Perlu dibeli,kurang,1.1,"- Mentega: kurang 1,1 kg"
+2022-07-18,Susu Bubuk,kg,2.6,5.5,8.0,0.2,0.0,0.3,Cukup,Perlu dipantau,sisa,0.2,"- Susu Bubuk: sisa 0,2 kg setelah 7 hari"
+2022-07-19,Tepung Gandum Utuh,kg,0.0,102.9,184.5,-81.6,81.6,-5.1,Perlu restok,Perlu dibeli,kurang,81.6,"- Tepung Gandum Utuh: kurang 81,6 kg"
+2022-07-19,Cream Cheese,kg,0.6,12.8,21.3,-7.9,7.9,-4.1,Perlu restok,Perlu dibeli,kurang,7.9,"- Cream Cheese: kurang 7,9 kg"
+2022-07-19,Ragi Instan,kg,0.3,1.7,2.9,-1.0,1.0,-4.0,Perlu restok,Perlu dibeli,kurang,1.0,"- Ragi Instan: kurang 1,0 kg"
+2022-07-19,Cokelat,kg,2.2,14.1,24.3,-8.0,8.0,-3.8,Perlu restok,Perlu dibeli,kurang,8.0,"- Cokelat: kurang 8,0 kg"
+2022-07-19,Garam,kg,4.1,15.1,24.7,-5.6,5.6,-2.5,Perlu restok,Perlu dibeli,kurang,5.6,"- Garam: kurang 5,6 kg"
+2022-07-19,Terigu Protein Tinggi,kg,166.2,618.2,1010.4,-226.0,226.0,-2.5,Perlu restok,Perlu dibeli,kurang,226.0,"- Terigu Protein Tinggi: kurang 226,0 kg"
+2022-07-19,Mentega,kg,6.9,24.3,38.1,-6.8,6.8,-2.0,Perlu restok,Perlu dibeli,kurang,6.8,"- Mentega: kurang 6,8 kg"
+2022-07-19,Susu Bubuk,kg,1.5,5.5,8.4,-1.3,1.3,-1.8,Perlu restok,Perlu dibeli,kurang,1.3,"- Susu Bubuk: kurang 1,3 kg"
+2022-07-19,Gula,kg,14.7,24.7,35.5,3.9,0.0,1.2,Cukup,-,-,,
+2022-07-19,Telur,butir,107.0,175.0,250.0,32.0,0.0,1.4,Cukup,-,-,,
+2022-07-20,Tepung Gandum Utuh,kg,82.9,0.0,202.8,-120.0,120.0,-7.4,Perlu restok,Perlu dibeli,kurang,120.0,"- Tepung Gandum Utuh: kurang 120,0 kg"
+2022-07-20,Cokelat,kg,0.0,14.1,24.0,-9.8,9.8,-4.8,Perlu restok,Perlu dibeli,kurang,9.8,"- Cokelat: kurang 9,8 kg"
+2022-07-20,Ragi Instan,kg,0.0,1.7,2.8,-1.1,1.1,-4.7,Perlu restok,Perlu dibeli,kurang,1.1,"- Ragi Instan: kurang 1,1 kg"
+2022-07-20,Cream Cheese,kg,0.0,12.8,20.9,-8.1,8.1,-4.5,Perlu restok,Perlu dibeli,kurang,8.1,"- Cream Cheese: kurang 8,1 kg"
+2022-07-20,Terigu Protein Tinggi,kg,59.0,618.2,1022.2,-345.0,345.0,-3.8,Perlu restok,Perlu dibeli,kurang,345.0,"- Terigu Protein Tinggi: kurang 345,0 kg"
+2022-07-20,Garam,kg,1.4,15.1,24.8,-8.3,8.3,-3.7,Perlu restok,Perlu dibeli,kurang,8.3,"- Garam: kurang 8,3 kg"
+2022-07-20,Mentega,kg,3.4,24.3,38.9,-11.2,11.2,-3.3,Perlu restok,Perlu dibeli,kurang,11.2,"- Mentega: kurang 11,2 kg"
+2022-07-20,Susu Bubuk,kg,0.6,5.5,8.3,-2.1,2.1,-2.8,Perlu restok,Perlu dibeli,kurang,2.1,"- Susu Bubuk: kurang 2,1 kg"
+2022-07-20,Gula,kg,11.2,24.7,34.3,1.6,0.0,0.5,Cukup,Perlu dipantau,sisa,1.6,"- Gula: sisa 1,6 kg setelah 7 hari"
+2022-07-20,Telur,butir,81.0,175.0,243.0,14.0,0.0,0.6,Cukup,Perlu dipantau,sisa,14.0,- Telur: sisa 14 butir setelah 7 hari
+2022-07-21,Cokelat,kg,11.4,0.0,26.6,-15.2,15.2,-7.2,Perlu restok,Perlu dibeli,kurang,15.2,"- Cokelat: kurang 15,2 kg"
+2022-07-21,Ragi Instan,kg,1.4,0.0,2.8,-1.4,1.4,-5.8,Perlu restok,Perlu dibeli,kurang,1.4,"- Ragi Instan: kurang 1,4 kg"
+2022-07-21,Cream Cheese,kg,11.2,0.0,20.8,-9.6,9.6,-5.3,Perlu restok,Perlu dibeli,kurang,9.6,"- Cream Cheese: kurang 9,6 kg"
+2022-07-21,Garam,kg,14.2,0.0,26.2,-12.0,12.0,-5.3,Perlu restok,Perlu dibeli,kurang,12.0,"- Garam: kurang 12,0 kg"
+2022-07-21,Terigu Protein Tinggi,kg,582.2,0.0,1075.1,-492.9,492.9,-5.3,Perlu restok,Perlu dibeli,kurang,492.9,"- Terigu Protein Tinggi: kurang 492,9 kg"
+2022-07-21,Mentega,kg,24.2,0.0,38.4,-14.1,14.1,-4.1,Perlu restok,Perlu dibeli,kurang,14.1,"- Mentega: kurang 14,1 kg"
+2022-07-21,Susu Bubuk,kg,5.5,0.0,8.5,-3.0,3.0,-3.9,Perlu restok,Perlu dibeli,kurang,3.0,"- Susu Bubuk: kurang 3,0 kg"
+2022-07-21,Gula,kg,7.8,24.7,36.3,-3.8,3.8,-1.2,Perlu restok,Perlu dibeli,kurang,3.8,"- Gula: kurang 3,8 kg"
+2022-07-21,Telur,butir,58.0,175.0,244.0,-10.0,10.0,-0.4,Perlu restok,Perlu dibeli,kurang,10.0,- Telur: kurang 10 butir
+2022-07-21,Tepung Gandum Utuh,kg,65.4,119.0,176.3,8.1,0.0,0.5,Cukup,Perlu dipantau,sisa,8.1,"- Tepung Gandum Utuh: sisa 8,1 kg setelah 7 hari"
+2022-07-22,Garam,kg,11.3,0.0,29.0,-17.7,17.7,-7.6,Perlu restok,Perlu dibeli,kurang,17.7,"- Garam: kurang 17,7 kg"
+2022-07-22,Terigu Protein Tinggi,kg,465.7,0.0,1179.1,-713.4,713.4,-7.5,Perlu restok,Perlu dibeli,kurang,713.4,"- Terigu Protein Tinggi: kurang 713,4 kg"
+2022-07-22,Mentega,kg,20.1,0.0,34.1,-14.0,14.0,-4.0,Perlu restok,Perlu dibeli,kurang,14.0,"- Mentega: kurang 14,0 kg"
+2022-07-22,Susu Bubuk,kg,4.6,0.0,7.4,-2.8,2.8,-3.7,Perlu restok,Perlu dibeli,kurang,2.8,"- Susu Bubuk: kurang 2,8 kg"
+2022-07-22,Gula,kg,28.3,0.0,35.4,-7.0,7.0,-2.1,Perlu restok,Perlu dibeli,kurang,7.0,"- Gula: kurang 7,0 kg"
+2022-07-22,Telur,butir,204.0,0.0,245.0,-41.0,41.0,-1.8,Perlu restok,Perlu dibeli,kurang,41.0,- Telur: kurang 41 butir
+2022-07-22,Tepung Gandum Utuh,kg,44.4,119.0,189.4,-26.1,26.1,-1.5,Perlu restok,Perlu dibeli,kurang,26.1,"- Tepung Gandum Utuh: kurang 26,1 kg"
+2022-07-22,Cokelat,kg,8.6,15.7,24.0,0.2,0.0,0.1,Cukup,Perlu dipantau,sisa,0.2,"- Cokelat: sisa 0,2 kg setelah 7 hari"
+2022-07-22,Ragi Instan,kg,1.1,1.8,2.7,0.3,0.0,1.1,Cukup,-,-,,
+2022-07-22,Cream Cheese,kg,9.2,14.1,20.1,3.2,0.0,1.7,Cukup,-,-,,
+2022-07-23,Telur,butir,171.0,0.0,291.0,-120.0,120.0,-5.0,Perlu restok,Perlu dibeli,kurang,120.0,- Telur: kurang 120 butir
+2022-07-23,Gula,kg,23.8,0.0,32.7,-9.0,9.0,-2.6,Perlu restok,Perlu dibeli,kurang,9.0,"- Gula: kurang 9,0 kg"
+2022-07-23,Tepung Gandum Utuh,kg,24.7,119.0,184.8,-41.2,41.2,-2.4,Perlu restok,Perlu dibeli,kurang,41.2,"- Tepung Gandum Utuh: kurang 41,2 kg"
+2022-07-23,Cokelat,kg,5.8,15.7,24.7,-3.2,3.2,-1.5,Perlu restok,Perlu dibeli,kurang,3.2,"- Cokelat: kurang 3,2 kg"
+2022-07-23,Cream Cheese,kg,6.3,14.1,20.7,-0.3,0.3,-0.2,Perlu restok,Perlu dibeli,kurang,0.3,"- Cream Cheese: kurang 0,3 kg"
+2022-07-23,Mentega,kg,15.8,26.6,42.4,0.0,0.0,0.0,Cukup,Perlu dipantau,sisa,0.0,"- Mentega: sisa 0,0 kg setelah 7 hari"
+2022-07-23,Ragi Instan,kg,0.8,1.8,2.5,0.1,0.0,0.3,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-07-23,Garam,kg,8.6,17.0,23.9,1.7,0.0,0.7,Cukup,Perlu dipantau,sisa,1.7,"- Garam: sisa 1,7 kg setelah 7 hari"
+2022-07-23,Terigu Protein Tinggi,kg,352.9,694.5,973.7,73.7,0.0,0.8,Cukup,Perlu dipantau,sisa,73.7,"- Terigu Protein Tinggi: sisa 73,7 kg setelah 7 hari"
+2022-07-23,Susu Bubuk,kg,3.5,6.0,7.8,1.7,0.0,2.2,Cukup,-,-,,
+2022-07-24,Telur,butir,129.0,0.0,286.0,-157.0,157.0,-6.3,Perlu restok,Perlu dibeli,kurang,157.0,- Telur: kurang 157 butir
+2022-07-24,Cokelat,kg,2.3,15.7,25.9,-8.0,8.0,-3.5,Perlu restok,Perlu dibeli,kurang,8.0,"- Cokelat: kurang 8,0 kg"
+2022-07-24,Tepung Gandum Utuh,kg,117.5,0.0,180.5,-63.0,63.0,-3.5,Perlu restok,Perlu dibeli,kurang,63.0,"- Tepung Gandum Utuh: kurang 63,0 kg"
+2022-07-24,Ragi Instan,kg,0.3,1.8,3.0,-0.8,0.8,-3.3,Perlu restok,Perlu dibeli,kurang,0.8,"- Ragi Instan: kurang 0,8 kg"
+2022-07-24,Cream Cheese,kg,2.8,14.1,22.8,-6.0,6.0,-3.0,Perlu restok,Perlu dibeli,kurang,6.0,"- Cream Cheese: kurang 6,0 kg"
+2022-07-24,Garam,kg,4.9,17.0,26.1,-4.2,4.2,-1.7,Perlu restok,Perlu dibeli,kurang,4.2,"- Garam: kurang 4,2 kg"
+2022-07-24,Terigu Protein Tinggi,kg,201.4,694.5,1065.4,-169.5,169.5,-1.7,Perlu restok,Perlu dibeli,kurang,169.5,"- Terigu Protein Tinggi: kurang 169,5 kg"
+2022-07-24,Susu Bubuk,kg,2.0,6.0,9.3,-1.3,1.3,-1.6,Perlu restok,Perlu dibeli,kurang,1.3,"- Susu Bubuk: kurang 1,3 kg"
+2022-07-24,Mentega,kg,9.3,26.6,39.7,-3.8,3.8,-1.0,Perlu restok,Perlu dibeli,kurang,3.8,"- Mentega: kurang 3,8 kg"
+2022-07-24,Gula,kg,17.8,26.0,38.9,5.0,0.0,1.4,Cukup,-,-,,
+2022-07-25,Cream Cheese,kg,12.0,0.0,23.4,-11.4,11.4,-5.4,Perlu restok,Perlu dibeli,kurang,11.4,"- Cream Cheese: kurang 11,4 kg"
+2022-07-25,Cokelat,kg,13.9,0.0,25.2,-11.3,11.3,-4.8,Perlu restok,Perlu dibeli,kurang,11.3,"- Cokelat: kurang 11,3 kg"
+2022-07-25,Garam,kg,0.4,17.0,29.0,-11.6,11.6,-4.5,Perlu restok,Perlu dibeli,kurang,11.6,"- Garam: kurang 11,6 kg"
+2022-07-25,Terigu Protein Tinggi,kg,17.8,694.5,1181.4,-469.1,469.1,-4.5,Perlu restok,Perlu dibeli,kurang,469.1,"- Terigu Protein Tinggi: kurang 469,1 kg"
+2022-07-25,Ragi Instan,kg,1.6,0.0,2.8,-1.1,1.1,-4.2,Perlu restok,Perlu dibeli,kurang,1.1,"- Ragi Instan: kurang 1,1 kg"
+2022-07-25,Susu Bubuk,kg,0.3,6.0,8.6,-2.3,2.3,-2.7,Perlu restok,Perlu dibeli,kurang,2.3,"- Susu Bubuk: kurang 2,3 kg"
+2022-07-25,Mentega,kg,2.2,26.6,38.3,-9.5,9.5,-2.4,Perlu restok,Perlu dibeli,kurang,9.5,"- Mentega: kurang 9,5 kg"
+2022-07-25,Gula,kg,10.8,26.0,38.0,-1.2,1.2,-0.3,Perlu restok,Perlu dibeli,kurang,1.2,"- Gula: kurang 1,2 kg"
+2022-07-25,Telur,butir,79.0,192.0,278.0,-7.0,7.0,-0.3,Perlu restok,Perlu dibeli,kurang,7.0,- Telur: kurang 7 butir
+2022-07-25,Tepung Gandum Utuh,kg,84.9,131.0,178.6,37.3,0.0,2.0,Cukup,-,-,,
+2022-07-26,Garam,kg,13.9,0.0,28.6,-14.7,14.7,-5.6,Perlu restok,Perlu dibeli,kurang,14.7,"- Garam: kurang 14,7 kg"
+2022-07-26,Terigu Protein Tinggi,kg,568.9,0.0,1155.6,-586.6,586.6,-5.5,Perlu restok,Perlu dibeli,kurang,586.6,"- Terigu Protein Tinggi: kurang 586,6 kg"
+2022-07-26,Susu Bubuk,kg,5.2,0.0,9.0,-3.7,3.7,-4.2,Perlu restok,Perlu dibeli,kurang,3.7,"- Susu Bubuk: kurang 3,7 kg"
+2022-07-26,Mentega,kg,23.8,0.0,39.3,-15.5,15.5,-3.9,Perlu restok,Perlu dibeli,kurang,15.5,"- Mentega: kurang 15,5 kg"
+2022-07-26,Gula,kg,5.9,26.0,37.9,-6.0,6.0,-1.6,Perlu restok,Perlu dibeli,kurang,6.0,"- Gula: kurang 6,0 kg"
+2022-07-26,Telur,butir,45.0,192.0,263.0,-26.0,26.0,-1.0,Perlu restok,Perlu dibeli,kurang,26.0,- Telur: kurang 26 butir
+2022-07-26,Tepung Gandum Utuh,kg,58.3,131.0,188.4,0.9,0.0,0.0,Cukup,Perlu dipantau,sisa,0.9,"- Tepung Gandum Utuh: sisa 0,9 kg setelah 7 hari"
+2022-07-26,Cream Cheese,kg,9.0,16.1,21.5,3.7,0.0,1.7,Cukup,-,-,,
+2022-07-26,Cokelat,kg,10.7,17.5,23.5,4.6,0.0,1.9,Cukup,-,-,,
+2022-07-26,Ragi Instan,kg,1.3,2.0,2.7,0.6,0.0,2.0,Cukup,-,-,,
+2022-07-27,Mentega,kg,20.0,0.0,43.2,-23.3,23.3,-5.9,Perlu restok,Perlu dibeli,kurang,23.3,"- Mentega: kurang 23,3 kg"
+2022-07-27,Gula,kg,28.7,0.0,37.3,-8.6,8.6,-2.3,Perlu restok,Perlu dibeli,kurang,8.6,"- Gula: kurang 8,6 kg"
+2022-07-27,Telur,butir,22.0,192.0,266.0,-53.0,53.0,-2.0,Perlu restok,Perlu dibeli,kurang,53.0,- Telur: kurang 53 butir
+2022-07-27,Tepung Gandum Utuh,kg,36.4,131.0,181.1,-13.6,13.6,-0.7,Perlu restok,Perlu dibeli,kurang,13.6,"- Tepung Gandum Utuh: kurang 13,6 kg"
+2022-07-27,Cream Cheese,kg,7.5,16.1,21.0,2.6,0.0,1.2,Cukup,-,-,,
+2022-07-27,Cokelat,kg,9.0,17.5,23.3,3.2,0.0,1.3,Cukup,-,-,,
+2022-07-27,Garam,kg,11.0,19.1,26.4,3.7,0.0,1.4,Cukup,-,-,,
+2022-07-27,Terigu Protein Tinggi,kg,452.6,779.5,1079.0,153.1,0.0,1.4,Cukup,-,-,,
+2022-07-27,Ragi Instan,kg,1.0,2.0,2.6,0.5,0.0,1.8,Cukup,-,-,,
+2022-07-27,Susu Bubuk,kg,4.4,6.8,9.0,2.1,0.0,2.4,Cukup,-,-,,
+2022-07-28,Gula,kg,25.1,0.0,36.9,-11.8,11.8,-3.1,Perlu restok,Perlu dibeli,kurang,11.8,"- Gula: kurang 11,8 kg"
+2022-07-28,Telur,butir,188.0,0.0,264.0,-76.0,76.0,-2.8,Perlu restok,Perlu dibeli,kurang,76.0,- Telur: kurang 76 butir
+2022-07-28,Tepung Gandum Utuh,kg,148.9,0.0,192.7,-43.8,43.8,-2.3,Perlu restok,Perlu dibeli,kurang,43.8,"- Tepung Gandum Utuh: kurang 43,8 kg"
+2022-07-28,Cokelat,kg,6.5,17.5,24.3,-0.4,0.4,-0.1,Perlu restok,Perlu dibeli,kurang,0.4,"- Cokelat: kurang 0,4 kg"
+2022-07-28,Ragi Instan,kg,0.8,2.0,2.8,-0.0,0.0,-0.0,Perlu restok,Perlu dibeli,kurang,0.0,"- Ragi Instan: kurang 0,0 kg"
+2022-07-28,Terigu Protein Tinggi,kg,350.1,779.5,1107.2,22.4,0.0,0.2,Cukup,Perlu dipantau,sisa,22.4,"- Terigu Protein Tinggi: sisa 22,4 kg setelah 7 hari"
+2022-07-28,Garam,kg,8.5,19.1,26.8,0.7,0.0,0.3,Cukup,Perlu dipantau,sisa,0.7,"- Garam: sisa 0,7 kg setelah 7 hari"
+2022-07-28,Cream Cheese,kg,6.0,16.1,21.1,1.0,0.0,0.5,Cukup,Perlu dipantau,sisa,1.0,"- Cream Cheese: sisa 1,0 kg setelah 7 hari"
+2022-07-28,Susu Bubuk,kg,3.6,6.8,8.8,1.6,0.0,1.8,Cukup,-,-,,
+2022-07-28,Mentega,kg,16.1,29.9,38.3,7.7,0.0,1.9,Cukup,-,-,,
+2022-07-29,Gula,kg,21.2,0.0,40.4,-19.2,19.2,-4.9,Perlu restok,Perlu dibeli,kurang,19.2,"- Gula: kurang 19,2 kg"
+2022-07-29,Cokelat,kg,21.7,0.0,31.3,-9.6,9.6,-3.9,Perlu restok,Perlu dibeli,kurang,9.6,"- Cokelat: kurang 9,6 kg"
+2022-07-29,Telur,butir,158.0,0.0,266.0,-107.0,107.0,-3.9,Perlu restok,Perlu dibeli,kurang,107.0,- Telur: kurang 107 butir
+2022-07-29,Tepung Gandum Utuh,kg,127.4,0.0,188.6,-61.2,61.2,-3.1,Perlu restok,Perlu dibeli,kurang,61.2,"- Tepung Gandum Utuh: kurang 61,2 kg"
+2022-07-29,Terigu Protein Tinggi,kg,230.3,779.5,1105.0,-95.2,95.2,-0.9,Perlu restok,Perlu dibeli,kurang,95.2,"- Terigu Protein Tinggi: kurang 95,2 kg"
+2022-07-29,Garam,kg,5.5,19.1,26.3,-1.7,1.7,-0.6,Perlu restok,Perlu dibeli,kurang,1.7,"- Garam: kurang 1,7 kg"
+2022-07-29,Ragi Instan,kg,2.6,0.0,2.7,-0.1,0.1,-0.4,Perlu restok,Perlu dibeli,kurang,0.1,"- Ragi Instan: kurang 0,1 kg"
+2022-07-29,Cream Cheese,kg,20.3,0.0,20.9,-0.6,0.6,-0.3,Perlu restok,Perlu dibeli,kurang,0.6,"- Cream Cheese: kurang 0,6 kg"
+2022-07-29,Mentega,kg,11.8,29.9,41.3,0.4,0.0,0.1,Cukup,Perlu dipantau,sisa,0.4,"- Mentega: sisa 0,4 kg setelah 7 hari"
+2022-07-29,Susu Bubuk,kg,2.5,6.8,8.8,0.6,0.0,0.7,Cukup,Perlu dipantau,sisa,0.6,"- Susu Bubuk: sisa 0,6 kg setelah 7 hari"
+2022-07-30,Garam,kg,22.0,0.0,33.7,-11.6,11.6,-4.2,Perlu restok,Perlu dibeli,kurang,11.6,"- Garam: kurang 11,6 kg"
+2022-07-30,Ragi Instan,kg,2.3,0.0,3.6,-1.2,1.2,-4.2,Perlu restok,Perlu dibeli,kurang,1.2,"- Ragi Instan: kurang 1,2 kg"
+2022-07-30,Terigu Protein Tinggi,kg,905.3,0.0,1373.1,-467.8,467.8,-4.1,Perlu restok,Perlu dibeli,kurang,467.8,"- Terigu Protein Tinggi: kurang 467,8 kg"
+2022-07-30,Cream Cheese,kg,18.6,0.0,27.5,-8.8,8.8,-4.0,Perlu restok,Perlu dibeli,kurang,8.8,"- Cream Cheese: kurang 8,8 kg"
+2022-07-30,Tepung Gandum Utuh,kg,107.6,0.0,188.4,-80.8,80.8,-4.0,Perlu restok,Perlu dibeli,kurang,80.8,"- Tepung Gandum Utuh: kurang 80,8 kg"
+2022-07-30,Cokelat,kg,19.8,0.0,28.1,-8.3,8.3,-3.3,Perlu restok,Perlu dibeli,kurang,8.3,"- Cokelat: kurang 8,3 kg"
+2022-07-30,Mentega,kg,8.1,29.9,48.8,-10.8,10.8,-2.6,Perlu restok,Perlu dibeli,kurang,10.8,"- Mentega: kurang 10,8 kg"
+2022-07-30,Susu Bubuk,kg,8.6,0.0,8.8,-0.2,0.2,-0.2,Perlu restok,Perlu dibeli,kurang,0.2,"- Susu Bubuk: kurang 0,2 kg"
+2022-07-30,Gula,kg,18.1,29.5,47.3,0.2,0.0,0.0,Cukup,Perlu dipantau,sisa,0.2,"- Gula: sisa 0,2 kg setelah 7 hari"
+2022-07-30,Telur,butir,137.0,210.0,329.0,17.0,0.0,0.6,Cukup,Perlu dipantau,sisa,17.0,- Telur: sisa 17 butir setelah 7 hari
+2022-07-31,Garam,kg,18.3,0.0,34.9,-16.5,16.5,-5.8,Perlu restok,Perlu dibeli,kurang,16.5,"- Garam: kurang 16,5 kg"
+2022-07-31,Terigu Protein Tinggi,kg,756.1,0.0,1420.8,-664.7,664.7,-5.7,Perlu restok,Perlu dibeli,kurang,664.7,"- Terigu Protein Tinggi: kurang 664,7 kg"
+2022-07-31,Ragi Instan,kg,1.9,0.0,3.5,-1.7,1.7,-5.6,Perlu restok,Perlu dibeli,kurang,1.7,"- Ragi Instan: kurang 1,7 kg"
+2022-07-31,Cokelat,kg,15.5,0.0,29.1,-13.5,13.5,-5.2,Perlu restok,Perlu dibeli,kurang,13.5,"- Cokelat: kurang 13,5 kg"
+2022-07-31,Cream Cheese,kg,15.1,0.0,27.1,-11.9,11.9,-5.2,Perlu restok,Perlu dibeli,kurang,11.9,"- Cream Cheese: kurang 11,9 kg"
+2022-07-31,Mentega,kg,32.7,0.0,48.5,-15.7,15.7,-3.7,Perlu restok,Perlu dibeli,kurang,15.7,"- Mentega: kurang 15,7 kg"
+2022-07-31,Susu Bubuk,kg,7.6,0.0,10.6,-2.9,2.9,-3.1,Perlu restok,Perlu dibeli,kurang,2.9,"- Susu Bubuk: kurang 2,9 kg"
+2022-07-31,Gula,kg,12.6,29.5,45.2,-3.1,3.1,-0.8,Perlu restok,Perlu dibeli,kurang,3.1,"- Gula: kurang 3,1 kg"
+2022-07-31,Tepung Gandum Utuh,kg,79.7,146.7,240.1,-13.8,13.8,-0.7,Perlu restok,Perlu dibeli,kurang,13.8,"- Tepung Gandum Utuh: kurang 13,8 kg"
+2022-07-31,Telur,butir,101.0,210.0,313.0,-3.0,3.0,-0.1,Perlu restok,Perlu dibeli,kurang,3.0,- Telur: kurang 3 butir
+2022-08-01,Mentega,kg,24.3,0.0,39.0,-14.7,14.7,-3.3,Perlu restok,Perlu dibeli,kurang,14.7,"- Mentega: kurang 14,7 kg"
+2022-08-01,Susu Bubuk,kg,5.7,0.0,8.5,-2.8,2.8,-2.9,Perlu restok,Perlu dibeli,kurang,2.8,"- Susu Bubuk: kurang 2,8 kg"
+2022-08-01,Gula,kg,3.0,29.5,39.4,-7.0,7.0,-1.6,Perlu restok,Perlu dibeli,kurang,7.0,"- Gula: kurang 7,0 kg"
+2022-08-01,Telur,butir,36.0,210.0,263.0,-18.0,18.0,-0.6,Perlu restok,Perlu dibeli,kurang,18.0,- Telur: kurang 18 butir
+2022-08-01,Tepung Gandum Utuh,kg,42.5,146.7,199.7,-10.5,10.5,-0.5,Perlu restok,Perlu dibeli,kurang,10.5,"- Tepung Gandum Utuh: kurang 10,5 kg"
+2022-08-01,Cokelat,kg,8.7,19.2,26.6,1.3,0.0,0.5,Cukup,Perlu dipantau,sisa,1.3,"- Cokelat: sisa 1,3 kg setelah 7 hari"
+2022-08-01,Cream Cheese,kg,8.5,17.4,20.6,5.4,0.0,2.2,Cukup,-,-,,
+2022-08-01,Ragi Instan,kg,1.1,2.2,2.6,0.8,0.0,2.4,Cukup,-,-,,
+2022-08-01,Terigu Protein Tinggi,kg,543.0,843.1,1041.8,344.3,0.0,2.8,Cukup,-,-,,
+2022-08-01,Garam,kg,13.2,20.7,25.3,8.6,0.0,2.9,Cukup,-,-,,
+2022-08-02,Gula,kg,27.2,0.0,37.9,-10.7,10.7,-2.4,Perlu restok,Perlu dibeli,kurang,10.7,"- Gula: kurang 10,7 kg"
+2022-08-02,Telur,butir,207.0,0.0,261.0,-53.0,53.0,-1.7,Perlu restok,Perlu dibeli,kurang,53.0,- Telur: kurang 53 butir
+2022-08-02,Tepung Gandum Utuh,kg,13.8,146.7,196.5,-36.0,36.0,-1.6,Perlu restok,Perlu dibeli,kurang,36.0,"- Tepung Gandum Utuh: kurang 36,0 kg"
+2022-08-02,Cokelat,kg,5.2,19.2,26.5,-2.1,2.1,-0.7,Perlu restok,Perlu dibeli,kurang,2.1,"- Cokelat: kurang 2,1 kg"
+2022-08-02,Ragi Instan,kg,0.8,2.2,3.0,-0.0,0.0,-0.1,Perlu restok,Perlu dibeli,kurang,0.0,"- Ragi Instan: kurang 0,0 kg"
+2022-08-02,Cream Cheese,kg,5.7,17.4,23.1,0.0,0.0,0.0,Cukup,Perlu dipantau,sisa,0.0,"- Cream Cheese: sisa 0,0 kg setelah 7 hari"
+2022-08-02,Garam,kg,9.3,20.7,26.2,3.8,0.0,1.2,Cukup,-,-,,
+2022-08-02,Terigu Protein Tinggi,kg,387.0,843.1,1068.9,161.2,0.0,1.3,Cukup,-,-,,
+2022-08-02,Mentega,kg,19.1,33.5,37.5,15.1,0.0,3.3,Cukup,-,-,,
+2022-08-02,Susu Bubuk,kg,4.4,7.6,8.1,3.9,0.0,3.9,Cukup,-,-,,
+2022-08-03,Telur,butir,173.0,0.0,270.0,-96.0,96.0,-3.1,Perlu restok,Perlu dibeli,kurang,96.0,- Telur: kurang 96 butir
+2022-08-03,Tepung Gandum Utuh,kg,136.9,0.0,191.7,-54.8,54.8,-2.5,Perlu restok,Perlu dibeli,kurang,54.8,"- Tepung Gandum Utuh: kurang 54,8 kg"
+2022-08-03,Ragi Instan,kg,0.4,2.2,3.0,-0.4,0.4,-1.2,Perlu restok,Perlu dibeli,kurang,0.4,"- Ragi Instan: kurang 0,4 kg"
+2022-08-03,Cream Cheese,kg,3.3,17.4,23.5,-2.8,2.8,-1.1,Perlu restok,Perlu dibeli,kurang,2.8,"- Cream Cheese: kurang 2,8 kg"
+2022-08-03,Cokelat,kg,1.9,19.2,23.4,-2.3,2.3,-0.8,Perlu restok,Perlu dibeli,kurang,2.3,"- Cokelat: kurang 2,3 kg"
+2022-08-03,Garam,kg,6.1,20.7,26.7,0.0,0.0,0.0,Cukup,Perlu dipantau,sisa,0.0,"- Garam: sisa 0,0 kg setelah 7 hari"
+2022-08-03,Terigu Protein Tinggi,kg,255.9,843.1,1092.0,7.0,0.0,0.1,Cukup,Perlu dipantau,sisa,7.0,"- Terigu Protein Tinggi: sisa 7,0 kg setelah 7 hari"
+2022-08-03,Mentega,kg,14.4,33.5,35.8,12.0,0.0,2.7,Cukup,-,-,,
+2022-08-03,Susu Bubuk,kg,3.4,7.6,8.0,3.0,0.0,3.0,Cukup,-,-,,
+2022-08-03,Gula,kg,22.4,33.0,35.8,19.6,0.0,4.5,Cukup,-,-,,
+2022-08-04,Tepung Gandum Utuh,kg,109.5,0.0,197.2,-87.7,87.7,-3.9,Perlu restok,Perlu dibeli,kurang,87.7,"- Tepung Gandum Utuh: kurang 87,7 kg"
+2022-08-04,Cokelat,kg,19.1,0.0,22.8,-3.7,3.7,-1.3,Perlu restok,Perlu dibeli,kurang,3.7,"- Cokelat: kurang 3,7 kg"
+2022-08-04,Garam,kg,23.3,0.0,26.7,-3.4,3.4,-1.1,Perlu restok,Perlu dibeli,kurang,3.4,"- Garam: kurang 3,4 kg"
+2022-08-04,Ragi Instan,kg,2.5,0.0,2.8,-0.3,0.3,-1.1,Perlu restok,Perlu dibeli,kurang,0.3,"- Ragi Instan: kurang 0,3 kg"
+2022-08-04,Terigu Protein Tinggi,kg,958.8,0.0,1068.7,-109.9,109.9,-0.9,Perlu restok,Perlu dibeli,kurang,109.9,"- Terigu Protein Tinggi: kurang 109,9 kg"
+2022-08-04,Cream Cheese,kg,19.6,0.0,21.0,-1.4,1.4,-0.5,Perlu restok,Perlu dibeli,kurang,1.4,"- Cream Cheese: kurang 1,4 kg"
+2022-08-04,Mentega,kg,10.3,33.5,38.9,4.9,0.0,1.1,Cukup,-,-,,
+2022-08-04,Susu Bubuk,kg,2.5,7.6,8.1,2.0,0.0,2.0,Cukup,-,-,,
+2022-08-04,Gula,kg,19.1,33.0,36.3,15.8,0.0,3.6,Cukup,-,-,,
+2022-08-04,Telur,butir,149.0,233.0,255.0,127.0,0.0,4.1,Cukup,-,-,,
+2022-08-05,Garam,kg,19.8,0.0,27.4,-7.6,7.6,-2.4,Perlu restok,Perlu dibeli,kurang,7.6,"- Garam: kurang 7,6 kg"
+2022-08-05,Cokelat,kg,16.4,0.0,23.1,-6.7,6.7,-2.3,Perlu restok,Perlu dibeli,kurang,6.7,"- Cokelat: kurang 6,7 kg"
+2022-08-05,Terigu Protein Tinggi,kg,818.6,0.0,1110.1,-291.4,291.4,-2.3,Perlu restok,Perlu dibeli,kurang,291.4,"- Terigu Protein Tinggi: kurang 291,4 kg"
+2022-08-05,Ragi Instan,kg,2.1,0.0,2.8,-0.7,0.7,-2.0,Perlu restok,Perlu dibeli,kurang,0.7,"- Ragi Instan: kurang 0,7 kg"
+2022-08-05,Cream Cheese,kg,17.0,0.0,21.7,-4.7,4.7,-1.8,Perlu restok,Perlu dibeli,kurang,4.7,"- Cream Cheese: kurang 4,7 kg"
+2022-08-05,Mentega,kg,39.4,0.0,35.0,4.3,0.0,0.9,Cukup,Perlu dipantau,sisa,4.3,"- Mentega: sisa 4,3 kg setelah 7 hari"
+2022-08-05,Susu Bubuk,kg,9.0,0.0,7.8,1.1,0.0,1.1,Cukup,-,-,,
+2022-08-05,Tepung Gandum Utuh,kg,83.4,164.9,195.4,52.8,0.0,2.3,Cukup,-,-,,
+2022-08-05,Gula,kg,14.6,33.0,36.6,11.0,0.0,2.4,Cukup,-,-,,
+2022-08-05,Telur,butir,116.0,233.0,260.0,90.0,0.0,2.8,Cukup,-,-,,
+2022-08-06,Garam,kg,16.4,0.0,27.7,-11.3,11.3,-3.5,Perlu restok,Perlu dibeli,kurang,11.3,"- Garam: kurang 11,3 kg"
+2022-08-06,Ragi Instan,kg,1.8,0.0,2.9,-1.1,1.1,-3.4,Perlu restok,Perlu dibeli,kurang,1.1,"- Ragi Instan: kurang 1,1 kg"
+2022-08-06,Terigu Protein Tinggi,kg,677.6,0.0,1125.9,-448.3,448.3,-3.4,Perlu restok,Perlu dibeli,kurang,448.3,"- Terigu Protein Tinggi: kurang 448,3 kg"
+2022-08-06,Mentega,kg,33.5,0.0,39.9,-6.4,6.4,-1.3,Perlu restok,Perlu dibeli,kurang,6.4,"- Mentega: kurang 6,4 kg"
+2022-08-06,Susu Bubuk,kg,7.6,0.0,9.0,-1.4,1.4,-1.3,Perlu restok,Perlu dibeli,kurang,1.4,"- Susu Bubuk: kurang 1,4 kg"
+2022-08-06,Tepung Gandum Utuh,kg,59.2,164.9,195.2,28.8,0.0,1.2,Cukup,-,-,,
+2022-08-06,Telur,butir,77.0,233.0,258.0,52.0,0.0,1.6,Cukup,-,-,,
+2022-08-06,Gula,kg,42.2,0.0,32.8,9.4,0.0,2.0,Cukup,-,-,,
+2022-08-06,Cokelat,kg,13.2,21.6,24.8,10.0,0.0,3.3,Cukup,-,-,,
+2022-08-06,Cream Cheese,kg,14.2,19.4,22.5,11.1,0.0,4.2,Cukup,-,-,,
+2022-08-07,Mentega,kg,28.0,0.0,41.3,-13.3,13.3,-2.7,Perlu restok,Perlu dibeli,kurang,13.3,"- Mentega: kurang 13,3 kg"
+2022-08-07,Susu Bubuk,kg,6.3,0.0,8.8,-2.5,2.5,-2.3,Perlu restok,Perlu dibeli,kurang,2.5,"- Susu Bubuk: kurang 2,5 kg"
+2022-08-07,Tepung Gandum Utuh,kg,27.7,164.9,223.4,-30.8,30.8,-1.3,Perlu restok,Perlu dibeli,kurang,30.8,"- Tepung Gandum Utuh: kurang 30,8 kg"
+2022-08-07,Gula,kg,36.6,0.0,40.1,-3.5,3.5,-0.7,Perlu restok,Perlu dibeli,kurang,3.5,"- Gula: kurang 3,5 kg"
+2022-08-07,Telur,butir,270.0,0.0,279.0,-9.0,9.0,-0.3,Perlu restok,Perlu dibeli,kurang,9.0,- Telur: kurang 9 butir
+2022-08-07,Cokelat,kg,9.7,21.6,26.4,5.0,0.0,1.6,Cukup,-,-,,
+2022-08-07,Garam,kg,12.2,23.3,27.6,7.9,0.0,2.4,Cukup,-,-,,
+2022-08-07,Terigu Protein Tinggi,kg,508.9,949.7,1141.4,317.2,0.0,2.4,Cukup,-,-,,
+2022-08-07,Cream Cheese,kg,10.8,19.4,22.2,8.0,0.0,2.9,Cukup,-,-,,
+2022-08-07,Ragi Instan,kg,1.4,2.5,2.9,1.0,0.0,3.0,Cukup,-,-,,
+2022-08-08,Gula,kg,27.5,0.0,43.2,-15.7,15.7,-3.2,Perlu restok,Perlu dibeli,kurang,15.7,"- Gula: kurang 15,7 kg"
+2022-08-08,Tepung Gandum Utuh,kg,150.7,0.0,218.1,-67.3,67.3,-2.7,Perlu restok,Perlu dibeli,kurang,67.3,"- Tepung Gandum Utuh: kurang 67,3 kg"
+2022-08-08,Telur,butir,209.0,0.0,300.0,-91.0,91.0,-2.6,Perlu restok,Perlu dibeli,kurang,91.0,- Telur: kurang 91 butir
+2022-08-08,Cokelat,kg,3.3,21.6,28.4,-3.5,3.5,-1.1,Perlu restok,Perlu dibeli,kurang,3.5,"- Cokelat: kurang 3,5 kg"
+2022-08-08,Cream Cheese,kg,4.0,19.4,25.3,-1.9,1.9,-0.7,Perlu restok,Perlu dibeli,kurang,1.9,"- Cream Cheese: kurang 1,9 kg"
+2022-08-08,Garam,kg,6.6,23.3,31.3,-1.4,1.4,-0.4,Perlu restok,Perlu dibeli,kurang,1.4,"- Garam: kurang 1,4 kg"
+2022-08-08,Ragi Instan,kg,0.6,2.5,3.3,-0.2,0.2,-0.4,Perlu restok,Perlu dibeli,kurang,0.2,"- Ragi Instan: kurang 0,2 kg"
+2022-08-08,Terigu Protein Tinggi,kg,281.4,949.7,1291.8,-60.7,60.7,-0.4,Perlu restok,Perlu dibeli,kurang,60.7,"- Terigu Protein Tinggi: kurang 60,7 kg"
+2022-08-08,Mentega,kg,20.1,36.1,42.2,14.0,0.0,2.8,Cukup,-,-,,
+2022-08-08,Susu Bubuk,kg,4.4,8.3,9.3,3.4,0.0,3.0,Cukup,-,-,,
+2022-08-09,Cokelat,kg,20.0,0.0,28.5,-8.5,8.5,-2.5,Perlu restok,Perlu dibeli,kurang,8.5,"- Cokelat: kurang 8,5 kg"
+2022-08-09,Garam,kg,1.6,23.3,32.3,-7.4,7.4,-2.1,Perlu restok,Perlu dibeli,kurang,7.4,"- Garam: kurang 7,4 kg"
+2022-08-09,Terigu Protein Tinggi,kg,78.0,949.7,1319.0,-291.2,291.2,-2.0,Perlu restok,Perlu dibeli,kurang,291.2,"- Terigu Protein Tinggi: kurang 291,2 kg"
+2022-08-09,Cream Cheese,kg,19.6,0.0,25.2,-5.6,5.6,-1.9,Perlu restok,Perlu dibeli,kurang,5.6,"- Cream Cheese: kurang 5,6 kg"
+2022-08-09,Ragi Instan,kg,0.1,2.5,3.2,-0.5,0.5,-1.4,Perlu restok,Perlu dibeli,kurang,0.5,"- Ragi Instan: kurang 0,5 kg"
+2022-08-09,Susu Bubuk,kg,2.8,8.3,9.9,1.2,0.0,1.1,Cukup,-,-,,
+2022-08-09,Mentega,kg,13.4,36.1,41.7,7.8,0.0,1.5,Cukup,-,-,,
+2022-08-09,Gula,kg,20.5,37.0,42.8,14.7,0.0,2.9,Cukup,-,-,,
+2022-08-09,Tepung Gandum Utuh,kg,113.1,181.3,204.2,90.2,0.0,3.5,Cukup,-,-,,
+2022-08-09,Telur,butir,159.0,261.0,292.0,128.0,0.0,3.6,Cukup,-,-,,
+2022-08-10,Cream Cheese,kg,17.0,0.0,25.1,-8.2,8.2,-2.8,Perlu restok,Perlu dibeli,kurang,8.2,"- Cream Cheese: kurang 8,2 kg"
+2022-08-10,Ragi Instan,kg,2.3,0.0,3.2,-0.9,0.9,-2.4,Perlu restok,Perlu dibeli,kurang,0.9,"- Ragi Instan: kurang 0,9 kg"
+2022-08-10,Terigu Protein Tinggi,kg,870.8,0.0,1207.2,-336.3,336.3,-2.4,Perlu restok,Perlu dibeli,kurang,336.3,"- Terigu Protein Tinggi: kurang 336,3 kg"
+2022-08-10,Garam,kg,21.0,0.0,27.7,-6.8,6.8,-1.9,Perlu restok,Perlu dibeli,kurang,6.8,"- Garam: kurang 6,8 kg"
+2022-08-10,Susu Bubuk,kg,1.9,8.3,9.3,0.9,0.0,0.8,Cukup,Perlu dipantau,sisa,0.9,"- Susu Bubuk: sisa 0,9 kg setelah 7 hari"
+2022-08-10,Mentega,kg,9.1,36.1,39.9,5.3,0.0,1.1,Cukup,-,-,,
+2022-08-10,Tepung Gandum Utuh,kg,81.9,181.3,200.2,63.0,0.0,2.5,Cukup,-,-,,
+2022-08-10,Gula,kg,16.2,37.0,39.6,13.6,0.0,2.7,Cukup,-,-,,
+2022-08-10,Telur,butir,130.0,261.0,277.0,113.0,0.0,3.2,Cukup,-,-,,
+2022-08-10,Cokelat,kg,17.1,24.3,27.7,13.7,0.0,4.2,Cukup,-,-,,
+2022-08-11,Garam,kg,16.7,0.0,30.4,-13.8,13.8,-3.9,Perlu restok,Perlu dibeli,kurang,13.8,"- Garam: kurang 13,8 kg"
+2022-08-11,Ragi Instan,kg,2.0,0.0,3.3,-1.4,1.4,-3.6,Perlu restok,Perlu dibeli,kurang,1.4,"- Ragi Instan: kurang 1,4 kg"
+2022-08-11,Terigu Protein Tinggi,kg,699.5,0.0,1191.6,-492.1,492.1,-3.4,Perlu restok,Perlu dibeli,kurang,492.1,"- Terigu Protein Tinggi: kurang 492,1 kg"
+2022-08-11,Mentega,kg,39.9,0.0,42.2,-2.3,2.3,-0.4,Perlu restok,Perlu dibeli,kurang,2.3,"- Mentega: kurang 2,3 kg"
+2022-08-11,Susu Bubuk,kg,8.9,0.0,8.9,-0.0,0.0,-0.0,Perlu restok,Perlu dibeli,kurang,0.0,"- Susu Bubuk: kurang 0,0 kg"
+2022-08-11,Tepung Gandum Utuh,kg,49.3,181.3,206.2,24.4,0.0,0.9,Cukup,Perlu dipantau,sisa,24.4,"- Tepung Gandum Utuh: sisa 24,4 kg setelah 7 hari"
+2022-08-11,Gula,kg,11.1,37.0,43.2,4.9,0.0,1.0,Cukup,-,-,,
+2022-08-11,Telur,butir,93.0,261.0,296.0,58.0,0.0,1.6,Cukup,-,-,,
+2022-08-11,Cokelat,kg,14.2,24.3,26.9,11.5,0.0,3.5,Cukup,-,-,,
+2022-08-11,Cream Cheese,kg,13.8,21.8,23.7,12.0,0.0,4.0,Cukup,-,-,,
+2022-08-12,Mentega,kg,33.9,0.0,43.4,-9.5,9.5,-1.8,Perlu restok,Perlu dibeli,kurang,9.5,"- Mentega: kurang 9,5 kg"
+2022-08-12,Susu Bubuk,kg,7.4,0.0,9.3,-1.9,1.9,-1.6,Perlu restok,Perlu dibeli,kurang,1.9,"- Susu Bubuk: kurang 1,9 kg"
+2022-08-12,Tepung Gandum Utuh,kg,199.1,0.0,219.5,-20.4,20.4,-0.8,Perlu restok,Perlu dibeli,kurang,20.4,"- Tepung Gandum Utuh: kurang 20,4 kg"
+2022-08-12,Gula,kg,41.6,0.0,40.0,1.6,0.0,0.3,Cukup,Perlu dipantau,sisa,1.6,"- Gula: sisa 1,6 kg setelah 7 hari"
+2022-08-12,Telur,butir,308.0,0.0,256.0,52.0,0.0,1.5,Cukup,-,-,,
+2022-08-12,Cream Cheese,kg,9.2,21.8,26.1,4.9,0.0,1.6,Cukup,-,-,,
+2022-08-12,Cokelat,kg,10.2,24.3,27.2,7.4,0.0,2.2,Cukup,-,-,,
+2022-08-12,Garam,kg,12.4,25.6,27.8,10.2,0.0,2.8,Cukup,-,-,,
+2022-08-12,Ragi Instan,kg,1.5,2.8,3.2,1.1,0.0,2.8,Cukup,-,-,,
+2022-08-12,Terigu Protein Tinggi,kg,526.2,1039.6,1129.9,435.9,0.0,3.0,Cukup,-,-,,
+2022-08-13,Susu Bubuk,kg,6.0,0.0,10.2,-4.2,4.2,-3.5,Perlu restok,Perlu dibeli,kurang,4.2,"- Susu Bubuk: kurang 4,2 kg"
+2022-08-13,Mentega,kg,28.1,0.0,45.0,-16.9,16.9,-3.2,Perlu restok,Perlu dibeli,kurang,16.9,"- Mentega: kurang 16,9 kg"
+2022-08-13,Tepung Gandum Utuh,kg,167.3,0.0,224.2,-56.9,56.9,-2.1,Perlu restok,Perlu dibeli,kurang,56.9,"- Tepung Gandum Utuh: kurang 56,9 kg"
+2022-08-13,Gula,kg,35.3,0.0,40.4,-5.1,5.1,-1.0,Perlu restok,Perlu dibeli,kurang,5.1,"- Gula: kurang 5,1 kg"
+2022-08-13,Cream Cheese,kg,5.1,21.8,28.6,-1.6,1.6,-0.5,Perlu restok,Perlu dibeli,kurang,1.6,"- Cream Cheese: kurang 1,6 kg"
+2022-08-13,Telur,butir,264.0,0.0,283.0,-18.0,18.0,-0.5,Perlu restok,Perlu dibeli,kurang,18.0,- Telur: kurang 18 butir
+2022-08-13,Garam,kg,8.2,25.6,29.9,3.9,0.0,1.0,Cukup,-,-,,
+2022-08-13,Cokelat,kg,30.2,0.0,25.8,4.4,0.0,1.3,Cukup,-,-,,
+2022-08-13,Terigu Protein Tinggi,kg,354.0,1039.6,1195.0,198.6,0.0,1.3,Cukup,-,-,,
+2022-08-13,Ragi Instan,kg,1.0,2.8,3.1,0.7,0.0,1.8,Cukup,-,-,,
+2022-08-14,Tepung Gandum Utuh,kg,130.4,0.0,261.9,-131.5,131.5,-4.8,Perlu restok,Perlu dibeli,kurang,131.5,"- Tepung Gandum Utuh: kurang 131,5 kg"
+2022-08-14,Cream Cheese,kg,21.5,0.0,31.0,-9.5,9.5,-3.0,Perlu restok,Perlu dibeli,kurang,9.5,"- Cream Cheese: kurang 9,5 kg"
+2022-08-14,Gula,kg,28.2,0.0,40.3,-12.1,12.1,-2.3,Perlu restok,Perlu dibeli,kurang,12.1,"- Gula: kurang 12,1 kg"
+2022-08-14,Telur,butir,214.0,0.0,282.0,-68.0,68.0,-1.9,Perlu restok,Perlu dibeli,kurang,68.0,- Telur: kurang 68 butir
+2022-08-14,Garam,kg,3.2,25.6,30.4,-1.6,1.6,-0.4,Perlu restok,Perlu dibeli,kurang,1.6,"- Garam: kurang 1,6 kg"
+2022-08-14,Terigu Protein Tinggi,kg,154.0,1039.6,1218.0,-24.4,24.4,-0.2,Perlu restok,Perlu dibeli,kurang,24.4,"- Terigu Protein Tinggi: kurang 24,4 kg"
+2022-08-14,Cokelat,kg,26.3,0.0,25.9,0.5,0.0,0.1,Cukup,Perlu dipantau,sisa,0.5,"- Cokelat: sisa 0,5 kg setelah 7 hari"
+2022-08-14,Ragi Instan,kg,0.5,2.8,3.2,0.1,0.0,0.1,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-08-14,Susu Bubuk,kg,4.2,9.0,9.6,3.6,0.0,3.0,Cukup,-,-,,
+2022-08-14,Mentega,kg,21.4,38.7,42.5,17.6,0.0,3.4,Cukup,-,-,,
+2022-08-15,Ragi Instan,kg,2.2,0.0,3.8,-1.5,1.5,-3.8,Perlu restok,Perlu dibeli,kurang,1.5,"- Ragi Instan: kurang 1,5 kg"
+2022-08-15,Garam,kg,22.1,0.0,32.4,-10.3,10.3,-2.7,Perlu restok,Perlu dibeli,kurang,10.3,"- Garam: kurang 10,3 kg"
+2022-08-15,Terigu Protein Tinggi,kg,918.3,0.0,1315.6,-397.3,397.3,-2.6,Perlu restok,Perlu dibeli,kurang,397.3,"- Terigu Protein Tinggi: kurang 397,3 kg"
+2022-08-15,Susu Bubuk,kg,1.8,9.0,11.2,-0.5,0.5,-0.4,Perlu restok,Perlu dibeli,kurang,0.5,"- Susu Bubuk: kurang 0,5 kg"
+2022-08-15,Gula,kg,15.6,38.9,52.5,2.0,0.0,0.4,Cukup,Perlu dipantau,sisa,2.0,"- Gula: sisa 2,0 kg setelah 7 hari"
+2022-08-15,Tepung Gandum Utuh,kg,82.1,196.5,262.8,15.9,0.0,0.6,Cukup,Perlu dipantau,sisa,15.9,"- Tepung Gandum Utuh: sisa 15,9 kg setelah 7 hari"
+2022-08-15,Mentega,kg,10.7,38.7,44.1,5.3,0.0,1.0,Cukup,-,-,,
+2022-08-15,Cream Cheese,kg,13.0,23.7,31.7,5.1,0.0,1.5,Cukup,-,-,,
+2022-08-15,Telur,butir,129.0,274.0,347.0,55.0,0.0,1.5,Cukup,-,-,,
+2022-08-15,Cokelat,kg,16.6,25.2,32.3,9.4,0.0,2.6,Cukup,-,-,,
+2022-08-16,Susu Bubuk,kg,0.0,9.0,11.9,-2.9,2.9,-2.2,Perlu restok,Perlu dibeli,kurang,2.9,"- Susu Bubuk: kurang 2,9 kg"
+2022-08-16,Mentega,kg,3.9,38.7,49.4,-6.8,6.8,-1.2,Perlu restok,Perlu dibeli,kurang,6.8,"- Mentega: kurang 6,8 kg"
+2022-08-16,Gula,kg,8.3,38.9,49.4,-2.1,2.1,-0.4,Perlu restok,Perlu dibeli,kurang,2.1,"- Gula: kurang 2,1 kg"
+2022-08-16,Tepung Gandum Utuh,kg,42.2,196.5,249.8,-11.0,11.0,-0.4,Perlu restok,Perlu dibeli,kurang,11.0,"- Tepung Gandum Utuh: kurang 11,0 kg"
+2022-08-16,Cream Cheese,kg,8.1,23.7,32.6,-0.8,0.8,-0.2,Perlu restok,Perlu dibeli,kurang,0.8,"- Cream Cheese: kurang 0,8 kg"
+2022-08-16,Telur,butir,77.0,274.0,346.0,5.0,0.0,0.1,Cukup,Perlu dipantau,sisa,5.0,- Telur: sisa 5 butir setelah 7 hari
+2022-08-16,Cokelat,kg,12.0,25.2,32.8,4.3,0.0,1.2,Cukup,-,-,,
+2022-08-16,Ragi Instan,kg,1.7,3.0,3.5,1.1,0.0,2.7,Cukup,-,-,,
+2022-08-16,Garam,kg,16.8,27.2,31.1,12.9,0.0,3.3,Cukup,-,-,,
+2022-08-16,Terigu Protein Tinggi,kg,705.1,1104.6,1230.1,579.6,0.0,3.7,Cukup,-,-,,
+2022-08-17,Susu Bubuk,kg,7.9,0.0,11.5,-3.6,3.6,-2.9,Perlu restok,Perlu dibeli,kurang,3.6,"- Susu Bubuk: kurang 3,6 kg"
+2022-08-17,Cream Cheese,kg,5.9,23.7,32.5,-2.9,2.9,-0.9,Perlu restok,Perlu dibeli,kurang,2.9,"- Cream Cheese: kurang 2,9 kg"
+2022-08-17,Gula,kg,4.0,38.9,48.2,-5.3,5.3,-0.9,Perlu restok,Perlu dibeli,kurang,5.3,"- Gula: kurang 5,3 kg"
+2022-08-17,Mentega,kg,38.3,0.0,42.4,-4.0,4.0,-0.7,Perlu restok,Perlu dibeli,kurang,4.0,"- Mentega: kurang 4,0 kg"
+2022-08-17,Tepung Gandum Utuh,kg,13.8,196.5,230.1,-19.9,19.9,-0.7,Perlu restok,Perlu dibeli,kurang,19.9,"- Tepung Gandum Utuh: kurang 19,9 kg"
+2022-08-17,Telur,butir,46.0,274.0,342.0,-22.0,22.0,-0.6,Perlu restok,Perlu dibeli,kurang,22.0,- Telur: kurang 22 butir
+2022-08-17,Cokelat,kg,9.4,25.2,28.9,5.7,0.0,1.6,Cukup,-,-,,
+2022-08-17,Ragi Instan,kg,1.4,3.0,3.7,0.7,0.0,1.6,Cukup,-,-,,
+2022-08-17,Terigu Protein Tinggi,kg,555.8,1104.6,1255.8,404.6,0.0,2.6,Cukup,-,-,,
+2022-08-17,Garam,kg,13.1,27.2,30.0,10.3,0.0,2.7,Cukup,-,-,,
+2022-08-18,Susu Bubuk,kg,7.2,0.0,10.0,-2.8,2.8,-2.3,Perlu restok,Perlu dibeli,kurang,2.8,"- Susu Bubuk: kurang 2,8 kg"
+2022-08-18,Mentega,kg,34.6,0.0,45.8,-11.2,11.2,-2.1,Perlu restok,Perlu dibeli,kurang,11.2,"- Mentega: kurang 11,2 kg"
+2022-08-18,Tepung Gandum Utuh,kg,182.0,0.0,237.3,-55.3,55.3,-1.9,Perlu restok,Perlu dibeli,kurang,55.3,"- Tepung Gandum Utuh: kurang 55,3 kg"
+2022-08-18,Cream Cheese,kg,27.6,0.0,31.3,-3.7,3.7,-1.1,Perlu restok,Perlu dibeli,kurang,3.7,"- Cream Cheese: kurang 3,7 kg"
+2022-08-18,Gula,kg,39.1,0.0,44.7,-5.6,5.6,-1.0,Perlu restok,Perlu dibeli,kurang,5.6,"- Gula: kurang 5,6 kg"
+2022-08-18,Telur,butir,293.0,0.0,309.0,-16.0,16.0,-0.4,Perlu restok,Perlu dibeli,kurang,16.0,- Telur: kurang 16 butir
+2022-08-18,Cokelat,kg,31.6,0.0,31.7,-0.1,0.1,-0.0,Perlu restok,Perlu dibeli,kurang,0.1,"- Cokelat: kurang 0,1 kg"
+2022-08-18,Ragi Instan,kg,1.1,3.0,3.5,0.6,0.0,1.5,Cukup,-,-,,
+2022-08-18,Garam,kg,9.6,27.2,29.1,7.6,0.0,2.0,Cukup,-,-,,
+2022-08-18,Terigu Protein Tinggi,kg,414.5,1104.6,1183.5,335.5,0.0,2.2,Cukup,-,-,,
+2022-08-19,Mentega,kg,28.4,0.0,48.4,-20.0,20.0,-3.7,Perlu restok,Perlu dibeli,kurang,20.0,"- Mentega: kurang 20,0 kg"
+2022-08-19,Tepung Gandum Utuh,kg,148.0,0.0,227.5,-79.4,79.4,-2.7,Perlu restok,Perlu dibeli,kurang,79.4,"- Tepung Gandum Utuh: kurang 79,4 kg"
+2022-08-19,Gula,kg,32.7,0.0,44.6,-11.8,11.8,-2.1,Perlu restok,Perlu dibeli,kurang,11.8,"- Gula: kurang 11,8 kg"
+2022-08-19,Cream Cheese,kg,23.8,0.0,30.1,-6.3,6.3,-1.9,Perlu restok,Perlu dibeli,kurang,6.3,"- Cream Cheese: kurang 6,3 kg"
+2022-08-19,Telur,butir,249.0,0.0,304.0,-55.0,55.0,-1.4,Perlu restok,Perlu dibeli,kurang,55.0,- Telur: kurang 55 butir
+2022-08-19,Cokelat,kg,27.2,0.0,30.9,-3.7,3.7,-1.0,Perlu restok,Perlu dibeli,kurang,3.7,"- Cokelat: kurang 3,7 kg"
+2022-08-19,Garam,kg,32.2,0.0,30.0,2.3,0.0,0.6,Cukup,Perlu dipantau,sisa,2.3,"- Garam: sisa 2,3 kg setelah 7 hari"
+2022-08-19,Ragi Instan,kg,3.6,0.0,3.1,0.5,0.0,1.2,Cukup,-,-,,
+2022-08-19,Terigu Protein Tinggi,kg,1336.2,0.0,1130.3,205.9,0.0,1.3,Cukup,-,-,,
+2022-08-19,Susu Bubuk,kg,5.8,8.8,10.3,4.2,0.0,3.3,Cukup,-,-,,
+2022-08-20,Gula,kg,28.1,0.0,48.2,-20.0,20.0,-3.6,Perlu restok,Perlu dibeli,kurang,20.0,"- Gula: kurang 20,0 kg"
+2022-08-20,Telur,butir,217.0,0.0,342.0,-125.0,125.0,-3.2,Perlu restok,Perlu dibeli,kurang,125.0,- Telur: kurang 125 butir
+2022-08-20,Cream Cheese,kg,21.1,0.0,26.3,-5.1,5.1,-1.5,Perlu restok,Perlu dibeli,kurang,5.1,"- Cream Cheese: kurang 5,1 kg"
+2022-08-20,Garam,kg,28.8,0.0,33.5,-4.7,4.7,-1.2,Perlu restok,Perlu dibeli,kurang,4.7,"- Garam: kurang 4,7 kg"
+2022-08-20,Terigu Protein Tinggi,kg,1198.2,0.0,1365.5,-167.2,167.2,-1.0,Perlu restok,Perlu dibeli,kurang,167.2,"- Terigu Protein Tinggi: kurang 167,2 kg"
+2022-08-20,Cokelat,kg,24.2,0.0,27.0,-2.8,2.8,-0.8,Perlu restok,Perlu dibeli,kurang,2.8,"- Cokelat: kurang 2,8 kg"
+2022-08-20,Ragi Instan,kg,3.3,0.0,3.2,0.1,0.0,0.2,Cukup,Perlu dipantau,sisa,0.1,"- Ragi Instan: sisa 0,1 kg setelah 7 hari"
+2022-08-20,Susu Bubuk,kg,4.7,8.8,11.0,2.5,0.0,1.9,Cukup,-,-,,
+2022-08-20,Mentega,kg,23.7,38.3,46.5,15.4,0.0,2.8,Cukup,-,-,,
+2022-08-20,Tepung Gandum Utuh,kg,122.4,204.0,244.3,82.1,0.0,2.8,Cukup,-,-,,
+2022-08-21,Garam,kg,24.7,0.0,34.3,-9.6,9.6,-2.4,Perlu restok,Perlu dibeli,kurang,9.6,"- Garam: kurang 9,6 kg"
+2022-08-21,Terigu Protein Tinggi,kg,1031.4,0.0,1388.0,-356.6,356.6,-2.2,Perlu restok,Perlu dibeli,kurang,356.6,"- Terigu Protein Tinggi: kurang 356,6 kg"
+2022-08-21,Cokelat,kg,20.7,0.0,27.6,-6.9,6.9,-1.9,Perlu restok,Perlu dibeli,kurang,6.9,"- Cokelat: kurang 6,9 kg"
+2022-08-21,Ragi Instan,kg,2.9,0.0,3.5,-0.7,0.7,-1.6,Perlu restok,Perlu dibeli,kurang,0.7,"- Ragi Instan: kurang 0,7 kg"
+2022-08-21,Susu Bubuk,kg,3.4,8.8,11.2,0.9,0.0,0.7,Cukup,Perlu dipantau,sisa,0.9,"- Susu Bubuk: sisa 0,9 kg setelah 7 hari"
+2022-08-21,Tepung Gandum Utuh,kg,91.6,204.0,255.8,39.8,0.0,1.3,Cukup,-,-,,
+2022-08-21,Mentega,kg,18.0,38.3,47.8,8.5,0.0,1.5,Cukup,-,-,,
+2022-08-21,Gula,kg,22.5,39.4,47.8,14.1,0.0,2.5,Cukup,-,-,,
+2022-08-21,Telur,butir,176.0,277.0,334.0,119.0,0.0,3.0,Cukup,-,-,,
+2022-08-21,Cream Cheese,kg,17.7,23.9,30.2,11.5,0.0,3.3,Cukup,-,-,,
+2022-08-22,Garam,kg,19.4,0.0,33.9,-14.5,14.5,-3.6,Perlu restok,Perlu dibeli,kurang,14.5,"- Garam: kurang 14,5 kg"
+2022-08-22,Terigu Protein Tinggi,kg,817.7,0.0,1389.4,-571.7,571.7,-3.5,Perlu restok,Perlu dibeli,kurang,571.7,"- Terigu Protein Tinggi: kurang 571,7 kg"
+2022-08-22,Ragi Instan,kg,2.2,0.0,3.1,-0.9,0.9,-2.2,Perlu restok,Perlu dibeli,kurang,0.9,"- Ragi Instan: kurang 0,9 kg"
+2022-08-22,Tepung Gandum Utuh,kg,52.4,204.0,248.4,8.0,0.0,0.3,Cukup,Perlu dipantau,sisa,8.0,"- Tepung Gandum Utuh: sisa 8,0 kg setelah 7 hari"
+2022-08-22,Susu Bubuk,kg,10.4,0.0,9.7,0.8,0.0,0.6,Cukup,Perlu dipantau,sisa,0.8,"- Susu Bubuk: sisa 0,8 kg setelah 7 hari"
+2022-08-22,Gula,kg,14.2,39.4,44.2,9.4,0.0,1.6,Cukup,-,-,,
+2022-08-22,Cokelat,kg,14.8,26.0,32.6,8.1,0.0,2.1,Cukup,-,-,,
+2022-08-22,Mentega,kg,10.4,38.3,37.0,11.8,0.0,2.1,Cukup,-,-,,
+2022-08-22,Telur,butir,120.0,277.0,308.0,89.0,0.0,2.2,Cukup,-,-,,
+2022-08-22,Cream Cheese,kg,12.1,23.9,27.8,8.2,0.0,2.3,Cukup,-,-,,
+2022-08-23,Tepung Gandum Utuh,kg,231.2,0.0,236.5,-5.3,5.3,-0.2,Perlu restok,Perlu dibeli,kurang,5.3,"- Tepung Gandum Utuh: kurang 5,3 kg"
+2022-08-23,Gula,kg,9.8,39.4,40.2,9.0,0.0,1.6,Cukup,-,-,,
+2022-08-23,Mentega,kg,44.4,0.0,33.9,10.6,0.0,1.9,Cukup,-,-,,
+2022-08-23,Susu Bubuk,kg,9.5,0.0,6.0,3.5,0.0,2.7,Cukup,-,-,,
+2022-08-23,Cokelat,kg,11.7,26.0,26.4,11.3,0.0,3.0,Cukup,-,-,,
+2022-08-23,Telur,butir,90.0,277.0,243.0,123.0,0.0,3.1,Cukup,-,-,,
+2022-08-23,Cream Cheese,kg,9.4,23.9,18.8,14.5,0.0,4.1,Cukup,-,-,,
+2022-08-23,Garam,kg,16.1,28.5,27.0,17.6,0.0,4.3,Cukup,-,-,,
+2022-08-23,Terigu Protein Tinggi,kg,684.3,1154.1,1109.7,728.7,0.0,4.4,Cukup,-,-,,
+2022-08-23,Ragi Instan,kg,1.9,3.0,2.5,2.4,0.0,5.7,Cukup,-,-,,
+2022-08-24,Tepung Gandum Utuh,kg,212.1,0.0,186.8,25.3,0.0,0.8,Cukup,Perlu dipantau,sisa,25.3,"- Tepung Gandum Utuh: sisa 25,3 kg setelah 7 hari"
+2022-08-24,Mentega,kg,40.3,0.0,31.1,9.2,0.0,1.7,Cukup,-,-,,
+2022-08-24,Gula,kg,45.3,0.0,35.0,10.3,0.0,1.8,Cukup,-,-,,
+2022-08-24,Susu Bubuk,kg,8.5,0.0,5.9,2.6,0.0,2.0,Cukup,-,-,,
+2022-08-24,Telur,butir,338.0,0.0,236.0,102.0,0.0,2.6,Cukup,-,-,,
+2022-08-24,Cokelat,kg,9.2,26.0,25.0,10.2,0.0,2.7,Cukup,-,-,,
+2022-08-24,Garam,kg,13.5,28.5,26.7,15.3,0.0,3.8,Cukup,-,-,,
+2022-08-24,Terigu Protein Tinggi,kg,575.3,1154.1,1085.8,643.6,0.0,4.0,Cukup,-,-,,
+2022-08-24,Cream Cheese,kg,31.8,0.0,16.8,15.1,0.0,4.4,Cukup,-,-,,
+2022-08-24,Ragi Instan,kg,1.6,3.0,2.8,1.9,0.0,4.5,Cukup,-,-,,
+2022-08-25,Susu Bubuk,kg,7.8,0.0,6.8,1.0,0.0,0.8,Cukup,Perlu dipantau,sisa,1.0,"- Susu Bubuk: sisa 1,0 kg setelah 7 hari"
+2022-08-25,Tepung Gandum Utuh,kg,190.9,0.0,161.1,29.8,0.0,1.0,Cukup,-,-,,
+2022-08-25,Mentega,kg,36.6,0.0,30.6,6.0,0.0,1.1,Cukup,-,-,,
+2022-08-25,Cokelat,kg,32.6,0.0,26.1,6.5,0.0,1.7,Cukup,-,-,,
+2022-08-25,Gula,kg,41.7,0.0,30.8,10.9,0.0,1.9,Cukup,-,-,,
+2022-08-25,Telur,butir,313.0,0.0,220.0,93.0,0.0,2.4,Cukup,-,-,,
+2022-08-25,Garam,kg,10.7,28.5,24.3,14.9,0.0,3.7,Cukup,-,-,,
+2022-08-25,Cream Cheese,kg,30.0,0.0,17.3,12.7,0.0,3.8,Cukup,-,-,,
+2022-08-25,Terigu Protein Tinggi,kg,463.4,1154.1,1014.0,603.6,0.0,3.8,Cukup,-,-,,
+2022-08-25,Ragi Instan,kg,1.4,3.0,2.7,1.7,0.0,4.1,Cukup,-,-,,
+2022-08-26,Susu Bubuk,kg,7.1,0.0,5.4,1.7,0.0,1.4,Cukup,-,-,,
+2022-08-26,Tepung Gandum Utuh,kg,172.2,0.0,128.7,43.6,0.0,1.5,Cukup,-,-,,
+2022-08-26,Mentega,kg,33.9,0.0,23.5,10.4,0.0,1.9,Cukup,-,-,,
+2022-08-26,Gula,kg,39.3,0.0,22.9,16.4,0.0,2.9,Cukup,-,-,,
+2022-08-26,Telur,butir,295.0,0.0,161.0,134.0,0.0,3.4,Cukup,-,-,,
+2022-08-26,Cream Cheese,kg,28.4,0.0,14.4,13.9,0.0,4.1,Cukup,-,-,,
+2022-08-26,Cokelat,kg,31.4,0.0,15.6,15.7,0.0,4.2,Cukup,-,-,,
+2022-08-26,Terigu Protein Tinggi,kg,1522.5,0.0,765.6,756.8,0.0,4.7,Cukup,-,-,,
+2022-08-26,Garam,kg,36.8,0.0,17.5,19.2,0.0,4.9,Cukup,-,-,,
+2022-08-26,Ragi Instan,kg,4.2,0.0,2.0,2.2,0.0,5.4,Cukup,-,-,,
+2022-08-27,Susu Bubuk,kg,6.4,0.0,5.2,1.2,0.0,0.9,Cukup,Perlu dipantau,sisa,1.2,"- Susu Bubuk: sisa 1,2 kg setelah 7 hari"
+2022-08-27,Tepung Gandum Utuh,kg,157.1,0.0,123.4,33.7,0.0,1.1,Cukup,-,-,,
+2022-08-27,Mentega,kg,30.6,0.0,22.4,8.1,0.0,1.5,Cukup,-,-,,
+2022-08-27,Gula,kg,35.9,0.0,22.9,13.0,0.0,2.3,Cukup,-,-,,
+2022-08-27,Telur,butir,272.0,0.0,160.0,112.0,0.0,2.9,Cukup,-,-,,
+2022-08-27,Cream Cheese,kg,26.7,0.0,14.7,12.0,0.0,3.5,Cukup,-,-,,
+2022-08-27,Cokelat,kg,29.0,0.0,15.5,13.4,0.0,3.6,Cukup,-,-,,
+2022-08-27,Garam,kg,34.7,0.0,16.7,18.0,0.0,4.6,Cukup,-,-,,
+2022-08-27,Terigu Protein Tinggi,kg,1436.8,0.0,680.1,756.6,0.0,4.7,Cukup,-,-,,
+2022-08-27,Ragi Instan,kg,4.0,0.0,1.9,2.0,0.0,4.9,Cukup,-,-,,
+2022-08-28,Susu Bubuk,kg,5.6,8.8,5.3,9.1,0.0,7.3,Berlebih,Berpotensi berlebih,sisa,9.1,"- Susu Bubuk: sisa 9,1 kg setelah 7 hari"
+2022-08-28,Tepung Gandum Utuh,kg,137.4,0.0,126.5,11.0,0.0,0.4,Cukup,Perlu dipantau,sisa,11.0,"- Tepung Gandum Utuh: sisa 11,0 kg setelah 7 hari"
+2022-08-28,Mentega,kg,26.9,0.0,22.3,4.6,0.0,0.9,Cukup,Perlu dipantau,sisa,4.6,"- Mentega: sisa 4,6 kg setelah 7 hari"
+2022-08-28,Gula,kg,32.4,0.0,23.0,9.4,0.0,1.7,Cukup,-,-,,
+2022-08-28,Telur,butir,247.0,0.0,162.0,84.0,0.0,2.2,Cukup,-,-,,
+2022-08-28,Cokelat,kg,26.5,0.0,15.7,10.8,0.0,2.9,Cukup,-,-,,
+2022-08-28,Cream Cheese,kg,25.2,0.0,13.2,12.0,0.0,3.5,Cukup,-,-,,
+2022-08-28,Garam,kg,32.1,0.0,16.9,15.2,0.0,3.9,Cukup,-,-,,
+2022-08-28,Terigu Protein Tinggi,kg,1329.7,0.0,689.9,639.8,0.0,4.0,Cukup,-,-,,
+2022-08-28,Ragi Instan,kg,3.7,0.0,1.9,1.8,0.0,4.5,Cukup,-,-,,
+2022-08-29,Mentega,kg,22.1,37.7,21.3,38.5,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,38.5,"- Mentega: sisa 38,5 kg setelah 7 hari"
+2022-08-29,Gula,kg,27.2,0.0,22.5,4.7,0.0,0.8,Cukup,Perlu dipantau,sisa,4.7,"- Gula: sisa 4,7 kg setelah 7 hari"
+2022-08-29,Telur,butir,211.0,0.0,156.0,54.0,0.0,1.4,Cukup,-,-,,
+2022-08-29,Cream Cheese,kg,21.1,0.0,13.3,7.8,0.0,2.2,Cukup,-,-,,
+2022-08-29,Cokelat,kg,23.3,0.0,14.8,8.5,0.0,2.3,Cukup,-,-,,
+2022-08-29,Garam,kg,28.7,0.0,15.5,13.2,0.0,3.3,Cukup,-,-,,
+2022-08-29,Terigu Protein Tinggi,kg,1193.4,0.0,629.2,564.2,0.0,3.5,Cukup,-,-,,
+2022-08-29,Ragi Instan,kg,3.3,0.0,1.7,1.6,0.0,3.8,Cukup,-,-,,
+2022-08-29,Susu Bubuk,kg,4.4,8.8,5.1,8.1,0.0,6.4,Cukup,-,-,,
+2022-08-29,Tepung Gandum Utuh,kg,112.4,206.1,118.8,199.7,0.0,6.7,Cukup,-,-,,
+2022-08-30,Gula,kg,24.3,39.3,21.5,42.1,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,42.1,"- Gula: sisa 42,1 kg setelah 7 hari"
+2022-08-30,Telur,butir,190.0,0.0,154.0,35.0,0.0,0.9,Cukup,Perlu dipantau,sisa,35.0,- Telur: sisa 35 butir setelah 7 hari
+2022-08-30,Cream Cheese,kg,19.6,0.0,13.4,6.2,0.0,1.8,Cukup,-,-,,
+2022-08-30,Cokelat,kg,21.7,0.0,14.1,7.6,0.0,2.1,Cukup,-,-,,
+2022-08-30,Garam,kg,26.8,0.0,15.5,11.3,0.0,2.9,Cukup,-,-,,
+2022-08-30,Terigu Protein Tinggi,kg,1115.7,0.0,626.6,489.1,0.0,3.1,Cukup,-,-,,
+2022-08-30,Ragi Instan,kg,3.1,0.0,1.6,1.5,0.0,3.8,Cukup,-,-,,
+2022-08-30,Susu Bubuk,kg,3.6,8.8,5.1,7.4,0.0,5.9,Cukup,-,-,,
+2022-08-30,Mentega,kg,18.9,37.7,21.5,35.0,0.0,6.5,Cukup,-,-,,
+2022-08-30,Tepung Gandum Utuh,kg,99.1,206.1,114.7,190.5,0.0,6.5,Cukup,-,-,,
+2022-08-31,Gula,kg,21.8,39.3,19.8,41.3,0.0,7.8,Berlebih,Berpotensi berlebih,sisa,41.3,"- Gula: sisa 41,3 kg setelah 7 hari"
+2022-08-31,Telur,butir,172.0,272.0,145.0,298.0,0.0,8.0,Berlebih,Berpotensi berlebih,sisa,298.0,- Telur: sisa 298 butir setelah 7 hari
+2022-08-31,Cream Cheese,kg,18.4,0.0,12.7,5.7,0.0,1.8,Cukup,-,-,,
+2022-08-31,Cokelat,kg,20.2,0.0,13.4,6.7,0.0,1.9,Cukup,-,-,,
+2022-08-31,Garam,kg,25.1,0.0,14.6,10.5,0.0,2.8,Cukup,-,-,,
+2022-08-31,Terigu Protein Tinggi,kg,1045.3,0.0,592.5,452.8,0.0,3.0,Cukup,-,-,,
+2022-08-31,Ragi Instan,kg,2.9,0.0,1.5,1.4,0.0,3.7,Cukup,-,-,,
+2022-08-31,Susu Bubuk,kg,11.8,0.0,4.8,7.0,0.0,5.8,Cukup,-,-,,
+2022-08-31,Mentega,kg,16.1,37.7,20.3,33.5,0.0,6.5,Cukup,-,-,,
+2022-08-31,Tepung Gandum Utuh,kg,86.6,206.1,108.6,184.1,0.0,6.5,Cukup,-,-,,
+2022-09-01,Gula,kg,19.5,39.3,19.5,39.3,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,39.3,"- Gula: sisa 39,3 kg setelah 7 hari"
+2022-09-01,Telur,butir,155.0,272.0,138.0,289.0,0.0,7.9,Berlebih,Berpotensi berlebih,sisa,289.0,- Telur: sisa 289 butir setelah 7 hari
+2022-09-01,Cokelat,kg,18.3,0.0,13.2,5.2,0.0,1.5,Cukup,-,-,,
+2022-09-01,Cream Cheese,kg,17.3,0.0,12.2,5.1,0.0,1.6,Cukup,-,-,,
+2022-09-01,Garam,kg,23.6,0.0,14.0,9.6,0.0,2.6,Cukup,-,-,,
+2022-09-01,Terigu Protein Tinggi,kg,985.8,0.0,568.9,416.9,0.0,2.8,Cukup,-,-,,
+2022-09-01,Ragi Instan,kg,2.8,0.0,1.5,1.3,0.0,3.4,Cukup,-,-,,
+2022-09-01,Susu Bubuk,kg,11.3,0.0,4.7,6.6,0.0,5.6,Cukup,-,-,,
+2022-09-01,Mentega,kg,51.7,0.0,21.1,30.6,0.0,6.0,Cukup,-,-,,
+2022-09-01,Tepung Gandum Utuh,kg,282.1,0.0,106.1,176.0,0.0,6.4,Cukup,-,-,,
+2022-09-02,Gula,kg,58.8,0.0,21.7,37.1,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,37.1,"- Gula: sisa 37,1 kg setelah 7 hari"
+2022-09-02,Telur,butir,155.0,272.0,140.0,287.0,0.0,7.8,Berlebih,Berpotensi berlebih,sisa,287.0,- Telur: sisa 287 butir setelah 7 hari
+2022-09-02,Cokelat,kg,18.3,0.0,13.6,4.8,0.0,1.4,Cukup,-,-,,
+2022-09-02,Cream Cheese,kg,17.3,0.0,12.1,5.2,0.0,1.6,Cukup,-,-,,
+2022-09-02,Garam,kg,23.6,0.0,14.2,9.4,0.0,2.5,Cukup,-,-,,
+2022-09-02,Terigu Protein Tinggi,kg,985.8,0.0,574.4,411.4,0.0,2.7,Cukup,-,-,,
+2022-09-02,Ragi Instan,kg,2.8,0.0,1.5,1.3,0.0,3.4,Cukup,-,-,,
+2022-09-02,Susu Bubuk,kg,11.3,0.0,5.1,6.2,0.0,5.3,Cukup,-,-,,
+2022-09-02,Mentega,kg,51.7,0.0,21.1,30.6,0.0,6.0,Cukup,-,-,,
+2022-09-02,Tepung Gandum Utuh,kg,282.1,0.0,107.1,175.0,0.0,6.3,Cukup,-,-,,
+2022-09-03,Telur,butir,414.0,0.0,143.0,271.0,0.0,7.5,Berlebih,Berpotensi berlebih,sisa,271.0,- Telur: sisa 271 butir setelah 7 hari
+2022-09-03,Cream Cheese,kg,16.3,22.3,12.0,26.6,0.0,8.4,Berlebih,Berpotensi berlebih,sisa,26.6,"- Cream Cheese: sisa 26,6 kg setelah 7 hari"
+2022-09-03,Cokelat,kg,17.3,24.1,12.4,28.9,0.0,8.5,Berlebih,Berpotensi berlebih,sisa,28.9,"- Cokelat: sisa 28,9 kg setelah 7 hari"
+2022-09-03,Garam,kg,22.4,0.0,13.8,8.6,0.0,2.4,Cukup,-,-,,
+2022-09-03,Terigu Protein Tinggi,kg,935.2,0.0,563.1,372.1,0.0,2.5,Cukup,-,-,,
+2022-09-03,Ragi Instan,kg,2.6,0.0,1.5,1.2,0.0,3.1,Cukup,-,-,,
+2022-09-03,Susu Bubuk,kg,10.9,0.0,4.5,6.4,0.0,5.4,Cukup,-,-,,
+2022-09-03,Mentega,kg,49.5,0.0,19.5,30.0,0.0,6.0,Cukup,-,-,,
+2022-09-03,Tepung Gandum Utuh,kg,273.3,0.0,106.1,167.2,0.0,6.1,Cukup,-,-,,
+2022-09-03,Gula,kg,57.0,0.0,21.1,35.9,0.0,6.9,Cukup,-,-,,
+2022-09-04,Telur,butir,395.0,0.0,144.0,251.0,0.0,7.0,Berlebih,Berpotensi berlebih,sisa,251.0,- Telur: sisa 251 butir setelah 7 hari
+2022-09-04,Cream Cheese,kg,14.8,22.3,11.9,25.2,0.0,8.0,Berlebih,Berpotensi berlebih,sisa,25.2,"- Cream Cheese: sisa 25,2 kg setelah 7 hari"
+2022-09-04,Cokelat,kg,16.0,24.1,12.7,27.3,0.0,8.1,Berlebih,Berpotensi berlebih,sisa,27.3,"- Cokelat: sisa 27,3 kg setelah 7 hari"
+2022-09-04,Garam,kg,20.4,0.0,13.6,6.8,0.0,1.9,Cukup,-,-,,
+2022-09-04,Terigu Protein Tinggi,kg,855.1,0.0,552.1,303.0,0.0,2.1,Cukup,-,-,,
+2022-09-04,Ragi Instan,kg,2.4,0.0,1.4,1.0,0.0,2.7,Cukup,-,-,,
+2022-09-04,Susu Bubuk,kg,10.2,0.0,4.5,5.7,0.0,4.9,Cukup,-,-,,
+2022-09-04,Mentega,kg,46.6,0.0,19.2,27.4,0.0,5.5,Cukup,-,-,,
+2022-09-04,Tepung Gandum Utuh,kg,258.7,0.0,104.1,154.6,0.0,5.8,Cukup,-,-,,
+2022-09-04,Gula,kg,54.4,0.0,19.9,34.5,0.0,6.8,Cukup,-,-,,
+2022-09-05,Cream Cheese,kg,12.4,22.3,12.0,22.7,0.0,7.3,Berlebih,Berpotensi berlebih,sisa,22.7,"- Cream Cheese: sisa 22,7 kg setelah 7 hari"
+2022-09-05,Cokelat,kg,14.4,24.1,12.5,25.9,0.0,7.8,Berlebih,Berpotensi berlebih,sisa,25.9,"- Cokelat: sisa 25,9 kg setelah 7 hari"
+2022-09-05,Garam,kg,18.0,0.0,13.6,4.5,0.0,1.3,Cukup,-,-,,
+2022-09-05,Terigu Protein Tinggi,kg,758.7,0.0,550.1,208.6,0.0,1.5,Cukup,-,-,,
+2022-09-05,Ragi Instan,kg,2.2,0.0,1.4,0.8,0.0,2.1,Cukup,-,-,,
+2022-09-05,Susu Bubuk,kg,9.3,0.0,4.4,4.9,0.0,4.3,Cukup,-,-,,
+2022-09-05,Mentega,kg,43.1,0.0,18.6,24.5,0.0,5.0,Cukup,-,-,,
+2022-09-05,Tepung Gandum Utuh,kg,241.1,0.0,101.3,139.8,0.0,5.3,Cukup,-,-,,
+2022-09-05,Gula,kg,51.1,0.0,19.6,31.5,0.0,6.3,Cukup,-,-,,
+2022-09-05,Telur,butir,371.0,0.0,137.0,235.0,0.0,6.7,Cukup,-,-,,
+2022-09-06,Cokelat,kg,36.5,0.0,13.4,23.2,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,23.2,"- Cokelat: sisa 23,2 kg setelah 7 hari"
+2022-09-06,Garam,kg,16.5,0.0,13.2,3.3,0.0,1.0,Cukup,-,-,,
+2022-09-06,Terigu Protein Tinggi,kg,696.8,0.0,537.5,159.4,0.0,1.1,Cukup,-,-,,
+2022-09-06,Ragi Instan,kg,2.0,0.0,1.4,0.6,0.0,1.6,Cukup,-,-,,
+2022-09-06,Susu Bubuk,kg,8.7,0.0,4.3,4.4,0.0,4.0,Cukup,-,-,,
+2022-09-06,Mentega,kg,40.6,0.0,18.2,22.5,0.0,4.7,Cukup,-,-,,
+2022-09-06,Tepung Gandum Utuh,kg,230.4,0.0,98.8,131.6,0.0,5.1,Cukup,-,-,,
+2022-09-06,Gula,kg,48.5,0.0,19.3,29.2,0.0,5.9,Cukup,-,-,,
+2022-09-06,Telur,butir,353.0,0.0,135.0,218.0,0.0,6.3,Cukup,-,-,,
+2022-09-06,Cream Cheese,kg,33.2,0.0,12.3,20.9,0.0,6.8,Cukup,-,-,,
+2022-09-07,Cream Cheese,kg,32.7,0.0,11.7,21.0,0.0,7.4,Berlebih,Berpotensi berlebih,sisa,21.0,"- Cream Cheese: sisa 21,0 kg setelah 7 hari"
+2022-09-07,Cokelat,kg,35.9,0.0,12.4,23.5,0.0,7.7,Berlebih,Berpotensi berlebih,sisa,23.5,"- Cokelat: sisa 23,5 kg setelah 7 hari"
+2022-09-07,Garam,kg,15.5,24.2,12.5,27.2,0.0,8.2,Berlebih,Berpotensi berlebih,sisa,27.2,"- Garam: sisa 27,2 kg setelah 7 hari"
+2022-09-07,Terigu Protein Tinggi,kg,655.5,0.0,510.5,145.0,0.0,1.1,Cukup,-,-,,
+2022-09-07,Ragi Instan,kg,1.9,0.0,1.3,0.6,0.0,1.7,Cukup,-,-,,
+2022-09-07,Susu Bubuk,kg,8.3,0.0,4.1,4.2,0.0,4.0,Cukup,-,-,,
+2022-09-07,Mentega,kg,39.0,0.0,17.5,21.5,0.0,4.7,Cukup,-,-,,
+2022-09-07,Tepung Gandum Utuh,kg,223.2,0.0,94.1,129.1,0.0,5.2,Cukup,-,-,,
+2022-09-07,Gula,kg,47.1,0.0,18.4,28.7,0.0,6.2,Cukup,-,-,,
+2022-09-07,Telur,butir,342.0,0.0,127.0,215.0,0.0,6.6,Cukup,-,-,,
+2022-09-08,Cream Cheese,kg,32.1,0.0,11.2,20.8,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,20.8,"- Cream Cheese: sisa 20,8 kg setelah 7 hari"
+2022-09-08,Cokelat,kg,34.6,0.0,11.9,22.7,0.0,7.7,Berlebih,Berpotensi berlebih,sisa,22.7,"- Cokelat: sisa 22,7 kg setelah 7 hari"
+2022-09-08,Terigu Protein Tinggi,kg,611.3,935.1,482.9,1063.6,0.0,8.3,Berlebih,Berpotensi berlebih,sisa,1063.6,"- Terigu Protein Tinggi: sisa 1063,6 kg setelah 7 hari"
+2022-09-08,Garam,kg,14.4,24.2,12.0,26.6,0.0,8.4,Berlebih,Berpotensi berlebih,sisa,26.6,"- Garam: sisa 26,6 kg setelah 7 hari"
+2022-09-08,Ragi Instan,kg,1.8,0.0,1.3,0.5,0.0,1.6,Cukup,-,-,,
+2022-09-08,Susu Bubuk,kg,8.1,0.0,4.0,4.1,0.0,4.0,Cukup,-,-,,
+2022-09-08,Mentega,kg,37.6,0.0,16.9,20.7,0.0,4.7,Cukup,-,-,,
+2022-09-08,Tepung Gandum Utuh,kg,214.8,0.0,90.8,124.0,0.0,5.2,Cukup,-,-,,
+2022-09-08,Gula,kg,45.6,0.0,17.5,28.2,0.0,6.3,Cukup,-,-,,
+2022-09-08,Telur,butir,333.0,0.0,123.0,210.0,0.0,6.7,Cukup,-,-,,
+2022-09-09,Cokelat,kg,33.4,0.0,11.7,21.7,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,21.7,"- Cokelat: sisa 21,7 kg setelah 7 hari"
+2022-09-09,Cream Cheese,kg,31.3,0.0,11.1,20.2,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,20.2,"- Cream Cheese: sisa 20,2 kg setelah 7 hari"
+2022-09-09,Terigu Protein Tinggi,kg,565.7,935.1,472.4,1028.4,0.0,8.3,Berlebih,Berpotensi berlebih,sisa,1028.4,"- Terigu Protein Tinggi: sisa 1028,4 kg setelah 7 hari"
+2022-09-09,Garam,kg,13.3,24.2,11.7,25.8,0.0,8.4,Berlebih,Berpotensi berlebih,sisa,25.8,"- Garam: sisa 25,8 kg setelah 7 hari"
+2022-09-09,Ragi Instan,kg,1.7,0.0,1.3,0.4,0.0,1.3,Cukup,-,-,,
+2022-09-09,Susu Bubuk,kg,7.7,0.0,3.9,3.8,0.0,3.8,Cukup,-,-,,
+2022-09-09,Mentega,kg,35.8,0.0,16.5,19.2,0.0,4.5,Cukup,-,-,,
+2022-09-09,Tepung Gandum Utuh,kg,207.0,0.0,87.8,119.2,0.0,5.2,Cukup,-,-,,
+2022-09-09,Gula,kg,43.9,0.0,17.3,26.6,0.0,6.1,Cukup,-,-,,
+2022-09-09,Telur,butir,320.0,0.0,120.0,200.0,0.0,6.5,Cukup,-,-,,
+2022-09-10,Cokelat,kg,31.7,0.0,11.7,20.0,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,20.0,"- Cokelat: sisa 20,0 kg setelah 7 hari"
+2022-09-10,Cream Cheese,kg,30.1,0.0,10.8,19.3,0.0,7.4,Berlebih,Berpotensi berlebih,sisa,19.3,"- Cream Cheese: sisa 19,3 kg setelah 7 hari"
+2022-09-10,Ragi Instan,kg,1.5,2.3,1.2,2.6,0.0,8.1,Berlebih,Berpotensi berlebih,sisa,2.6,"- Ragi Instan: sisa 2,6 kg setelah 7 hari"
+2022-09-10,Garam,kg,36.2,0.0,12.1,24.2,0.0,8.2,Berlebih,Berpotensi berlebih,sisa,24.2,"- Garam: sisa 24,2 kg setelah 7 hari"
+2022-09-10,Terigu Protein Tinggi,kg,512.8,935.1,458.6,989.3,0.0,8.2,Berlebih,Berpotensi berlebih,sisa,989.3,"- Terigu Protein Tinggi: sisa 989,3 kg setelah 7 hari"
+2022-09-10,Susu Bubuk,kg,7.2,0.0,3.8,3.4,0.0,3.5,Cukup,-,-,,
+2022-09-10,Mentega,kg,33.6,0.0,16.3,17.2,0.0,4.1,Cukup,-,-,,
+2022-09-10,Tepung Gandum Utuh,kg,197.8,0.0,84.7,113.2,0.0,5.1,Cukup,-,-,,
+2022-09-10,Gula,kg,41.6,0.0,16.8,24.9,0.0,5.8,Cukup,-,-,,
+2022-09-10,Telur,butir,304.0,0.0,118.0,186.0,0.0,6.2,Cukup,-,-,,
+2022-09-11,Cream Cheese,kg,28.4,0.0,10.4,18.0,0.0,7.2,Berlebih,Berpotensi berlebih,sisa,18.0,"- Cream Cheese: sisa 18,0 kg setelah 7 hari"
+2022-09-11,Terigu Protein Tinggi,kg,1376.4,0.0,475.4,901.0,0.0,7.7,Berlebih,Berpotensi berlebih,sisa,901.0,"- Terigu Protein Tinggi: sisa 901,0 kg setelah 7 hari"
+2022-09-11,Garam,kg,34.5,0.0,11.7,22.8,0.0,7.9,Berlebih,Berpotensi berlebih,sisa,22.8,"- Garam: sisa 22,8 kg setelah 7 hari"
+2022-09-11,Ragi Instan,kg,1.3,2.3,1.1,2.5,0.0,8.0,Berlebih,Berpotensi berlebih,sisa,2.5,"- Ragi Instan: sisa 2,5 kg setelah 7 hari"
+2022-09-11,Susu Bubuk,kg,6.5,0.0,3.7,2.8,0.0,3.0,Cukup,-,-,,
+2022-09-11,Mentega,kg,30.7,0.0,16.0,14.7,0.0,3.6,Cukup,-,-,,
+2022-09-11,Tepung Gandum Utuh,kg,185.5,0.0,83.9,101.6,0.0,4.8,Cukup,-,-,,
+2022-09-11,Gula,kg,38.8,0.0,16.1,22.7,0.0,5.5,Cukup,-,-,,
+2022-09-11,Telur,butir,284.0,0.0,114.0,170.0,0.0,5.8,Cukup,-,-,,
+2022-09-11,Cokelat,kg,30.1,0.0,11.5,18.5,0.0,6.8,Cukup,-,-,,
+2022-09-12,Terigu Protein Tinggi,kg,1263.2,0.0,452.1,811.0,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,811.0,"- Terigu Protein Tinggi: sisa 811,0 kg setelah 7 hari"
+2022-09-12,Garam,kg,31.7,0.0,11.4,20.3,0.0,7.2,Berlebih,Berpotensi berlebih,sisa,20.3,"- Garam: sisa 20,3 kg setelah 7 hari"
+2022-09-12,Susu Bubuk,kg,5.5,0.0,3.6,1.9,0.0,2.1,Cukup,-,-,,
+2022-09-12,Mentega,kg,26.2,0.0,15.6,10.5,0.0,2.6,Cukup,-,-,,
+2022-09-12,Tepung Gandum Utuh,kg,165.5,0.0,83.3,82.2,0.0,3.9,Cukup,-,-,,
+2022-09-12,Gula,kg,33.7,0.0,16.3,17.4,0.0,4.2,Cukup,-,-,,
+2022-09-12,Telur,butir,250.0,0.0,112.0,138.0,0.0,4.8,Cukup,-,-,,
+2022-09-12,Cokelat,kg,26.2,0.0,11.5,14.7,0.0,5.4,Cukup,-,-,,
+2022-09-12,Cream Cheese,kg,24.9,0.0,9.6,15.2,0.0,6.1,Cukup,-,-,,
+2022-09-12,Ragi Instan,kg,0.9,2.3,1.1,2.0,0.0,6.7,Cukup,-,-,,
+2022-09-13,Terigu Protein Tinggi,kg,1205.1,0.0,436.8,768.3,0.0,7.0,Berlebih,Berpotensi berlebih,sisa,768.3,"- Terigu Protein Tinggi: sisa 768,3 kg setelah 7 hari"
+2022-09-13,Garam,kg,30.3,0.0,10.9,19.3,0.0,7.2,Berlebih,Berpotensi berlebih,sisa,19.3,"- Garam: sisa 19,3 kg setelah 7 hari"
+2022-09-13,Susu Bubuk,kg,5.1,0.0,3.4,1.6,0.0,1.8,Cukup,-,-,,
+2022-09-13,Mentega,kg,24.3,0.0,15.0,9.3,0.0,2.4,Cukup,-,-,,
+2022-09-13,Tepung Gandum Utuh,kg,154.6,0.0,79.0,75.7,0.0,3.8,Cukup,-,-,,
+2022-09-13,Gula,kg,32.1,0.0,15.6,16.5,0.0,4.2,Cukup,-,-,,
+2022-09-13,Telur,butir,238.0,0.0,108.0,130.0,0.0,4.7,Cukup,-,-,,
+2022-09-13,Cokelat,kg,25.4,0.0,10.1,15.3,0.0,5.8,Cukup,-,-,,
+2022-09-13,Cream Cheese,kg,24.0,0.0,9.2,14.8,0.0,6.4,Cukup,-,-,,
+2022-09-13,Ragi Instan,kg,3.1,0.0,1.1,1.9,0.0,6.7,Cukup,-,-,,
+2022-09-14,Terigu Protein Tinggi,kg,1165.1,0.0,413.5,751.6,0.0,7.4,Berlebih,Berpotensi berlebih,sisa,751.6,"- Terigu Protein Tinggi: sisa 751,6 kg setelah 7 hari"
+2022-09-14,Garam,kg,29.3,0.0,10.2,19.1,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,19.1,"- Garam: sisa 19,1 kg setelah 7 hari"
+2022-09-14,Susu Bubuk,kg,4.8,0.0,3.2,1.6,0.0,2.0,Cukup,-,-,,
+2022-09-14,Mentega,kg,22.6,0.0,15.2,7.4,0.0,2.1,Cukup,-,-,,
+2022-09-14,Tepung Gandum Utuh,kg,147.4,0.0,74.8,72.6,0.0,3.9,Cukup,-,-,,
+2022-09-14,Gula,kg,30.6,0.0,15.3,15.4,0.0,4.3,Cukup,-,-,,
+2022-09-14,Telur,butir,228.0,0.0,106.0,122.0,0.0,4.9,Cukup,-,-,,
+2022-09-14,Cokelat,kg,24.4,0.0,11.4,13.0,0.0,5.6,Cukup,-,-,,
+2022-09-14,Cream Cheese,kg,23.4,0.0,9.5,14.0,0.0,6.8,Cukup,-,-,,
+2022-09-14,Ragi Instan,kg,3.0,0.0,1.2,1.8,0.0,6.8,Cukup,-,-,,
+2022-09-15,Cream Cheese,kg,22.8,0.0,9.2,13.6,0.0,7.1,Berlebih,Berpotensi berlebih,sisa,13.6,"- Cream Cheese: sisa 13,6 kg setelah 7 hari"
+2022-09-15,Terigu Protein Tinggi,kg,1121.5,0.0,399.2,722.3,0.0,7.5,Berlebih,Berpotensi berlebih,sisa,722.3,"- Terigu Protein Tinggi: sisa 722,3 kg setelah 7 hari"
+2022-09-15,Garam,kg,28.2,0.0,9.6,18.6,0.0,7.9,Berlebih,Berpotensi berlebih,sisa,18.6,"- Garam: sisa 18,6 kg setelah 7 hari"
+2022-09-15,Susu Bubuk,kg,4.5,0.0,3.4,1.1,0.0,1.4,Cukup,-,-,,
+2022-09-15,Mentega,kg,21.1,0.0,14.9,6.2,0.0,1.8,Cukup,-,-,,
+2022-09-15,Tepung Gandum Utuh,kg,139.3,0.0,70.6,68.6,0.0,3.9,Cukup,-,-,,
+2022-09-15,Gula,kg,29.3,0.0,15.3,14.0,0.0,4.2,Cukup,-,-,,
+2022-09-15,Telur,butir,219.0,0.0,103.0,115.0,0.0,4.9,Cukup,-,-,,
+2022-09-15,Cokelat,kg,23.5,0.0,12.4,11.1,0.0,5.1,Cukup,-,-,,
+2022-09-15,Ragi Instan,kg,2.9,0.0,1.2,1.7,0.0,6.9,Cukup,-,-,,
+2022-09-16,Cream Cheese,kg,22.1,0.0,9.0,13.1,0.0,7.0,Berlebih,Berpotensi berlebih,sisa,13.1,"- Cream Cheese: sisa 13,1 kg setelah 7 hari"
+2022-09-16,Terigu Protein Tinggi,kg,1075.2,0.0,412.4,662.8,0.0,7.2,Berlebih,Berpotensi berlebih,sisa,662.8,"- Terigu Protein Tinggi: sisa 662,8 kg setelah 7 hari"
+2022-09-16,Garam,kg,27.1,0.0,10.1,16.9,0.0,7.5,Berlebih,Berpotensi berlebih,sisa,16.9,"- Garam: sisa 16,9 kg setelah 7 hari"
+2022-09-16,Mentega,kg,19.3,0.0,15.9,3.5,0.0,1.1,Cukup,-,-,,
+2022-09-16,Susu Bubuk,kg,4.1,0.0,3.3,0.8,0.0,1.1,Cukup,-,-,,
+2022-09-16,Tepung Gandum Utuh,kg,130.9,0.0,75.2,55.8,0.0,3.3,Cukup,-,-,,
+2022-09-16,Gula,kg,27.7,0.0,15.0,12.8,0.0,3.9,Cukup,-,-,,
+2022-09-16,Telur,butir,207.0,0.0,104.0,103.0,0.0,4.5,Cukup,-,-,,
+2022-09-16,Cokelat,kg,22.5,0.0,12.5,10.0,0.0,4.7,Cukup,-,-,,
+2022-09-16,Ragi Instan,kg,2.7,0.0,1.3,1.5,0.0,6.1,Cukup,-,-,,
+2022-09-17,Garam,kg,25.9,0.0,10.2,15.7,0.0,7.2,Berlebih,Berpotensi berlebih,sisa,15.7,"- Garam: sisa 15,7 kg setelah 7 hari"
+2022-09-17,Susu Bubuk,kg,3.7,0.0,3.3,0.4,0.0,0.6,Cukup,Perlu dipantau,sisa,0.4,"- Susu Bubuk: sisa 0,4 kg setelah 7 hari"
+2022-09-17,Mentega,kg,17.5,0.0,14.2,3.3,0.0,1.0,Cukup,-,-,,
+2022-09-17,Tepung Gandum Utuh,kg,122.0,0.0,72.6,49.4,0.0,3.0,Cukup,-,-,,
+2022-09-17,Gula,kg,26.0,0.0,14.8,11.2,0.0,3.6,Cukup,-,-,,
+2022-09-17,Telur,butir,196.0,0.0,102.0,94.0,0.0,4.2,Cukup,-,-,,
+2022-09-17,Cokelat,kg,21.3,0.0,10.8,10.5,0.0,5.0,Cukup,-,-,,
+2022-09-17,Ragi Instan,kg,2.6,0.0,1.3,1.3,0.0,5.6,Cukup,-,-,,
+2022-09-17,Cream Cheese,kg,21.2,0.0,8.6,12.6,0.0,6.9,Cukup,-,-,,
+2022-09-17,Terigu Protein Tinggi,kg,1026.2,0.0,412.6,613.6,0.0,6.9,Cukup,-,-,,
+2022-09-18,Susu Bubuk,kg,3.2,5.1,3.0,5.3,0.0,7.6,Berlebih,Berpotensi berlebih,sisa,5.3,"- Susu Bubuk: sisa 5,3 kg setelah 7 hari"
+2022-09-18,Mentega,kg,15.0,0.0,14.7,0.2,0.0,0.1,Cukup,Perlu dipantau,sisa,0.2,"- Mentega: sisa 0,2 kg setelah 7 hari"
+2022-09-18,Tepung Gandum Utuh,kg,109.0,0.0,70.7,38.3,0.0,2.5,Cukup,-,-,,
+2022-09-18,Gula,kg,23.6,0.0,15.1,8.4,0.0,2.8,Cukup,-,-,,
+2022-09-18,Telur,butir,179.0,0.0,99.0,80.0,0.0,3.7,Cukup,-,-,,
+2022-09-18,Cokelat,kg,19.8,0.0,10.7,9.1,0.0,4.6,Cukup,-,-,,
+2022-09-18,Ragi Instan,kg,2.4,0.0,1.3,1.1,0.0,4.9,Cukup,-,-,,
+2022-09-18,Cream Cheese,kg,19.4,0.0,10.1,9.4,0.0,5.4,Cukup,-,-,,
+2022-09-18,Terigu Protein Tinggi,kg,956.0,0.0,400.9,555.1,0.0,6.5,Cukup,-,-,,
+2022-09-18,Garam,kg,24.1,0.0,9.9,14.2,0.0,6.8,Cukup,-,-,,
+2022-09-19,Tepung Gandum Utuh,kg,92.2,0.0,68.2,24.0,0.0,1.6,Cukup,-,-,,
+2022-09-19,Gula,kg,19.7,0.0,13.3,6.4,0.0,2.1,Cukup,-,-,,
+2022-09-19,Telur,butir,152.0,0.0,94.0,59.0,0.0,2.8,Cukup,-,-,,
+2022-09-19,Cokelat,kg,17.2,0.0,8.8,8.4,0.0,4.2,Cukup,-,-,,
+2022-09-19,Ragi Instan,kg,2.1,0.0,1.0,1.1,0.0,5.2,Cukup,-,-,,
+2022-09-19,Cream Cheese,kg,16.9,0.0,7.7,9.2,0.0,5.3,Cukup,-,-,,
+2022-09-19,Terigu Protein Tinggi,kg,861.2,0.0,370.9,490.4,0.0,5.9,Cukup,-,-,,
+2022-09-19,Garam,kg,21.8,0.0,9.2,12.7,0.0,6.2,Cukup,-,-,,
+2022-09-19,Mentega,kg,11.1,21.6,12.9,19.9,0.0,6.5,Cukup,-,-,,
+2022-09-19,Susu Bubuk,kg,2.3,5.1,2.9,4.5,0.0,6.5,Cukup,-,-,,
+2022-09-20,Tepung Gandum Utuh,kg,92.2,0.0,65.9,26.3,0.0,1.8,Cukup,-,-,,
+2022-09-20,Gula,kg,19.7,0.0,13.1,6.5,0.0,2.2,Cukup,-,-,,
+2022-09-20,Telur,butir,152.0,0.0,93.0,59.0,0.0,2.9,Cukup,-,-,,
+2022-09-20,Cokelat,kg,17.2,0.0,9.8,7.3,0.0,3.8,Cukup,-,-,,
+2022-09-20,Ragi Instan,kg,2.1,0.0,1.2,0.9,0.0,4.3,Cukup,-,-,,
+2022-09-20,Cream Cheese,kg,16.9,0.0,7.9,9.0,0.0,5.3,Cukup,-,-,,
+2022-09-20,Terigu Protein Tinggi,kg,861.2,0.0,375.3,485.9,0.0,6.0,Cukup,-,-,,
+2022-09-20,Garam,kg,21.8,0.0,9.4,12.4,0.0,6.2,Cukup,-,-,,
+2022-09-20,Mentega,kg,11.1,21.6,13.8,19.0,0.0,6.4,Cukup,-,-,,
+2022-09-20,Susu Bubuk,kg,2.3,5.1,2.9,4.6,0.0,6.9,Cukup,-,-,,
+2022-09-21,Tepung Gandum Utuh,kg,83.7,0.0,71.2,12.5,0.0,0.9,Cukup,Perlu dipantau,sisa,12.5,"- Tepung Gandum Utuh: sisa 12,5 kg setelah 7 hari"
+2022-09-21,Gula,kg,18.4,0.0,14.1,4.3,0.0,1.6,Cukup,-,-,,
+2022-09-21,Telur,butir,142.0,0.0,100.0,43.0,0.0,2.3,Cukup,-,-,,
+2022-09-21,Cokelat,kg,16.6,0.0,10.2,6.4,0.0,3.7,Cukup,-,-,,
+2022-09-21,Ragi Instan,kg,2.0,0.0,1.1,0.9,0.0,4.6,Cukup,-,-,,
+2022-09-21,Cream Cheese,kg,16.5,0.0,9.5,7.0,0.0,4.7,Cukup,-,-,,
+2022-09-21,Terigu Protein Tinggi,kg,815.1,0.0,435.6,379.4,0.0,5.1,Cukup,-,-,,
+2022-09-21,Garam,kg,20.7,0.0,10.6,10.1,0.0,5.5,Cukup,-,-,,
+2022-09-21,Susu Bubuk,kg,7.0,0.0,3.4,3.6,0.0,5.9,Cukup,-,-,,
+2022-09-21,Mentega,kg,9.6,21.6,14.1,17.0,0.0,6.2,Cukup,-,-,,
+2022-09-22,Tepung Gandum Utuh,kg,76.3,0.0,68.2,8.2,0.0,0.6,Cukup,Perlu dipantau,sisa,8.2,"- Tepung Gandum Utuh: sisa 8,2 kg setelah 7 hari"
+2022-09-22,Gula,kg,17.1,0.0,13.6,3.5,0.0,1.4,Cukup,-,-,,
+2022-09-22,Telur,butir,133.0,0.0,96.0,38.0,0.0,2.1,Cukup,-,-,,
+2022-09-22,Cokelat,kg,15.6,0.0,9.5,6.1,0.0,3.7,Cukup,-,-,,
+2022-09-22,Ragi Instan,kg,1.9,0.0,1.1,0.9,0.0,4.7,Cukup,-,-,,
+2022-09-22,Cream Cheese,kg,15.9,0.0,8.7,7.2,0.0,5.0,Cukup,-,-,,
+2022-09-22,Terigu Protein Tinggi,kg,775.7,0.0,392.9,382.7,0.0,5.4,Cukup,-,-,,
+2022-09-22,Garam,kg,19.7,0.0,10.0,9.8,0.0,5.6,Cukup,-,-,,
+2022-09-22,Mentega,kg,29.9,0.0,14.6,15.4,0.0,5.8,Cukup,-,-,,
+2022-09-22,Susu Bubuk,kg,6.7,0.0,3.3,3.4,0.0,5.8,Cukup,-,-,,
+2022-09-23,Tepung Gandum Utuh,kg,69.4,0.0,64.8,4.6,0.0,0.4,Cukup,Perlu dipantau,sisa,4.6,"- Tepung Gandum Utuh: sisa 4,6 kg setelah 7 hari"
+2022-09-23,Gula,kg,15.3,0.0,13.1,2.2,0.0,0.9,Cukup,Perlu dipantau,sisa,2.2,"- Gula: sisa 2,2 kg setelah 7 hari"
+2022-09-23,Telur,butir,120.0,0.0,94.0,26.0,0.0,1.5,Cukup,-,-,,
+2022-09-23,Cokelat,kg,14.7,0.0,9.1,5.6,0.0,3.5,Cukup,-,-,,
+2022-09-23,Ragi Instan,kg,1.8,0.0,1.1,0.8,0.0,4.2,Cukup,-,-,,
+2022-09-23,Cream Cheese,kg,15.0,0.0,8.8,6.1,0.0,4.4,Cukup,-,-,,
+2022-09-23,Terigu Protein Tinggi,kg,732.9,0.0,383.4,349.5,0.0,5.1,Cukup,-,-,,
+2022-09-23,Garam,kg,18.7,0.0,9.8,8.9,0.0,5.2,Cukup,-,-,,
+2022-09-23,Mentega,kg,27.7,0.0,14.1,13.7,0.0,5.3,Cukup,-,-,,
+2022-09-23,Susu Bubuk,kg,6.3,0.0,3.2,3.1,0.0,5.4,Cukup,-,-,,
+2022-09-24,Tepung Gandum Utuh,kg,61.3,0.0,62.8,-1.6,1.6,-0.1,Perlu restok,Perlu dibeli,kurang,1.6,"- Tepung Gandum Utuh: kurang 1,6 kg"
+2022-09-24,Gula,kg,13.2,0.0,12.7,0.5,0.0,0.2,Cukup,Perlu dipantau,sisa,0.5,"- Gula: sisa 0,5 kg setelah 7 hari"
+2022-09-24,Telur,butir,105.0,0.0,91.0,14.0,0.0,0.8,Cukup,Perlu dipantau,sisa,14.0,- Telur: sisa 14 butir setelah 7 hari
+2022-09-24,Cokelat,kg,13.1,0.0,8.4,4.6,0.0,3.0,Cukup,-,-,,
+2022-09-24,Ragi Instan,kg,1.7,0.0,1.0,0.7,0.0,4.0,Cukup,-,-,,
+2022-09-24,Cream Cheese,kg,14.1,0.0,8.3,5.8,0.0,4.3,Cukup,-,-,,
+2022-09-24,Terigu Protein Tinggi,kg,684.2,0.0,389.8,294.3,0.0,4.4,Cukup,-,-,,
+2022-09-24,Mentega,kg,25.8,0.0,14.5,11.3,0.0,4.5,Cukup,-,-,,
+2022-09-24,Susu Bubuk,kg,5.8,0.0,3.1,2.7,0.0,4.7,Cukup,-,-,,
+2022-09-24,Garam,kg,17.5,0.0,9.6,7.9,0.0,4.9,Cukup,-,-,,

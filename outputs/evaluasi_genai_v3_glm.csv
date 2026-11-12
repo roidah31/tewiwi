@@ -1,0 +1,61 @@
+date,n_restok,n_berlebih,n_pantau,ringkasan,angka_asing,bagian_hilang,format_lengkap,dibeli_terlewat,dibeli_salah_masuk,berlebih_terlewat,berlebih_salah_masuk,pantau_terlewat,pantau_salah_masuk,baris_hilang,baris_asing,satuan_salah,penutup_beli_salah,penutup_beli_sebagian,kata_terlarang,kualitas_penutup_hilang,kualitas_penutup_menyalin_aturan,kualitas_penutup_ada_angka,kualitas_penutup_aman_padahal_ada_daftar,lolos,sumber_final,n_percobaan,final_lolos,teks_final
+2022-06-08,5,0,0,"Ada 5 bahan yang perlu dibeli dan 5 bahan yang cukup.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 41,1 kg
+- Gula: kurang 5,1 kg
+- Telur: kurang 35 butir
+- Garam: kurang 0,6 kg
+- Terigu Protein Tinggi: kurang 16,9 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Mohon segera pesan tepung gandum utuh, gula, telur, garam, dan terigu protein tinggi agar stok tidak habis dalam 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Ada 5 bahan yang perlu dibeli dan 5 bahan yang cukup.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 41,1 kg
+- Gula: kurang 5,1 kg
+- Telur: kurang 35 butir
+- Garam: kurang 0,6 kg
+- Terigu Protein Tinggi: kurang 16,9 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Mohon segera pesan tepung gandum utuh, gula, telur, garam, dan terigu protein tinggi agar stok tidak habis dalam 7 hari ke depan."
+2022-06-09,4,0,1,"Jumlah bahan per status terdiri dari 6 bahan dengan status Cukup dan 4 bahan dengan status Perlu restok.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 49,9 kg
+- Gula: kurang 6,3 kg
+- Telur: kurang 43 butir
+- Terigu Protein Tinggi: kurang 3,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,2 kg setelah 7 hari
+
+Mohon segera pesan Tepung Gandum Utuh, Gula, Telur, dan Terigu Protein Tinggi agar stok tidak habis. Untuk Garam, cukup pantau penggunaannya. Bahan lain aman selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,True,llm,1,True,"Jumlah bahan per status terdiri dari 6 bahan dengan status Cukup dan 4 bahan dengan status Perlu restok.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 49,9 kg
+- Gula: kurang 6,3 kg
+- Telur: kurang 43 butir
+- Terigu Protein Tinggi: kurang 3,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,2 kg setelah 7 hari
+
+Mohon segera pesan Tepung Gandum Utuh, Gula, Telur, dan Terigu Protein Tinggi agar stok tidak habis. Untuk Garam, cukup pantau penggunaannya. Bahan lain aman selama 7 hari ke depan."

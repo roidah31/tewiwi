@@ -1,0 +1,55 @@
+{
+  "dibuat_pada": "2026-11-12 00:25",
+  "periode_test": [
+    "2022-06-01",
+    "2022-09-24"
+  ],
+  "model_ml": {
+    "nama": "HistGradientBoostingRegressor (quantile 0.7) + inventory policy",
+    "metrik_test": {
+      "Baseline (rata-rata x 7)": {
+        "meleset_hari": 2.6522484659713617,
+        "recall_restock": 0.5157894736842106,
+        "f1_restock": 0.5616045845272206,
+        "f1_excess": 0.0,
+        "f1_macro": 0.4335499040205189
+      },
+      "Baseline + margin 5%": {
+        "meleset_hari": 2.686510267463454,
+        "recall_restock": 0.5736842105263158,
+        "f1_restock": 0.5883940620782726,
+        "f1_excess": 0.0,
+        "f1_macro": 0.4410384505114278
+      },
+      "GB quantile 0.7": {
+        "meleset_hari": 1.3063490634361372,
+        "recall_restock": 0.8973684210526316,
+        "f1_restock": 0.8600252206809584,
+        "f1_excess": 0.7310344827586207,
+        "f1_macro": 0.8275071177408342
+      }
+    }
+  },
+  "genai": {
+    "model": "openai/gpt-oss-120b",
+    "versi_prompt": "v3",
+    "n_sampel_evaluasi": 30,
+    "kepatuhan_percobaan_pertama": 1.0,
+    "laporan_final_lolos": 1.0,
+    "catatan_kualitas": {
+      "kualitas_penutup_hilang": 0,
+      "kualitas_penutup_menyalin_aturan": 1,
+      "kualitas_penutup_ada_angka": 0,
+      "kualitas_penutup_aman_padahal_ada_daftar": 0,
+      "kualitas_bocor_label_sistem": 2
+    }
+  },
+  "observability": {
+    "panggilan": 119,
+    "latency_median_detik": 1.9,
+    "latency_p90_detik": 2.5,
+    "error_rate": 0.008,
+    "token_input_rata2": 695,
+    "token_output_rata2": 758
+  }
+}

@@ -1,0 +1,925 @@
+date,n_restok,n_berlebih,n_pantau,ringkasan,angka_asing,bagian_hilang,format_lengkap,dibeli_terlewat,dibeli_salah_masuk,berlebih_terlewat,berlebih_salah_masuk,pantau_terlewat,pantau_salah_masuk,baris_hilang,baris_asing,satuan_salah,penutup_beli_salah,penutup_beli_sebagian,kata_terlarang,kualitas_penutup_hilang,kualitas_penutup_menyalin_aturan,kualitas_penutup_ada_angka,kualitas_penutup_aman_padahal_ada_daftar,kualitas_bocor_label_sistem,lolos,sumber_final,n_percobaan,final_lolos,teks_final
+2022-06-08,5,0,0,"Pada tanggal 8 Juni 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 41,1 kg
+- Gula: kurang 5,1 kg
+- Telur: kurang 35 butir
+- Garam: kurang 0,6 kg
+- Terigu Protein Tinggi: kurang 16,9 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Tepung Gandum Utuh, Gula, Telur, Garam, dan Terigu Protein Tinggi agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 8 Juni 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 41,1 kg
+- Gula: kurang 5,1 kg
+- Telur: kurang 35 butir
+- Garam: kurang 0,6 kg
+- Terigu Protein Tinggi: kurang 16,9 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Tepung Gandum Utuh, Gula, Telur, Garam, dan Terigu Protein Tinggi agar stok cukup untuk 7 hari ke depan."
+2022-06-09,4,0,1,"Pada tanggal 9 Juni 2022, terdapat Cukup = 6 bahan, Perlu restok = 4 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 49,9 kg
+- Gula: kurang 6,3 kg
+- Telur: kurang 43 butir
+- Terigu Protein Tinggi: kurang 3,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,2 kg setelah 7 hari
+
+Sebaiknya pesan semua Tepung Gandum Utuh, Gula, Telur, dan Terigu Protein Tinggi, serta pantau Garam untuk memastikan cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 9 Juni 2022, terdapat Cukup = 6 bahan, Perlu restok = 4 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 49,9 kg
+- Gula: kurang 6,3 kg
+- Telur: kurang 43 butir
+- Terigu Protein Tinggi: kurang 3,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,2 kg setelah 7 hari
+
+Sebaiknya pesan semua Tepung Gandum Utuh, Gula, Telur, dan Terigu Protein Tinggi, serta pantau Garam untuk memastikan cukup selama 7 hari ke depan."
+2022-06-13,3,0,2,"Cukup = 7 bahan, Perlu restok = 3 bahan.
+
+DAFTAR BAHAN PER BAGIAN (sudah final, ditentukan oleh sistem)
+
+**Perlu dibeli:**
+- Ragi Instan: kurang 0,6 kg
+- Cream Cheese: kurang 1,6 kg
+- Mentega: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Susu Bubuk: sisa 0,4 kg setelah 7 hari
+- Tepung Gandum Utuh: sisa 11,5 kg setelah 7 hari
+
+Sebaiknya segera pesan Ragi Instan, Cream Cheese, dan Mentega, serta terus pantau Susu Bubuk dan Tepung Gandum Utuh selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,True,llm,1,True,"Cukup = 7 bahan, Perlu restok = 3 bahan.
+
+**Perlu dibeli:**
+- Ragi Instan: kurang 0,6 kg
+- Cream Cheese: kurang 1,6 kg
+- Mentega: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Susu Bubuk: sisa 0,4 kg setelah 7 hari
+- Tepung Gandum Utuh: sisa 11,5 kg setelah 7 hari
+
+Sebaiknya segera pesan Ragi Instan, Cream Cheese, dan Mentega, serta terus pantau Susu Bubuk dan Tepung Gandum Utuh selama 7 hari ke depan."
+2022-06-20,0,0,1,"Pada tanggal 20 Juni 2022, status persediaan menunjukkan Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 1,6 kg setelah 7 hari
+
+Sebaiknya Anda MEMANTAU stok Cokelat menjelang akhir 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 20 Juni 2022, status persediaan menunjukkan Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 1,6 kg setelah 7 hari
+
+Sebaiknya Anda MEMANTAU stok Cokelat menjelang akhir 7 hari ke depan."
+2022-06-21,0,0,4,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 0,6 kg setelah 7 hari
+- Ragi Instan: sisa 0,1 kg setelah 7 hari
+- Cream Cheese: sisa 1,0 kg setelah 7 hari
+- Susu Bubuk: sisa 0,5 kg setelah 7 hari
+
+Pantau stok Cokelat, Ragi Instan, Cream Cheese, dan Susu Bubuk agar tetap cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 0,6 kg setelah 7 hari
+- Ragi Instan: sisa 0,1 kg setelah 7 hari
+- Cream Cheese: sisa 1,0 kg setelah 7 hari
+- Susu Bubuk: sisa 0,5 kg setelah 7 hari
+
+Pantau stok Cokelat, Ragi Instan, Cream Cheese, dan Susu Bubuk agar tetap cukup selama 7 hari ke depan."
+2022-07-11,9,0,1,"Pada tanggal 11 Juli 2022, terdapat 9 bahan yang perlu restok dan 1 bahan yang cukup.
+
+**Perlu dibeli:**
+- Gula: kurang 18,9 kg
+- Telur: kurang 133 butir
+- Mentega: kurang 14,5 kg
+- Cokelat: kurang 6,1 kg
+- Tepung Gandum Utuh: kurang 38,5 kg
+- Ragi Instan: kurang 0,5 kg
+- Susu Bubuk: kurang 1,5 kg
+- Cream Cheese: kurang 0,5 kg
+- Garam: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Terigu Protein Tinggi: sisa 4,8 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan yang tercantum pada bagian Perlu dibeli (Gula, Telur, Mentega, Cokelat, Tepung Gandum Utuh, Ragi Instan, Susu Bubuk, Cream Cheese, Garam) dan terus pantau stok Terigu Protein Tinggi menjelang akhir 7 hari.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,True,llm,1,True,"Pada tanggal 11 Juli 2022, terdapat 9 bahan yang perlu restok dan 1 bahan yang cukup.
+
+**Perlu dibeli:**
+- Gula: kurang 18,9 kg
+- Telur: kurang 133 butir
+- Mentega: kurang 14,5 kg
+- Cokelat: kurang 6,1 kg
+- Tepung Gandum Utuh: kurang 38,5 kg
+- Ragi Instan: kurang 0,5 kg
+- Susu Bubuk: kurang 1,5 kg
+- Cream Cheese: kurang 0,5 kg
+- Garam: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Terigu Protein Tinggi: sisa 4,8 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan yang tercantum pada bagian Perlu dibeli (Gula, Telur, Mentega, Cokelat, Tepung Gandum Utuh, Ragi Instan, Susu Bubuk, Cream Cheese, Garam) dan terus pantau stok Terigu Protein Tinggi menjelang akhir 7 hari."
+2022-07-17,10,0,0,"Perlu restok = 10 bahan.
+
+**Perlu dibeli:**
+- Cream Cheese: kurang 10,0 kg
+- Mentega: kurang 16,7 kg
+- Susu Bubuk: kurang 3,6 kg
+- Garam: kurang 10,4 kg
+- Terigu Protein Tinggi: kurang 426,7 kg
+- Cokelat: kurang 8,9 kg
+- Gula: kurang 15,7 kg
+- Ragi Instan: kurang 1,0 kg
+- Telur: kurang 108 butir
+- Tepung Gandum Utuh: kurang 12,6 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Cream Cheese, Mentega, Susu Bubuk, Garam, Terigu Protein Tinggi, Cokelat, Gula, Ragi Instan, Telur, dan Tepung Gandum Utuh agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 10 bahan.
+
+**Perlu dibeli:**
+- Cream Cheese: kurang 10,0 kg
+- Mentega: kurang 16,7 kg
+- Susu Bubuk: kurang 3,6 kg
+- Garam: kurang 10,4 kg
+- Terigu Protein Tinggi: kurang 426,7 kg
+- Cokelat: kurang 8,9 kg
+- Gula: kurang 15,7 kg
+- Ragi Instan: kurang 1,0 kg
+- Telur: kurang 108 butir
+- Tepung Gandum Utuh: kurang 12,6 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Cream Cheese, Mentega, Susu Bubuk, Garam, Terigu Protein Tinggi, Cokelat, Gula, Ragi Instan, Telur, dan Tepung Gandum Utuh agar stok cukup untuk 7 hari ke depan."
+2022-07-19,8,0,0,"Perlu restok = 8 bahan, Cukup = 2 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 81,6 kg
+- Cream Cheese: kurang 7,9 kg
+- Ragi Instan: kurang 1,0 kg
+- Cokelat: kurang 8,0 kg
+- Garam: kurang 5,6 kg
+- Terigu Protein Tinggi: kurang 226,0 kg
+- Mentega: kurang 6,8 kg
+- Susu Bubuk: kurang 1,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Tepung Gandum Utuh, Cream Cheese, Ragi Instan, Cokelat, Garam, Terigu Protein Tinggi, Mentega, dan Susu Bubuk agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 8 bahan, Cukup = 2 bahan.
+
+**Perlu dibeli:**
+- Tepung Gandum Utuh: kurang 81,6 kg
+- Cream Cheese: kurang 7,9 kg
+- Ragi Instan: kurang 1,0 kg
+- Cokelat: kurang 8,0 kg
+- Garam: kurang 5,6 kg
+- Terigu Protein Tinggi: kurang 226,0 kg
+- Mentega: kurang 6,8 kg
+- Susu Bubuk: kurang 1,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Tepung Gandum Utuh, Cream Cheese, Ragi Instan, Cokelat, Garam, Terigu Protein Tinggi, Mentega, dan Susu Bubuk agar stok cukup untuk 7 hari ke depan."
+2022-07-22,7,0,1,"Hari ini terdapat Perlu restok = 7 bahan, Cukup = 3 bahan.
+
+**Perlu dibeli:**
+- Garam: kurang 17,7 kg
+- Terigu Protein Tinggi: kurang 713,4 kg
+- Mentega: kurang 14,0 kg
+- Susu Bubuk: kurang 2,8 kg
+- Gula: kurang 7,0 kg
+- Telur: kurang 41 butir
+- Tepung Gandum Utuh: kurang 26,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 0,2 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan Garam, Terigu Protein Tinggi, Mentega, Susu Bubuk, Gula, Telur, dan Tepung Gandum Utuh, serta terus pantau stok Cokelat selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Hari ini terdapat Perlu restok = 7 bahan, Cukup = 3 bahan.
+
+**Perlu dibeli:**
+- Garam: kurang 17,7 kg
+- Terigu Protein Tinggi: kurang 713,4 kg
+- Mentega: kurang 14,0 kg
+- Susu Bubuk: kurang 2,8 kg
+- Gula: kurang 7,0 kg
+- Telur: kurang 41 butir
+- Tepung Gandum Utuh: kurang 26,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Cokelat: sisa 0,2 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan Garam, Terigu Protein Tinggi, Mentega, Susu Bubuk, Gula, Telur, dan Tepung Gandum Utuh, serta terus pantau stok Cokelat selama 7 hari ke depan."
+2022-07-23,5,0,4,"Pada tanggal 23 Juli 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 120 butir
+- Gula: kurang 9,0 kg
+- Tepung Gandum Utuh: kurang 41,2 kg
+- Cokelat: kurang 3,2 kg
+- Cream Cheese: kurang 0,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 0,0 kg setelah 7 hari
+- Ragi Instan: sisa 0,1 kg setelah 7 hari
+- Garam: sisa 1,7 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 73,7 kg setelah 7 hari
+
+Sebaiknya pesan semua Telur, Gula, Tepung Gandum Utuh, Cokelat, dan Cream Cheese, serta pantau stok Mentega, Ragi Instan, Garam, dan Terigu Protein Tinggi untuk memastikan kecukupan selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 23 Juli 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 120 butir
+- Gula: kurang 9,0 kg
+- Tepung Gandum Utuh: kurang 41,2 kg
+- Cokelat: kurang 3,2 kg
+- Cream Cheese: kurang 0,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 0,0 kg setelah 7 hari
+- Ragi Instan: sisa 0,1 kg setelah 7 hari
+- Garam: sisa 1,7 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 73,7 kg setelah 7 hari
+
+Sebaiknya pesan semua Telur, Gula, Tepung Gandum Utuh, Cokelat, dan Cream Cheese, serta pantau stok Mentega, Ragi Instan, Garam, dan Terigu Protein Tinggi untuk memastikan kecukupan selama 7 hari ke depan."
+2022-07-24,9,0,0,"Perlu restok = 9 bahan, Cukup = 1 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 157 butir
+- Cokelat: kurang 8,0 kg
+- Tepung Gandum Utuh: kurang 63,0 kg
+- Ragi Instan: kurang 0,8 kg
+- Cream Cheese: kurang 6,0 kg
+- Garam: kurang 4,2 kg
+- Terigu Protein Tinggi: kurang 169,5 kg
+- Susu Bubuk: kurang 1,3 kg
+- Mentega: kurang 3,8 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan semua bahan yang perlu dibeli (Telur, Cokelat, Tepung Gandum Utuh, Ragi Instan, Cream Cheese, Garam, Terigu Protein Tinggi, Susu Bubuk, dan Mentega) agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 9 bahan, Cukup = 1 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 157 butir
+- Cokelat: kurang 8,0 kg
+- Tepung Gandum Utuh: kurang 63,0 kg
+- Ragi Instan: kurang 0,8 kg
+- Cream Cheese: kurang 6,0 kg
+- Garam: kurang 4,2 kg
+- Terigu Protein Tinggi: kurang 169,5 kg
+- Susu Bubuk: kurang 1,3 kg
+- Mentega: kurang 3,8 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan semua bahan yang perlu dibeli (Telur, Cokelat, Tepung Gandum Utuh, Ragi Instan, Cream Cheese, Garam, Terigu Protein Tinggi, Susu Bubuk, dan Mentega) agar stok cukup untuk 7 hari ke depan."
+2022-07-25,9,0,0,"Perlu restok = 9 bahan, Cukup = 1 bahan.
+
+**Perlu dibeli:**
+- Cream Cheese: kurang 11,4 kg
+- Cokelat: kurang 11,3 kg
+- Garam: kurang 11,6 kg
+- Terigu Protein Tinggi: kurang 469,1 kg
+- Ragi Instan: kurang 1,1 kg
+- Susu Bubuk: kurang 2,3 kg
+- Mentega: kurang 9,5 kg
+- Gula: kurang 1,2 kg
+- Telur: kurang 7 butir
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Cream Cheese, Cokelat, Garam, Terigu Protein Tinggi, Ragi Instan, Susu Bubuk, Mentega, Gula, dan Telur agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 9 bahan, Cukup = 1 bahan.
+
+**Perlu dibeli:**
+- Cream Cheese: kurang 11,4 kg
+- Cokelat: kurang 11,3 kg
+- Garam: kurang 11,6 kg
+- Terigu Protein Tinggi: kurang 469,1 kg
+- Ragi Instan: kurang 1,1 kg
+- Susu Bubuk: kurang 2,3 kg
+- Mentega: kurang 9,5 kg
+- Gula: kurang 1,2 kg
+- Telur: kurang 7 butir
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya pesan semua bahan berikut: Cream Cheese, Cokelat, Garam, Terigu Protein Tinggi, Ragi Instan, Susu Bubuk, Mentega, Gula, dan Telur agar stok cukup untuk 7 hari ke depan."
+2022-07-29,8,0,2,"Perlu restok = 8 bahan, Cukup = 2 bahan.
+
+**Perlu dibeli:**
+- Gula: kurang 19,2 kg
+- Cokelat: kurang 9,6 kg
+- Telur: kurang 107 butir
+- Tepung Gandum Utuh: kurang 61,2 kg
+- Terigu Protein Tinggi: kurang 95,2 kg
+- Garam: kurang 1,7 kg
+- Ragi Instan: kurang 0,1 kg
+- Cream Cheese: kurang 0,6 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 0,4 kg setelah 7 hari
+- Susu Bubuk: sisa 0,6 kg setelah 7 hari
+
+Saya sarankan segera memesan Gula, Cokelat, Telur, Tepung Gandum Utuh, Terigu Protein Tinggi, Garam, Ragi Instan, dan Cream Cheese, serta terus memantau Mentega dan Susu Bubuk untuk memastikan stok cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 8 bahan, Cukup = 2 bahan.
+
+**Perlu dibeli:**
+- Gula: kurang 19,2 kg
+- Cokelat: kurang 9,6 kg
+- Telur: kurang 107 butir
+- Tepung Gandum Utuh: kurang 61,2 kg
+- Terigu Protein Tinggi: kurang 95,2 kg
+- Garam: kurang 1,7 kg
+- Ragi Instan: kurang 0,1 kg
+- Cream Cheese: kurang 0,6 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 0,4 kg setelah 7 hari
+- Susu Bubuk: sisa 0,6 kg setelah 7 hari
+
+Saya sarankan segera memesan Gula, Cokelat, Telur, Tepung Gandum Utuh, Terigu Protein Tinggi, Garam, Ragi Instan, dan Cream Cheese, serta terus memantau Mentega dan Susu Bubuk untuk memastikan stok cukup selama 7 hari ke depan."
+2022-08-03,5,0,2,"Pada tanggal 3 Agustus 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 96 butir
+- Tepung Gandum Utuh: kurang 54,8 kg
+- Ragi Instan: kurang 0,4 kg
+- Cream Cheese: kurang 2,8 kg
+- Cokelat: kurang 2,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,0 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 7,0 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan Telur, Tepung Gandum Utuh, Ragi Instan, Cream Cheese, dan Cokelat, serta terus pantau stok Garam dan Terigu Protein Tinggi untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 3 Agustus 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Telur: kurang 96 butir
+- Tepung Gandum Utuh: kurang 54,8 kg
+- Ragi Instan: kurang 0,4 kg
+- Cream Cheese: kurang 2,8 kg
+- Cokelat: kurang 2,3 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 0,0 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 7,0 kg setelah 7 hari
+
+Sebaiknya pesan semua bahan Telur, Tepung Gandum Utuh, Ragi Instan, Cream Cheese, dan Cokelat, serta terus pantau stok Garam dan Terigu Protein Tinggi untuk 7 hari ke depan."
+2022-08-05,5,0,1,"Pada tanggal 5 Agustus 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Garam: kurang 7,6 kg
+- Cokelat: kurang 6,7 kg
+- Terigu Protein Tinggi: kurang 291,4 kg
+- Ragi Instan: kurang 0,7 kg
+- Cream Cheese: kurang 4,7 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 4,3 kg setelah 7 hari
+
+Sebaiknya segera pesan Garam, Cokelat, Terigu Protein Tinggi, Ragi Instan, dan Cream Cheese, serta pantau Mentega menjelang 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 5 Agustus 2022, terdapat Perlu restok = 5 bahan, Cukup = 5 bahan.
+
+**Perlu dibeli:**
+- Garam: kurang 7,6 kg
+- Cokelat: kurang 6,7 kg
+- Terigu Protein Tinggi: kurang 291,4 kg
+- Ragi Instan: kurang 0,7 kg
+- Cream Cheese: kurang 4,7 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Mentega: sisa 4,3 kg setelah 7 hari
+
+Sebaiknya segera pesan Garam, Cokelat, Terigu Protein Tinggi, Ragi Instan, dan Cream Cheese, serta pantau Mentega menjelang 7 hari ke depan."
+2022-08-07,5,0,0,"Terdapat 5 bahan dalam kategori Perlu restok dan 5 bahan dalam kategori Cukup.
+
+**Perlu dibeli:**
+- Mentega: kurang 13,3 kg
+- Susu Bubuk: kurang 2,5 kg
+- Tepung Gandum Utuh: kurang 30,8 kg
+- Gula: kurang 3,5 kg
+- Telur: kurang 9 butir
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Mentega, Susu Bubuk, Tepung Gandum Utuh, Gula, dan Telur agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Terdapat 5 bahan dalam kategori Perlu restok dan 5 bahan dalam kategori Cukup.
+
+**Perlu dibeli:**
+- Mentega: kurang 13,3 kg
+- Susu Bubuk: kurang 2,5 kg
+- Tepung Gandum Utuh: kurang 30,8 kg
+- Gula: kurang 3,5 kg
+- Telur: kurang 9 butir
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Mentega, Susu Bubuk, Tepung Gandum Utuh, Gula, dan Telur agar stok cukup untuk 7 hari ke depan."
+2022-08-12,3,0,1,"Cukup = 7 bahan, Perlu restok = 3 bahan.
+
+**Perlu dibeli:**
+- Mentega: kurang 9,5 kg
+- Susu Bubuk: kurang 1,9 kg
+- Tepung Gandum Utuh: kurang 20,4 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Gula: sisa 1,6 kg setelah 7 hari
+
+Sebaiknya pesan semua Mentega, Susu Bubuk, dan Tepung Gandum Utuh serta pantau Gula untuk memastikan stok cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 7 bahan, Perlu restok = 3 bahan.
+
+**Perlu dibeli:**
+- Mentega: kurang 9,5 kg
+- Susu Bubuk: kurang 1,9 kg
+- Tepung Gandum Utuh: kurang 20,4 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Gula: sisa 1,6 kg setelah 7 hari
+
+Sebaiknya pesan semua Mentega, Susu Bubuk, dan Tepung Gandum Utuh serta pantau Gula untuk memastikan stok cukup selama 7 hari ke depan."
+2022-08-15,4,0,2,"Pada tanggal 15 Agustus 2022, terdapat Cukup = 6 bahan, Perlu restok = 4 bahan.
+
+**Perlu dibeli:**
+- Ragi Instan: kurang 1,5 kg
+- Garam: kurang 10,3 kg
+- Terigu Protein Tinggi: kurang 397,3 kg
+- Susu Bubuk: kurang 0,5 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Gula: sisa 2,0 kg setelah 7 hari
+- Tepung Gandum Utuh: sisa 15,9 kg setelah 7 hari
+
+Sebaiknya segera pesan Ragi Instan, Garam, Terigu Protein Tinggi, dan Susu Bubuk, serta pantau Gula dan Tepung Gandum Utuh menjelang 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 15 Agustus 2022, terdapat Cukup = 6 bahan, Perlu restok = 4 bahan.
+
+**Perlu dibeli:**
+- Ragi Instan: kurang 1,5 kg
+- Garam: kurang 10,3 kg
+- Terigu Protein Tinggi: kurang 397,3 kg
+- Susu Bubuk: kurang 0,5 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Gula: sisa 2,0 kg setelah 7 hari
+- Tepung Gandum Utuh: sisa 15,9 kg setelah 7 hari
+
+Sebaiknya segera pesan Ragi Instan, Garam, Terigu Protein Tinggi, dan Susu Bubuk, serta pantau Gula dan Tepung Gandum Utuh menjelang 7 hari ke depan."
+2022-08-18,7,0,0,"Pada tanggal 18 Agustus 2022, terdapat Perlu restok = 7 bahan, Cukup = 3 bahan.
+
+**Perlu dibeli:**
+- Susu Bubuk: kurang 2,8 kg
+- Mentega: kurang 11,2 kg
+- Tepung Gandum Utuh: kurang 55,3 kg
+- Cream Cheese: kurang 3,7 kg
+- Gula: kurang 5,6 kg
+- Telur: kurang 16 butir
+- Cokelat: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Susu Bubuk, Mentega, Tepung Gandum Utuh, Cream Cheese, Gula, Telur, dan Cokelat agar stok cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 18 Agustus 2022, terdapat Perlu restok = 7 bahan, Cukup = 3 bahan.
+
+**Perlu dibeli:**
+- Susu Bubuk: kurang 2,8 kg
+- Mentega: kurang 11,2 kg
+- Tepung Gandum Utuh: kurang 55,3 kg
+- Cream Cheese: kurang 3,7 kg
+- Gula: kurang 5,6 kg
+- Telur: kurang 16 butir
+- Cokelat: kurang 0,1 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya segera pesan Susu Bubuk, Mentega, Tepung Gandum Utuh, Cream Cheese, Gula, Telur, dan Cokelat agar stok cukup untuk 7 hari ke depan."
+2022-08-19,6,0,1,"Perlu restok = 6 bahan, Cukup = 4 bahan.
+
+**Perlu dibeli:**
+- Mentega: kurang 20,0 kg
+- Tepung Gandum Utuh: kurang 79,4 kg
+- Gula: kurang 11,8 kg
+- Cream Cheese: kurang 6,3 kg
+- Telur: kurang 55 butir
+- Cokelat: kurang 3,7 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 2,3 kg setelah 7 hari
+
+Sebaiknya pesan Mentega, Tepung Gandum Utuh, Gula, Cream Cheese, Telur, dan Cokelat sekaligus, serta terus pantau stok Garam selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Perlu restok = 6 bahan, Cukup = 4 bahan.
+
+**Perlu dibeli:**
+- Mentega: kurang 20,0 kg
+- Tepung Gandum Utuh: kurang 79,4 kg
+- Gula: kurang 11,8 kg
+- Cream Cheese: kurang 6,3 kg
+- Telur: kurang 55 butir
+- Cokelat: kurang 3,7 kg
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Garam: sisa 2,3 kg setelah 7 hari
+
+Sebaiknya pesan Mentega, Tepung Gandum Utuh, Gula, Cream Cheese, Telur, dan Cokelat sekaligus, serta terus pantau stok Garam selama 7 hari ke depan."
+2022-08-26,0,0,0,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Karena tidak ada bahan yang perlu dibeli, berpotensi berlebih, atau dipantau, stok Anda aman untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Karena tidak ada bahan yang perlu dibeli, berpotensi berlebih, atau dipantau, stok Anda aman untuk 7 hari ke depan."
+2022-08-27,0,0,1,"Cukup = 10 bahan tersedia.
+
+DAFTAR BAHAN PER BAGIAN (sudah final, ditentukan oleh sistem)
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Susu Bubuk: sisa 1,2 kg setelah 7 hari
+
+Pantau stok Susu Bubuk agar tetap cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,True,llm,1,True,"Cukup = 10 bahan tersedia.
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+- Susu Bubuk: sisa 1,2 kg setelah 7 hari
+
+Pantau stok Susu Bubuk agar tetap cukup selama 7 hari ke depan."
+2022-08-29,0,1,1,"Pada tanggal 29 Agustus 2022, terdapat Cukup = 9 bahan, Berlebih = 1 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Mentega: sisa 38,5 kg setelah 7 hari
+
+**Perlu dipantau:**
+- Gula: sisa 4,7 kg setelah 7 hari
+
+Sebaiknya menunda pembelian Mentega dan terus MEMANTAU Gula untuk memastikan stok cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 29 Agustus 2022, terdapat Cukup = 9 bahan, Berlebih = 1 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Mentega: sisa 38,5 kg setelah 7 hari
+
+**Perlu dipantau:**
+- Gula: sisa 4,7 kg setelah 7 hari
+
+Sebaiknya menunda pembelian Mentega dan terus MEMANTAU Gula untuk memastikan stok cukup selama 7 hari ke depan."
+2022-08-31,0,2,0,"Pada tanggal 31 Agustus 2022, terdapat Cukup = 8 bahan, Berlebih = 2 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Gula: sisa 41,3 kg setelah 7 hari
+- Telur: sisa 298 butir setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Gula dan Telur karena stoknya masih cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 31 Agustus 2022, terdapat Cukup = 8 bahan, Berlebih = 2 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Gula: sisa 41,3 kg setelah 7 hari
+- Telur: sisa 298 butir setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Gula dan Telur karena stoknya masih cukup untuk 7 hari ke depan."
+2022-09-02,0,2,0,"Pada tanggal 2 September 2022, terdapat 8 bahan dalam status Cukup dan 2 bahan dalam status Berlebih.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Gula: sisa 37,1 kg setelah 7 hari
+- Telur: sisa 287 butir setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Gula dan Telur, karena stoknya masih berlebih untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 2 September 2022, terdapat 8 bahan dalam status Cukup dan 2 bahan dalam status Berlebih.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Gula: sisa 37,1 kg setelah 7 hari
+- Telur: sisa 287 butir setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Gula dan Telur, karena stoknya masih berlebih untuk 7 hari ke depan."
+2022-09-03,0,3,0,"Pada tanggal 3 September 2022, terdapat 7 bahan dalam status Cukup dan 3 bahan dalam status Berlebih.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Telur: sisa 271 butir setelah 7 hari
+- Cream Cheese: sisa 26,6 kg setelah 7 hari
+- Cokelat: sisa 28,9 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Telur, Cream Cheese, dan Cokelat karena stoknya masih cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 3 September 2022, terdapat 7 bahan dalam status Cukup dan 3 bahan dalam status Berlebih.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Telur: sisa 271 butir setelah 7 hari
+- Cream Cheese: sisa 26,6 kg setelah 7 hari
+- Cokelat: sisa 28,9 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Telur, Cream Cheese, dan Cokelat karena stoknya masih cukup untuk 7 hari ke depan."
+2022-09-08,0,4,0,"Cukup = 6 bahan, Berlebih = 4 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 20,8 kg setelah 7 hari
+- Cokelat: sisa 22,7 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 1063,6 kg setelah 7 hari
+- Garam: sisa 26,6 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Cokelat, Terigu Protein Tinggi, dan Garam karena stok masih berlebih untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 6 bahan, Berlebih = 4 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 20,8 kg setelah 7 hari
+- Cokelat: sisa 22,7 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 1063,6 kg setelah 7 hari
+- Garam: sisa 26,6 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Cokelat, Terigu Protein Tinggi, dan Garam karena stok masih berlebih untuk 7 hari ke depan."
+2022-09-11,0,4,0,"Pada tanggal 11 September 2022, terdapat Cukup = 6 bahan, Berlebih = 4 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 18,0 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 901,0 kg setelah 7 hari
+- Garam: sisa 22,8 kg setelah 7 hari
+- Ragi Instan: sisa 2,5 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Terigu Protein Tinggi, Garam, dan Ragi Instan agar stok tetap cukup selama 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Pada tanggal 11 September 2022, terdapat Cukup = 6 bahan, Berlebih = 4 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 18,0 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 901,0 kg setelah 7 hari
+- Garam: sisa 22,8 kg setelah 7 hari
+- Ragi Instan: sisa 2,5 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Terigu Protein Tinggi, Garam, dan Ragi Instan agar stok tetap cukup selama 7 hari ke depan."
+2022-09-16,0,3,0,"Cukup = 7 bahan, Berlebih = 3 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 13,1 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 662,8 kg setelah 7 hari
+- Garam: sisa 16,9 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Terigu Protein Tinggi, dan Garam karena stok masih cukup untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 7 bahan, Berlebih = 3 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+- Cream Cheese: sisa 13,1 kg setelah 7 hari
+- Terigu Protein Tinggi: sisa 662,8 kg setelah 7 hari
+- Garam: sisa 16,9 kg setelah 7 hari
+
+**Perlu dipantau:**
+Tidak ada
+
+Sebaiknya menunda pembelian Cream Cheese, Terigu Protein Tinggi, dan Garam karena stok masih cukup untuk 7 hari ke depan."
+2022-09-20,0,0,0,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Dengan tidak ada bahan yang perlu dibeli, berpotensi berlebih, atau dipantau, stok aman untuk 7 hari ke depan.",0,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,llm,1,True,"Cukup = 10 bahan.
+
+**Perlu dibeli:**
+Tidak ada
+
+**Berpotensi berlebih:**
+Tidak ada
+
+**Perlu dipantau:**
+Tidak ada
+
+Dengan tidak ada bahan yang perlu dibeli, berpotensi berlebih, atau dipantau, stok aman untuk 7 hari ke depan."
