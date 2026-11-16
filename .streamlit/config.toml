@@ -1,0 +1,14 @@
+# Mengunci tema terang (light mode) di semua perangkat.
+# Tanpa ini, browser yang memakai Dark Mode membuat label sidebar jadi
+# putih-di-atas-putih dan dropdown tanggal jadi gelap total.
+[theme]
+base = "light"
+primaryColor = "#1E40AF"
+backgroundColor = "#F4F7FE"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false

@@ -1,0 +1,707 @@
+/* ====================================================================
+   TEWIWI BAKEHOUSE - DESIGN SYSTEM
+   Tema: Blue Doodle + Modern Bento Dashboard
+   Dials: CLARITY 3 / BRAND CHARM 2 / MOTION 1
+   ==================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+/* --------------------------------------------------------------------
+   1. DESIGN TOKENS
+   -------------------------------------------------------------------- */
+:root {
+    /* Warna inti: cobalt blue Tewiwi */
+    --tw-navy-900: #0F172A;
+    --tw-navy-800: #1E293B;
+    --tw-navy-700: #1E3A8A;
+    --tw-blue-600: #1E40AF;
+    --tw-blue-500: #2563EB;
+    --tw-blue-400: #3B82F6;
+    --tw-blue-300: #60A5FA;
+    --tw-blue-200: #93C5FD;
+    --tw-blue-100: #BFDBFE;
+    --tw-blue-050: #DBEAFE;
+    --tw-blue-025: #EFF6FF;
+    --tw-indigo-600: #4F46E5;
+
+    /* Permukaan */
+    --tw-surface: #FFFFFF;
+    --tw-bg-soft: #F4F7FE;
+    --tw-bg-tint: #E8F1FF;
+
+    /* Teks */
+    --tw-text: #0F172A;
+    --tw-text-muted: #475569;
+    --tw-text-subtle: #64748B;
+
+    /* Status semantik */
+    --tw-ok-bg: #DCFCE7;
+    --tw-ok-border: #86EFAC;
+    --tw-ok-text: #166534;
+    --tw-warn-bg: #FEF3C7;
+    --tw-warn-border: #FDE68A;
+    --tw-warn-text: #92400E;
+    --tw-danger: #EF4444;
+
+    /* Radius */
+    --tw-r-sm: 14px;
+    --tw-r-md: 18px;
+    --tw-r-lg: 22px;
+    --tw-r-xl: 24px;
+    --tw-r-pill: 999px;
+
+    /* Elevasi */
+    --tw-shadow-card: 0 8px 20px -6px rgba(30, 58, 138, 0.12);
+    --tw-shadow-strong: 0 10px 24px -6px rgba(15, 23, 42, 0.35);
+    --tw-shadow-hero: 0 12px 28px -8px rgba(30, 64, 175, 0.35);
+
+    /* Motion (dial 1: halus, tanpa animasi berulang) */
+    --tw-ease: 0.2s ease;
+
+    /* Biru Tewiwi yang sebenarnya, diambil langsung dari latar foto produk.
+       Jauh lebih teredam (saturasi 26-52%) dibanding biru framework yang
+       dipakai sebelumnya (83%). */
+    --tw-brand-deep: #2A4C80;
+    --tw-brand-blue: #3365A2;
+    --tw-brand-soft: #4A6B9E;
+
+    /* Tinggi header bawaan Streamlit. Header ini position:absolute dan
+       menumpuk di atas konten, jadi banner harus didorong turun sebanyak
+       ini agar garis atap dan badge-nya tidak terpotong. */
+    --tw-header-h: 60px;
+}
+
+/* --------------------------------------------------------------------
+   2. DASAR & LAYOUT
+   -------------------------------------------------------------------- */
+html, body, [class*="css"] {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.stApp {
+    background: linear-gradient(135deg, var(--tw-bg-soft) 0%, #F8FAFC 55%, var(--tw-bg-tint) 100%);
+    color: var(--tw-text);
+}
+
+.block-container {
+    padding-top: calc(var(--tw-header-h) + 14px) !important;
+    padding-bottom: 3rem !important;
+    max-width: 1380px;
+}
+
+/* --------------------------------------------------------------------
+   3. SIDEBAR & BRAND
+   -------------------------------------------------------------------- */
+[data-testid="stSidebar"] {
+    background: var(--tw-surface) !important;
+    border-right: 2px solid var(--tw-blue-050);
+}
+
+/* Identitas merek, gaya minimalis: tanpa kotak, border, gradien, maupun
+   bayangan. Logo berdiri langsung di atas sidebar putih, dan hanya satu
+   garis rambut yang memisahkannya dari menu. */
+.sidebar-brand {
+    text-align: center;
+    padding: 2px 0 18px 0;
+    margin-bottom: 16px;
+    border-bottom: 1px solid var(--tw-blue-050);
+}
+
+/* Logo sumbernya 150px. Lebar ini menjaga wordmark "tewiwi bakehouse"
+   tetap terbaca tanpa memperbesar melebihi resolusi aslinya. */
+.brand-logo {
+    display: block;
+    width: 136px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 10px auto;
+}
+
+.brand-sub {
+    font-size: 0.66rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--tw-text-subtle);
+    text-transform: uppercase;
+    line-height: 1.6;
+}
+
+/* Label kontrol sidebar dipaksa gelap agar tidak hilang di dark mode browser */
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] .stRadio label p {
+    color: var(--tw-text) !important;
+    font-weight: 600;
+}
+
+/* --------------------------------------------------------------------
+   4. HERO BANNER
+   -------------------------------------------------------------------- */
+/* Gradien memakai biru Tewiwi yang sebenarnya (diambil dari foto produk:
+   #3365A2 dan #667AA5), bukan biru elektrik bawaan framework. Tanpa border
+   navy dan tanpa hard shadow, sejalan dengan kartu merek di sidebar. */
+.tewiwi-hero {
+    background: linear-gradient(115deg, var(--tw-brand-deep) 0%, var(--tw-brand-blue) 48%, var(--tw-brand-soft) 100%);
+    border-radius: var(--tw-r-xl);
+    box-shadow: var(--tw-shadow-hero);
+    color: #FFFFFF;
+    margin-bottom: 24px;
+    overflow: hidden;
+    position: relative;
+    isolation: isolate;
+    /* Tinggi minimum ini menjaga rasio area foto tetap dekat dengan rasio
+       fotonya (1,9:1), sehingga kedua roti tidak terpotong lagi. */
+    min-height: 218px;
+}
+
+/* Foto produk MENEMPEL RATA ke sisi kanan banner, tanpa bingkai.
+
+   Prinsipnya sama dengan versi ponsel, hanya diputar arahnya: foto
+   dirapatkan ke tepi ATAS, KANAN, dan BAWAH banner, sehingga ketiga sisi
+   itu lenyap ditelan sudut membulat banner. Yang tersisa hanya satu batas,
+   yaitu sisi kiri, dan itulah satu-satunya yang perlu dipudarkan.
+
+   Karena tidak ada lagi bingkai, sudut membulat, maupun bayangan, fotonya
+   membaur dengan kotak alih-alih tampak ditempel di atasnya. */
+.hero-photo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    /* Lebar tetap berbasis persen (bukan dari tinggi banner) supaya kolom
+       teks bisa memesan sisa ruang secara pasti dan tidak pernah tertimpa. */
+    width: 30%;
+    transform: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* Hanya memudar ke KIRI. Sisi bawah sengaja TIDAK dipudarkan: meja krem
+       di foto jatuh tepat di dasar banner dan dipotong rapi oleh sudut
+       membulat, persis seperti di ponsel. */
+    -webkit-mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.55) 20%, #000 46%);
+    mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.55) 20%, #000 46%);
+}
+
+.tewiwi-hero-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 30px;
+    gap: 20px;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 1;
+}
+
+/* Ruang untuk teks = sisa lebar setelah kartu foto (26%) dan jaraknya.
+   Dihitung, bukan ditebak, supaya aman di setiap lebar layar. */
+.hero-text-col {
+    flex: 1 1 auto;
+    max-width: calc(70% - 40px);
+}
+
+.hero-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(255, 255, 255, 0.18);
+    border: 1.5px solid rgba(255, 255, 255, 0.45);
+    color: #FFFFFF;
+    padding: 4px 13px;
+    border-radius: var(--tw-r-pill);
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.hero-title {
+    font-size: 2.05rem;
+    font-weight: 800;
+    color: #FFFFFF !important;
+    margin: 0 0 6px 0;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+}
+
+.hero-caption {
+    font-size: 0.95rem;
+    /* #DBEAFE hanya mencapai rasio 4,43 di titik gradien paling terang,
+       gagal tipis dari ambang AA 4,5. Warna ini 4,78. */
+    color: #E8F2FF;
+    font-weight: 500;
+    margin: 0;
+}
+
+
+/* --------------------------------------------------------------------
+   5. BENTO KPI GRID
+   Grid CSS sendiri, bukan st.columns(4), supaya di ponsel menjadi 2x2
+   dan bukan 4 baris tinggi penuh.
+   -------------------------------------------------------------------- */
+.tw-bento-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+    margin-bottom: 8px;
+}
+
+.bento-card {
+    border-radius: var(--tw-r-lg);
+    padding: 20px 22px;
+    position: relative;
+    overflow: hidden;
+    min-height: 156px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform var(--tw-ease), box-shadow var(--tw-ease);
+}
+
+/* Hover elevation hanya untuk perangkat dengan kursor (dial MOTION 1) */
+@media (hover: hover) and (pointer: fine) {
+    .bento-card:hover {
+        transform: translateY(-3px);
+    }
+}
+
+.bento-urgent {
+    background: linear-gradient(135deg, var(--tw-navy-900) 0%, var(--tw-navy-800) 100%);
+    color: #FFFFFF;
+    border: 2px solid var(--tw-navy-900);
+    box-shadow: var(--tw-shadow-strong);
+}
+
+.bento-excess {
+    background: linear-gradient(135deg, var(--tw-blue-500) 0%, var(--tw-indigo-600) 100%);
+    color: #FFFFFF;
+    border: 2px solid var(--tw-navy-700);
+    box-shadow: 0 10px 24px -6px rgba(37, 99, 235, 0.35);
+}
+
+.bento-watch {
+    background: linear-gradient(135deg, var(--tw-blue-025) 0%, var(--tw-blue-050) 100%);
+    color: var(--tw-navy-700);
+    border: 2px solid var(--tw-blue-200);
+    box-shadow: var(--tw-shadow-card);
+}
+
+.bento-safe {
+    background: var(--tw-surface);
+    color: var(--tw-text);
+    border: 2px solid var(--tw-blue-100);
+    box-shadow: 0 8px 20px -6px rgba(30, 58, 138, 0.08);
+}
+
+/* Tinggi dua baris label dicadangkan, supaya label yang terbungkus jadi
+   dua baris ("Berpotensi berlebih") tidak mendorong angkanya turun.
+   Hasilnya angka 0, 1, 2, dan 7 duduk pada garis yang sama. */
+.bento-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 6px;
+    min-height: calc(2 * 1.3 * 0.88rem);
+}
+
+.bento-label {
+    font-size: 0.88rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.3;
+}
+
+.bento-badge {
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: var(--tw-r-pill);
+    white-space: nowrap;
+}
+
+.bento-value {
+    font-size: 2.65rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    margin: 8px 0 4px 0;
+    font-variant-numeric: tabular-nums;
+}
+
+.bento-foot {
+    font-size: 0.76rem;
+    opacity: 0.85;
+    font-weight: 500;
+}
+
+/* --------------------------------------------------------------------
+   6. SECTION HEADER & PILL
+   -------------------------------------------------------------------- */
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 22px 0 12px 0;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.section-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--tw-navy-700);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+}
+
+.pill-group {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px;
+    border-radius: var(--tw-r-pill);
+    font-size: 0.76rem;
+    font-weight: 700;
+    border: 1.5px solid var(--tw-blue-100);
+    background: var(--tw-surface);
+    color: var(--tw-navy-700);
+}
+
+.status-pill-ok {
+    background: var(--tw-ok-bg);
+    border-color: var(--tw-ok-border);
+    color: var(--tw-ok-text);
+}
+
+.status-pill-warn {
+    background: var(--tw-warn-bg);
+    border-color: var(--tw-warn-border);
+    color: var(--tw-warn-text);
+}
+
+/* Container narasi owner: aksen garis kiri biru, senada dengan kartu
+   pipeline, plus ruang baca yang lebih lapang.
+
+   Catatan: Streamlit 1.67 TIDAK lagi memakai stVerticalBlockBorderWrapper.
+   Kotak ini ditandai lewat st.container(key="narasi_owner"), yang membuat
+   kelas .st-key-narasi_owner, sehingga style di bawah hanya mengenai kotak
+   narasi dan tidak merembet ke wrapper layout lain. */
+.st-key-narasi_owner {
+    background: var(--tw-surface) !important;
+    border: 2px solid var(--tw-blue-200) !important;
+    border-left: 6px solid var(--tw-blue-500) !important;
+    border-radius: 18px !important;
+    padding: 20px 26px 18px 24px !important;
+    box-shadow: 0 10px 25px -8px rgba(30, 58, 138, 0.1) !important;
+}
+
+/* Jarak baca di dalam kotak narasi */
+.st-key-narasi_owner [data-testid="stMarkdown"] p {
+    line-height: 1.65;
+    margin-bottom: 0.65rem;
+}
+
+.st-key-narasi_owner [data-testid="stMarkdown"] ul {
+    margin: 0.2rem 0 0.9rem 0;
+    padding-left: 1.35rem;
+}
+
+.st-key-narasi_owner [data-testid="stMarkdown"] li {
+    line-height: 1.6;
+    margin-bottom: 0.2rem;
+}
+
+/* Subjudul bagian di dalam narasi (Perlu dibeli, dst.) diberi warna navy
+   agar kepala daftarnya langsung terbaca saat disapu mata. */
+.st-key-narasi_owner [data-testid="stMarkdown"] strong {
+    color: var(--tw-navy-700);
+}
+
+/* --------------------------------------------------------------------
+   7. PIPELINE STEP CARDS (halaman Tentang sistem)
+   -------------------------------------------------------------------- */
+.pipeline-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 12px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.pipeline-step {
+    background: var(--tw-surface);
+    border: 1.5px solid var(--tw-blue-100);
+    border-left: 5px solid var(--tw-blue-500);
+    border-radius: var(--tw-r-sm);
+    padding: 14px 16px;
+    box-shadow: 0 4px 12px rgba(30, 58, 138, 0.05);
+}
+
+.step-num {
+    font-size: 0.72rem;
+    font-weight: 800;
+    color: var(--tw-blue-500);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.step-title {
+    font-size: 0.96rem;
+    font-weight: 800;
+    color: var(--tw-text);
+    margin: 2px 0 4px 0;
+}
+
+.step-desc {
+    font-size: 0.83rem;
+    color: var(--tw-text-muted);
+    margin: 0;
+    line-height: 1.45;
+}
+
+/* --------------------------------------------------------------------
+   8. METRIC OVERRIDE
+   -------------------------------------------------------------------- */
+[data-testid="stMetric"] {
+    background: var(--tw-surface);
+    border: 1.8px solid var(--tw-blue-100);
+    border-radius: var(--tw-r-md);
+    padding: 16px 18px;
+    box-shadow: 0 6px 16px -6px rgba(30, 58, 138, 0.08);
+}
+
+[data-testid="stMetricLabel"] {
+    font-weight: 700 !important;
+    color: var(--tw-text-muted) !important;
+}
+
+[data-testid="stMetricValue"] {
+    font-weight: 800 !important;
+    color: var(--tw-navy-700) !important;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Angka tabel sejajar desimalnya */
+[data-testid="stDataFrame"] {
+    font-variant-numeric: tabular-nums;
+}
+
+/* --------------------------------------------------------------------
+   8b. RESPONSIVE: BANNER MENUMPUK (<= 1199px)
+
+   Foto di samping hanya bekerja kalau ada cukup lebar. Di bawah 1200px,
+   30% lebar banner tidak lagi muat menampung foto berasio 1,5 setinggi
+   banner, sehingga cover memotong sisinya sampai sepertiga dan justru
+   menonjolkan meja krem.
+
+   Maka di bawah lebar itu banner memakai pola yang sama dengan ponsel:
+   teks di atas, foto melebar penuh menempel dasar banner.
+   -------------------------------------------------------------------- */
+@media (max-width: 1199px) {
+    .tewiwi-hero {
+        min-height: 0;
+    }
+
+    .tewiwi-hero-body {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .hero-text-col {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+
+    .hero-photo {
+        position: static;
+        width: 100%;
+        max-width: none;
+        transform: none;
+        inset: auto;
+        margin: 0;
+        aspect-ratio: 1.85;
+        background-position: center 38%;
+        -webkit-mask-image: none;
+        mask-image: none;
+    }
+}
+
+/* --------------------------------------------------------------------
+   9. RESPONSIVE: TABLET (<= 992px)
+   -------------------------------------------------------------------- */
+@media (max-width: 992px) {
+    .tw-bento-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+
+    .hero-title {
+        font-size: 1.75rem;
+    }
+
+    .tewiwi-hero-body {
+        padding: 20px 22px;
+    }
+}
+
+/* --------------------------------------------------------------------
+   10. RESPONSIVE: MOBILE (<= 768px)
+   Hero menumpuk, bento tetap 2x2 agar keempat angka terlihat
+   tanpa harus scroll.
+   -------------------------------------------------------------------- */
+@media (max-width: 768px) {
+    .block-container {
+        padding-top: calc(var(--tw-header-h) + 6px) !important;
+        padding-left: 0.9rem !important;
+        padding-right: 0.9rem !important;
+    }
+
+    .tewiwi-hero {
+        margin-bottom: 14px;
+        /* Di ponsel tinggi banner mengikuti isinya; min-height desktop
+           akan membuatnya terlalu tinggi dan mendorong kartu KPI
+           ke bawah lipatan. */
+        min-height: 0;
+    }
+
+    .tewiwi-hero-body {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 14px 16px 14px 16px;
+        gap: 10px;
+    }
+
+    .hero-text-col {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+
+    /* Di ponsel foto turun jadi pita penuh di bawah teks, bukan di samping.
+       Tingginya dijaga agar keempat kartu KPI tetap terlihat tanpa
+       menggulir di layar 844px. */
+    .hero-photo {
+        position: static;
+        /* Di ponsel foto dibuat FULL-BLEED menempel tepi banner, tanpa
+           bingkai dan tanpa margin.
+
+           Kuncinya ada pada komposisi fotonya sendiri: bagian ATAS foto
+           adalah latar biru studio, jadi ia menyambung mulus dengan biru
+           banner di atasnya. Bagian BAWAH yang krem (meja) jatuh tepat di
+           dasar banner, lalu dipotong rapi oleh sudut membulat banner.
+           Hasilnya tiga dari empat sisi lenyap, dan tidak ada satu pun
+           tepi kotak yang terlihat. */
+        width: 100%;
+        /* Wajib dinolkan: transform dan max-width dari aturan desktop ikut
+           terbawa ke sini, dan transform membuat foto naik menimpa caption. */
+        transform: none;
+        max-width: none;
+        /* Rasio dipendekkan dari 1,5 ke 1,85 supaya banner tidak terlalu
+           tinggi dan keempat kartu KPI tetap terlihat tanpa menggulir.
+           Pemotongannya diambil dari BAWAH (posisi 38%), yaitu bagian meja
+           krem yang memang paling tidak dibutuhkan. */
+        aspect-ratio: 1.85;
+        height: auto;
+        inset: auto;
+        margin: 0;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+        background-position: center 38%;
+        z-index: 0;
+    }
+
+    .hero-pill {
+        font-size: 0.66rem;
+        padding: 3px 10px;
+        margin-bottom: 6px;
+    }
+
+    .hero-title {
+        font-size: 1.38rem;
+        margin-bottom: 4px;
+    }
+
+    .hero-caption {
+        font-size: 0.82rem;
+        line-height: 1.35;
+    }
+
+    .tw-bento-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .bento-card {
+        min-height: 128px;
+        padding: 14px 15px;
+        border-radius: var(--tw-r-md);
+    }
+
+    .bento-value {
+        font-size: 2.1rem;
+        margin: 6px 0 2px 0;
+    }
+
+    .bento-label {
+        font-size: 0.78rem;
+    }
+
+    .bento-top {
+        min-height: calc(2 * 1.3 * 0.78rem);
+    }
+
+    .bento-badge {
+        display: none; /* ruang ponsel terbatas: emoji + label sudah cukup */
+    }
+
+    .bento-foot {
+        font-size: 0.7rem;
+        line-height: 1.3;
+    }
+
+    .section-title {
+        font-size: 1.08rem;
+    }
+
+    .st-key-narasi_owner {
+        padding: 16px 16px 14px 15px !important;
+        border-left-width: 5px !important;
+    }
+}
+
+/* --------------------------------------------------------------------
+   11. RESPONSIVE: PONSEL KECIL (<= 640px)
+   -------------------------------------------------------------------- */
+@media (max-width: 640px) {
+    .hero-photo {
+        margin: 0;
+    }
+
+    .hero-title {
+        font-size: 1.28rem;
+    }
+
+    .bento-card {
+        min-height: 116px;
+    }
+
+    .bento-value {
+        font-size: 1.85rem;
+    }
+
+    .bento-foot {
+        font-size: 0.66rem;
+    }
+
+    .section-header {
+        margin: 18px 0 10px 0;
+    }
+}
